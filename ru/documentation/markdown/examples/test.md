@@ -2,9 +2,13 @@
 title: test
 displayName: Тестовая страница
 published: true
-order: 3
+order: 1
 ---
 # Сервер лицензирования
+
+{{ name }}
+{{ company.name }}
+{{ deep.company.name }}
 
 NgDoc is just a library, so first you need to create an Angular application that will be used to display
 documentation, it can be a separate application or an existing one.
