@@ -1,7 +1,7 @@
 ---
 title: Хлебные крошки
 displayName: Хлебные крошки
-order: 50
+order: 20
 published: true
 ---
 
