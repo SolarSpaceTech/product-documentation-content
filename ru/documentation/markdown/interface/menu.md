@@ -1,7 +1,7 @@
 ---
 title: Навигация по статьям
 displayName: Навигация по статьям
-order: 40
+order: 10
 published: true
 ---
 
