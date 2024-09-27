@@ -1,5 +1,5 @@
 ---
 displayName: Документация
 published: true
-order: 50
+order: 1
 ---
