@@ -2,7 +2,7 @@
 title: Описание categoryDescription - Мета свойства
 displayName: categoryDescription
 order: 90
-published: false
+published: true
 historyName: Описание мета свойства categoryDescription
 historyDescription: Мета-свойство categoryDescription задаёт краткое описание статьи в секции на главной странице для улучшения навигации.
 ---
