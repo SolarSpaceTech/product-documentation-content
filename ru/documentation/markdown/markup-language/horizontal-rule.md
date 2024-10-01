@@ -3,10 +3,11 @@ title: Разделитель
 displayName: Разделитель
 order: 50
 published: true
+historyName: Разделитель
+historyDescription: Использование в Markdown-разметки
 ---
 
 # Разделитель
-
 Разделительная полоса. Позволяет отделить блоки. Синтаксис
 
 ```md

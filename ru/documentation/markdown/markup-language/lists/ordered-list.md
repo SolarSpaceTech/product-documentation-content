@@ -3,6 +3,8 @@ title: Упорядоченные списки
 displayName: Упорядоченные
 order: 20
 published: true
+historyName: Упорядоченные списки
+historyDescription: Использование в Markdown-разметки
 ---
 
 # Упорядоченные списки

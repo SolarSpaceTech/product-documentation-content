@@ -3,6 +3,8 @@ title: Заголовки
 displayName: Заголовки
 order: 10
 published: true
+historyName: Заголовки
+historyDescription: Использование в Markdown-разметки
 ---
 
 # Заголовки

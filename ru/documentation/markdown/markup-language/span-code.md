@@ -3,6 +3,8 @@ title: Строчный выделитель
 displayName: Строчный выделитель
 order: 90
 published: true
+historyName: Строчный выделитель
+historyDescription: Использование в Markdown-разметки
 ---
 
 # Строчный выделитель

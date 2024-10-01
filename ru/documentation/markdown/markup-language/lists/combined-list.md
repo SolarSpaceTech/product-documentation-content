@@ -3,6 +3,8 @@ title: Комбинированные списки
 displayName: Комбинированные
 order: 30
 published: true
+historyName: Комбинированные списки
+historyDescription: Использование в Markdown-разметки
 ---
 
 # Комбинированные списки

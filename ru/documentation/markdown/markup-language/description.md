@@ -3,6 +3,8 @@ title: Описание
 displayName: Описание
 order: 1
 published: true
+historyName: Оглавление по Markdown разметке
+historyDescription: Список
 ---
 
 # Описание разметки

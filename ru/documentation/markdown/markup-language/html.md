@@ -3,6 +3,8 @@ title: HTML
 displayName: HTML
 order: 140
 published: true
+historyName: HTML
+historyDescription: Использование в Markdown-разметки
 ---
 
 # HTML

@@ -3,6 +3,8 @@ title: Изображения
 displayName: Изображения
 order: 110
 published: true
+historyName: Изображения
+historyDescription: Использование в Markdown-разметки
 ---
 
 # Изображения

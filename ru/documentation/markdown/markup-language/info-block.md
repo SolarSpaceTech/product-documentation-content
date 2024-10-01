@@ -3,6 +3,8 @@ title: Информационные блоки
 displayName: Информационные блоки
 order: 130
 published: true
+historyName: Информационные блоки
+historyDescription: Использование в Markdown-разметки
 ---
 
 # Информационные блоки

@@ -3,6 +3,8 @@ title: Ссылки
 displayName: Ссылки
 order: 30
 published: true
+historyName: Ссылки
+historyDescription: Использование в Markdown-разметки
 ---
 
 # Ссылки

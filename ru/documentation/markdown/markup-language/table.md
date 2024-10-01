@@ -3,6 +3,8 @@ title: Таблицы
 displayName: Таблицы
 order: 120
 published: true
+historyName: Таблицы
+historyDescription: Использование в Markdown-разметки
 ---
 
 # Таблицы

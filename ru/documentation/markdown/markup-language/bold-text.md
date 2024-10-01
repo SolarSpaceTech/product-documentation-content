@@ -3,6 +3,8 @@ title: Жирный текст
 displayName: Жирный текст
 order: 80
 published: true
+historyName: Жирный текст
+historyDescription: Использование в Markdown-разметки
 ---
 
 # Жирный текст

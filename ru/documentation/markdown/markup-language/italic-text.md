@@ -3,6 +3,8 @@ title: Наклонный текст
 displayName: Наклонный текст
 order: 70
 published: true
+historyName: Наклонный текст
+historyDescription: Использование в Markdown-разметки
 ---
 
 # Наклонный текст

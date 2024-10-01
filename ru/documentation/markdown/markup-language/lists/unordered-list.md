@@ -3,6 +3,8 @@ title: Неупорядоченные списки
 displayName: Неупорядоченные
 order: 10
 published: true
+historyName: Неупорядоченные списки
+historyDescription: Использование в Markdown-разметки
 ---
 
 # Неупорядоченные списки
