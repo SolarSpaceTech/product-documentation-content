@@ -2,7 +2,7 @@
 title: Описание headerOrder - Мета свойства
 displayName: headerOrder
 order: 130
-published: false
+published: true
 historyName: Описание мета свойства headerOrder
 historyDescription: Мета-свойство headerOrder определяет порядок отображения ссылок в шапке документации, улучшая навигацию и доступ к важным разделам.
 ---

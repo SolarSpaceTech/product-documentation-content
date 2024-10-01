@@ -2,7 +2,7 @@
 title: Описание headerName - Мета свойства
 displayName: headerName
 order: 120
-published: false
+published: true
 historyName: Описание мета свойства headerName
 historyDescription: Мета-свойство headerName задаёт название ссылки на статью, отображаемой в шапке документации для быстрого доступа к важным разделам.
 ---
