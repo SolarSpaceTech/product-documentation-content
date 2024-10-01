@@ -13,7 +13,7 @@ historyDescription: Мета-свойство categoryName задает назв
 
 **Тип данных:** Строка
 
----
+<br/>
 
 ## [Описание](description)
 
