@@ -32,11 +32,16 @@ historyDescription: Структурирует контент, упрощают 
 
 ### Основные мета свойства для секций:
 
-- **`category`**: Определяет секцию на главной странице, в которой будет отображаться статья. Примеры: `start`, `services`, `useful`, `faq`.
+- **`category`**: Определяет секцию на главной странице, в которой будет отображаться статья. Примеры: `start`("Начало работы"), `services`("Сервисы"), `useful`("Настройки ресурсов"), `faq`("FAQ").
+![Влияние cвойства category](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category.png)
 - **`categoryName`**: Название статьи в секции на главной странице.
+![Влияние cвойства categoryName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-name.png)
 - **`categoryDescription`**: Краткое описание статьи для отображения в секции.
+![Влияние cвойства categoryDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-description.png)
 - **`categoryOrder`**: Порядок отображения статьи внутри секции.
+![Влияние cвойства categoryOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-order.png)
 - **`categoryIcon`**: Иконка, отображаемая рядом с названием статьи в секции.
+![Влияние cвойства categoryIcon](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-icon.png)
 
 ### Пример мета данных для статьи:
 
