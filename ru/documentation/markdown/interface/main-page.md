@@ -13,6 +13,8 @@ historyDescription: Структурирует контент, упрощают 
 информации, облегчая пользователям поиск и доступ к наиболее важным разделам и статьям. Каждая секция может содержать одну или несколько статей, которые связаны
 мета свойством `category`.
 
+![Секции главной страницы](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/main-page-blocks.png)
+
 <br/>
 
 ## [Основные функции](basic-functions)
