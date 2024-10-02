@@ -1,5 +1,5 @@
 ---
-title: Изображения
+title: Изображения - Markdown-разметка
 displayName: Изображения
 order: 110
 published: true

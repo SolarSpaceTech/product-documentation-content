@@ -1,5 +1,5 @@
 ---
-title: Таблицы
+title: Таблицы - Markdown-разметка
 displayName: Таблицы
 order: 120
 published: true

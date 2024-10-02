@@ -1,5 +1,5 @@
 ---
-title: Описание
+title: Описание - Markdown-разметка
 displayName: Описание
 order: 1
 published: true
@@ -27,3 +27,4 @@ historyDescription: Список
 12. [Таблицы](/ru/documentation/markdown/markup-language/table)
 13. [Информационные блоки](/ru/documentation/markdown/markup-language/info-block)
 14. [HTML разметка](/ru/documentation/markdown/markup-language/html)
+15. [Переменные](/ru/documentation/markdown/markup-language/variables)

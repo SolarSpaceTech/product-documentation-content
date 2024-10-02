@@ -1,5 +1,5 @@
 ---
-title: Строчный выделитель
+title: Строчный выделитель - Markdown-разметка
 displayName: Строчный выделитель
 order: 90
 published: true

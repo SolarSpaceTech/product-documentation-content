@@ -1,5 +1,5 @@
 ---
-title: Информационные блоки
+title: Информационные блоки - Markdown-разметка
 displayName: Информационные блоки
 order: 130
 published: true

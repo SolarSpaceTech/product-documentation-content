@@ -1,5 +1,5 @@
 ---
-title: Абзац
+title: Абзац - Markdown-разметка
 displayName: Абзац
 order: 20
 published: true

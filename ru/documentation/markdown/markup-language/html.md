@@ -1,5 +1,5 @@
 ---
-title: HTML
+title: HTML - Markdown-разметка
 displayName: HTML
 order: 140
 published: true

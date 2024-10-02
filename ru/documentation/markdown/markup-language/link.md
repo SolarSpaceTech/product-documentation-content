@@ -1,5 +1,5 @@
 ---
-title: Ссылки
+title: Ссылки - Markdown-разметка
 displayName: Ссылки
 order: 30
 published: true

@@ -1,5 +1,5 @@
 ---
-title: Блочный код
+title: Блочный код - Markdown-разметка
 displayName: Блочный код
 order: 100
 published: true

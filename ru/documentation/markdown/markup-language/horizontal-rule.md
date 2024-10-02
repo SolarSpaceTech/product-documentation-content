@@ -1,5 +1,5 @@
 ---
-title: Разделитель
+title: Разделитель - Markdown-разметка
 displayName: Разделитель
 order: 50
 published: true

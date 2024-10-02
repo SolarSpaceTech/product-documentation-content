@@ -1,5 +1,5 @@
 ---
-title: Жирный текст
+title: Жирный текст - Markdown-разметка
 displayName: Жирный текст
 order: 80
 published: true

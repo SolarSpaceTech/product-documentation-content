@@ -1,5 +1,5 @@
 ---
-title: Заголовки
+title: Заголовки - Markdown-разметка
 displayName: Заголовки
 order: 10
 published: true

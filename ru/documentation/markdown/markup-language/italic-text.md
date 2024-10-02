@@ -1,5 +1,5 @@
 ---
-title: Наклонный текст
+title: Наклонный текст - Markdown-разметка
 displayName: Наклонный текст
 order: 70
 published: true
