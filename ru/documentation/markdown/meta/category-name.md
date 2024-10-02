@@ -13,6 +13,10 @@ historyDescription: Мета-свойство categoryName задает назв
 
 **Тип данных:** Строка
 
+**Область влияния:**
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-name.png)
+
+
 <br/>
 
 ## [Описание](description)

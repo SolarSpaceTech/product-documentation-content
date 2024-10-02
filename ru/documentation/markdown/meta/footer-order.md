@@ -13,6 +13,9 @@ historyDescription: Мета-свойство footerOrder определяет �
 
 **Тип данных:** Число
 
+**Область влияния:**
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/footer-order.png)
+
 <br/>
 
 ## [Описание](description)

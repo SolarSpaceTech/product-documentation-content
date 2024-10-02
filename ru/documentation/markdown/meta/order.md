@@ -13,6 +13,9 @@ historyDescription: Мета-свойство order определяет пор�
 
 **Тип данных:** Число
 
+**Область влияния:**
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/order.png)
+
 <br/>
 
 ## [Описание](description)

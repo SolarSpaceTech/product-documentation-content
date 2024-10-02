@@ -19,6 +19,15 @@ historyDescription: Мета-свойство category определяет се
 - **`useful`**: Секция для полезных статей, советов или руководств.
 - **`faq`**: Раздел с часто задаваемыми вопросами и ответами на них.
 
+**Область влияния:**
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category.png)
+
+Где секции:
+- "Начало работы" соответствует `start`,
+- "Сервисы" соответствует `services`,
+- "Настройки ресурсов" соответствует `useful`,
+- "FAQ" соответствует `faq`,
+
 <br/>
 
 ## [Описание](description)

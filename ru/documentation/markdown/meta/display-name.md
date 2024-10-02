@@ -13,6 +13,10 @@ historyDescription: Мета-свойство displayName задает крат�
 
 **Тип данных:** Строка
 
+**Область влияния:**
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/display-name.png)
+
+
 <br/>
 
 ## [Описание](description)
