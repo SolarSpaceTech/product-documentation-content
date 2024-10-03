@@ -30,7 +30,9 @@ historyDescription: Меню документации упрощает нави�
 Меню документации настраивается с помощью следующих мета свойств, указанных в мета данных Markdown-файлов:
 
 - **`displayName`:** Определяет название раздела или статьи, отображаемое в меню и хлебных крошках.
+![Влияние cвойства displayName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/display-name.png)
 - **`order`:** Указывает порядок отображения разделов и статей в меню.
+![Влияние cвойства order](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/order.png)
 - **`published`:** Управляет видимостью раздела или статьи в меню и навигации. Если установлено в `false`, элемент не отображается.
 
 <br/>
@@ -38,9 +40,7 @@ historyDescription: Меню документации упрощает нави�
 ## [Влияние мета свойств](impact-of-meta-properties)
 
 - `displayName` используется в качестве названия элемента меню и элемента хлебных крошек.
-![Влияние cвойства displayName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/display-name.png)
 - `order` сортирует элементы меню по возрастанию значения.
-![Влияние cвойства order](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/order.png)
 - `published` если установлено в `false`, раздел или статья не отображаются в меню и навигации. Вложенные элементы не будут отображаться,
 если родительский раздел имеет `published: false`.
 
