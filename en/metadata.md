@@ -1,5 +1,4 @@
 ---
-title: metadata
-displayName: Русский
+displayName: English
 published: true
 ---
