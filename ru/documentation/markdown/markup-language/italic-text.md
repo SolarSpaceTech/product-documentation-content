@@ -1,13 +1,13 @@
 ---
-title: Наклонный текст - Markdown-разметка
-displayName: Наклонный текст
+title: Курсивный текст - Markdown-разметка
+displayName: Курсивный текст
 order: 70
 published: true
-historyName: Наклонный текст
+historyName: Курсивный текст
 historyDescription: Использование в Markdown-разметки
 ---
 
-# Наклонный текст
+# Курсивный текст
 В данном разделе приведён пример использования наклонного текста.
 
 <br/>
