@@ -13,7 +13,7 @@ category: Начало работы
 categoryName: Шапка документации
 categoryDescription: Шапка сайта предоставляет быстрый доступ к ключевым разделам, улучшая навигацию и настройку через мета свойства.
 categoryOrder: 1
-categoryIcon: /icons/deepdive.svg
+categoryIcon: https://img.solarspace.pro/docs/microchip.svg
 ---
 
 # Шапка документации

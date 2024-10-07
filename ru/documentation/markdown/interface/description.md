@@ -13,7 +13,7 @@ category: Настройка ресурсов
 categoryName: Описание
 categoryDescription: Краткое описание элементов интерфейса.
 categoryOrder: 3
-categoryIcon: /icons/deepdive.svg
+categoryIcon: https://img.solarspace.pro/docs/desktop.svg
 ---
 
 # Описание элементов документации

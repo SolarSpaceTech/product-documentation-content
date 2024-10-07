@@ -35,15 +35,15 @@ historyDescription: Структурирует контент, упрощают 
 ### Основные мета свойства для секций:
 
 - **`category`**: Определяет секцию на главной странице, в которой будет отображаться статья. Примеры: `start`("Начало работы"), `services`("Сервисы"), `useful`("Настройки ресурсов"), `faq`("FAQ").
-![Влияние cвойства category](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category.png)
+  ![Влияние cвойства category](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category.png)
 - **`categoryName`**: Название статьи в секции на главной странице.
-![Влияние cвойства categoryName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-name.png)
+  ![Влияние cвойства categoryName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-name.png)
 - **`categoryDescription`**: Краткое описание статьи для отображения в секции.
-![Влияние cвойства categoryDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-description.png)
+  ![Влияние cвойства categoryDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-description.png)
 - **`categoryOrder`**: Порядок отображения статьи внутри секции.
-![Влияние cвойства categoryOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-order.png)
+  ![Влияние cвойства categoryOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-order.png)
 - **`categoryIcon`**: Иконка, отображаемая рядом с названием статьи в секции.
-![Влияние cвойства categoryIcon](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-icon.png)
+  ![Влияние cвойства categoryIcon](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-icon.png)
 
 ### Пример мета данных для статьи:
 
@@ -59,6 +59,7 @@ categoryDescription: Быстрый старт с нашим сервисом.
 categoryOrder: 10
 categoryIcon: /icons/quickstart.svg
 ---
+
 # Быстрый старт
 
 Добро пожаловать в руководство по быстрому началу работы...
@@ -101,6 +102,7 @@ categoryDescription: Для опытных пользователей
 categoryOrder: 20
 categoryIcon: /icons/deepdive.svg
 ---
+
 # Глубокое погружение
 
 В этом руководстве мы подробно рассмотрим...
@@ -151,6 +153,7 @@ categoryDescription: Узнайте, как быстро начать польз
 categoryOrder: 10
 categoryIcon: /icons/quickstart.svg
 ---
+
 # Быстрый старт
 
 Добро пожаловать в руководство по быстрому началу работы...
@@ -170,6 +173,7 @@ categoryDescription: Продвинутое использование серв�
 categoryOrder: 20
 categoryIcon: /icons/advanced-use.svg
 ---
+
 # Быстрый старт
 
 Добро пожаловать в руководство по быстрому началу работы...
@@ -189,6 +193,7 @@ categoryDescription: Профессиональные консультации �
 categoryOrder: 10
 categoryIcon: /icons/consulting.svg
 ---
+
 # Консалтинг
 
 Мы предлагаем экспертные консультации в области...
@@ -208,6 +213,7 @@ categoryDescription: Читайте если есть вопросы
 categoryOrder: 10
 categoryIcon: /icons/support.svg
 ---
+
 # Консалтинг
 
 Мы предлагаем экспертные консультации в области...
@@ -240,9 +246,10 @@ categoryDescription: Неразработанные разделы и стать
 categoryOrder: 1
 categoryIcon: /icons/drafts.svg
 ---
+
 # Черновики
 
-*Эта секция находится в разработке и будет доступна позже.*
+_Эта секция находится в разработке и будет доступна позже._
 ```
 
 **Результат:** Секция "Черновики" не отображается на главной странице, так как `published: false`.
