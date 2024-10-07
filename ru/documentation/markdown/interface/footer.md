@@ -13,7 +13,7 @@ category: Сервисы
 categoryName: Подвал документации
 categoryDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
 categoryOrder: 2
-categoryIcon: /icons/deepdive.svg
+categoryIcon: https://img.solarspace.pro/docs/users.svg
 ---
 
 # Подвал документации

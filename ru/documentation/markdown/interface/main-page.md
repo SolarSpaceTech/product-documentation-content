@@ -48,16 +48,16 @@ categories:
   - FAQ
 ---
 ```
-![Влияние cвойства category](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category.png)
+![Влияние свойства category](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category.png)
 - **`category`**: Определяет секцию на главной странице, в которой будет отображаться статья. Примеры: `Начало работы`, `Сервисы`, `Настройки ресурсов`, `FAQ`.
 - **`categoryName`**: Название статьи в секции на главной странице.
-![Влияние cвойства categoryName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-name.png)
+![Влияние свойства categoryName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-name.png)
 - **`categoryDescription`**: Краткое описание статьи для отображения в секции.
-![Влияние cвойства categoryDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-description.png)
+![Влияние свойства categoryDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-description.png)
 - **`categoryOrder`**: Порядок отображения статьи внутри секции.
-![Влияние cвойства categoryOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-order.png)
+![Влияние свойства categoryOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-order.png)
 - **`categoryIcon`**: Иконка, отображаемая рядом с названием статьи в секции.
-![Влияние cвойства categoryIcon](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-icon.png)
+![Влияние свойства categoryIcon](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-icon.png)
 
 ### Пример мета данных для статьи:
 
@@ -73,6 +73,7 @@ categoryDescription: Быстрый старт с нашим сервисом.
 categoryOrder: 10
 categoryIcon: /icons/quickstart.svg
 ---
+
 # Быстрый старт
 
 Добро пожаловать в руководство по быстрому началу работы...
@@ -120,6 +121,7 @@ categoryDescription: Для опытных пользователей
 categoryOrder: 20
 categoryIcon: /icons/deepdive.svg
 ---
+
 # Глубокое погружение
 
 В этом руководстве мы подробно рассмотрим...
@@ -168,6 +170,7 @@ categoryDescription: Узнайте, как быстро начать польз
 categoryOrder: 10
 categoryIcon: /icons/quickstart.svg
 ---
+
 # Быстрый старт
 
 Добро пожаловать в руководство по быстрому началу работы...
@@ -206,6 +209,7 @@ categoryDescription: Профессиональные консультации �
 categoryOrder: 10
 categoryIcon: /icons/consulting.svg
 ---
+
 # Консалтинг
 
 Мы предлагаем экспертные консультации в области...
@@ -225,6 +229,7 @@ categoryDescription: Читайте если есть вопросы
 categoryOrder: 10
 categoryIcon: /icons/support.svg
 ---
+
 # Консалтинг
 
 Мы предлагаем экспертные консультации в области...
@@ -257,9 +262,10 @@ categoryDescription: Неразработанные разделы и стать
 categoryOrder: 1
 categoryIcon: /icons/drafts.svg
 ---
+
 # Черновики
 
-*Эта секция находится в разработке и будет доступна позже.*
+_Эта секция находится в разработке и будет доступна позже._
 ```
 
 **Результат:** Документ "Черновики" не отображается на главной странице, так как `published: false`.

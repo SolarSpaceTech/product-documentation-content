@@ -13,7 +13,7 @@ category: FAQ
 categoryName: Хлебные крошки
 categoryDescription: Меню документации упрощает навигацию и структуру разделов с помощью мета свойств `displayName`, `order`, `published`.
 categoryOrder: 4
-categoryIcon: /icons/deepdive.svg
+categoryIcon: https://img.solarspace.pro/docs/waf.svg
 ---
 
 # Хлебные крошки документации
