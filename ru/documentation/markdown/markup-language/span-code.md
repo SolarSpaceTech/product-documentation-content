@@ -1,4 +1,5 @@
 ---
+id: 27
 title: Строчный выделитель - Markdown-разметка
 displayName: Строчный выделитель
 order: 90

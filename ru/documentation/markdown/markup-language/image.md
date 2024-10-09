@@ -1,4 +1,5 @@
 ---
+id: 21
 title: Изображения - Markdown-разметка
 displayName: Изображения
 order: 110
