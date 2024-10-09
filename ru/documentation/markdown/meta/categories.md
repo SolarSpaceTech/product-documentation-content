@@ -1,4 +1,5 @@
 ---
+id: 30
 title: Описание categories - Мета свойства
 displayName: categories
 order: 65

@@ -1,4 +1,5 @@
 ---
+id: 33
 title: Описание categoryIcon - Мета свойства
 displayName: categoryIcon
 order: 110

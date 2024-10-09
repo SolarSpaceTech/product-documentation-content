@@ -1,4 +1,5 @@
 ---
+id: 4
 title: Хлебные крошки - Интерфейс документации
 displayName: Хлебные крошки
 order: 50
@@ -148,4 +149,4 @@ published: true
 
 ## [Дополнительные ресурсы](additional-resources)
 
-- [Подробное описание мета свойства `displayName`](/ru/documentation/markdown/meta/display-name)
+- [Подробное описание мета свойства `displayName`]([37])
