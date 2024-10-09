@@ -11,7 +11,7 @@ historyDescription: Структурирует контент, упрощают 
 
 Секции главной страницы документации представляют собой организованные блоки контента, отображаемые на главной странице. Они предназначены для структурирования
 информации, облегчая пользователям поиск и доступ к наиболее важным разделам и статьям. Каждая секция может содержать одну или несколько статей, которые связаны
-мета свойством `category`.
+мета свойством `categories` языкового раздела и свойством `category` определенной статьи.
 
 ![Секции главной страницы](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/main-page-blocks.png)
 
@@ -19,7 +19,9 @@ historyDescription: Структурирует контент, упрощают 
 
 ## [Основные функции](basic-functions)
 
-- **Организация контента:** Секции позволяют разбить документацию на логичные категории, такие как "Начало работы", "Сервисы", "Настройки ресурсов", "FAQ".
+- **Организация контента:** Секции позволяют разбить документацию на логичные категории указанные в поле `categories`, такие как `Начало работы`,
+`Сервисы`, `Настройки ресурсов`, `FAQ`. С помощью свойства `category` можно выбрать одну из секций указанную в `categories`, в которой будет
+отображаться контент.
 - **Упрощение навигации:** Пользователи могут быстро находить нужные разделы и переходить к ним, не тратя время на поиск информации.
 - **Визуальное разделение:** Разные секции могут иметь свои иконки и описания, что делает интерфейс более понятным.
 - **Приоритетность контента:** С помощью порядка отображения можно выделить наиболее важные или актуальные разделы.
@@ -30,20 +32,32 @@ historyDescription: Структурирует контент, упрощают 
 ## [Настройка с помощью мета свойств](customization-using-meta-properties)
 
 Для конфигурации секций главной страницы документации используются определенные мета свойства, которые указываются в начале Markdown-файлов. Эти свойства
-позволяют определить, в какую секцию будет помещена статья, как она будет отображаться и в каком порядке будет расположена.
+позволяют определить, какие будут секции, в какую секцию будет помещена статья, как она будет отображаться и в каком порядке будет расположена.
 
 ### Основные мета свойства для секций:
 
-- **`category`**: Определяет секцию на главной странице, в которой будет отображаться статья. Примеры: `start`("Начало работы"), `services`("Сервисы"), `useful`("Настройки ресурсов"), `faq`("FAQ").
-![Влияние cвойства category](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category.png)
+- **`categories`**: Определяет названия и порядок секций на главной странице в языковом `metadata.md` файле, в которых будет отображаться статья. Пример:
+```markdown
+---
+displayName: Русский
+published: true
+categories:
+  - Начало работы
+  - Сервисы
+  - Настройка ресурсов
+  - FAQ
+---
+```
+![Влияние свойства category](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category.png)
+- **`category`**: Определяет секцию на главной странице, в которой будет отображаться статья. Примеры: `Начало работы`, `Сервисы`, `Настройки ресурсов`, `FAQ`.
 - **`categoryName`**: Название статьи в секции на главной странице.
-![Влияние cвойства categoryName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-name.png)
+![Влияние свойства categoryName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-name.png)
 - **`categoryDescription`**: Краткое описание статьи для отображения в секции.
-![Влияние cвойства categoryDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-description.png)
+![Влияние свойства categoryDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-description.png)
 - **`categoryOrder`**: Порядок отображения статьи внутри секции.
-![Влияние cвойства categoryOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-order.png)
+![Влияние свойства categoryOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-order.png)
 - **`categoryIcon`**: Иконка, отображаемая рядом с названием статьи в секции.
-![Влияние cвойства categoryIcon](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-icon.png)
+![Влияние свойства categoryIcon](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-icon.png)
 
 ### Пример мета данных для статьи:
 
@@ -53,12 +67,13 @@ title: Быстрый старт
 displayName: Начало работы
 order: 1
 published: true
-category: start
+category: Начало работы
 categoryName: Быстрый старт
 categoryDescription: Быстрый старт с нашим сервисом.
 categoryOrder: 10
 categoryIcon: /icons/quickstart.svg
 ---
+
 # Быстрый старт
 
 Добро пожаловать в руководство по быстрому началу работы...
@@ -69,23 +84,28 @@ categoryIcon: /icons/quickstart.svg
 ## [Влияние мета свойств](impact-of-meta-properties)
 
 - `published` определяет, будет ли отображаться статья даже если все необходимые свойства указаны.
-- `category` определяет, в какую секцию главной страницы будет помещена статья. `category: start` помещает статью в секцию "Начало работы".
+- `categories` определяет список секций на главной.
+- `category` определяет, в какую секцию главной страницы будет помещена статья. `category: Начало работы` помещает статью в секцию "Начало работы".
 - `categoryName` задает название статьи в секции. `categoryName: Быстрый старт` отображает название "Быстрый старт" в соответствующей секции.
 - `categoryDescription` предоставляет краткое описание статьи для отображения в секции. `categoryDescription: Быстрый старт с нашим сервисом` отображает описание под названием статьи.
-- `categoryOrder` определяет порядок отображения статьи внутри секции. `categoryOrder: 10` располагает статью перед статьей с `categoryOrder: 20`.
+- `categoryOrder` определяет порядок отображения статьи внутри секции `Начало работы`. `categoryOrder: 10` располагает статью перед статьей с `categoryOrder: 20`.
 - `categoryIcon` указывает путь к иконке, которая будет отображаться рядом с названием статьи. `categoryIcon: /icons/quickstart.svg` отображает иконку "quickstart.svg" рядом с названием статьи.
 
 <br/>
 
 ## [Пошаговое руководство по настройке](step-by-step-setup-guide)
 
-### Шаг 1: Определение секции
+### Шаг 1: Организация секций
+
+Определите секции, которые будут отображаться на главной странице.
+
+### Шаг 2: Определение секции
 
 Решите, в какой секции будет располагаться статья документации.
 
-### Шаг 2: Настройка мета свойств в файлах
+### Шаг 3: Настройка мета свойств в файлах
 
-Добавьте необходимые мета свойства в каждый файл Markdown для определения его места в секции и порядка отображения.
+Добавьте необходимые мета свойства в `metadata.md` языкового раздела и каждый файл Markdown для определения секций, места документа в секции и порядка отображения.
 
 **Пример:**
 
@@ -95,24 +115,23 @@ title: Глубокое погружение
 displayName: Продвинутое использование
 order: 2
 published: true
-category: start
+category: Начало работы
 categoryName: Глубокое погружение
 categoryDescription: Для опытных пользователей
 categoryOrder: 20
 categoryIcon: /icons/deepdive.svg
 ---
+
 # Глубокое погружение
 
 В этом руководстве мы подробно рассмотрим...
 ```
 
-### Шаг 3: Настройка иконок и описаний
+### Шаг 4: Настройка иконок и описаний
 
 Убедитесь, что пути к иконкам корректны и описания лаконичны и информативны.
 
-### Шаг 4: Генерация и проверка сайта
-
-Используйте инструменты генерации документации (например, MkDocs, Docusaurus) для создания сайта и проверьте, как отображаются секции на главной странице.
+### Шаг 5: Генерация и проверка сайта
 
 После настройки мета свойств проверьте, как ссылки отображаются на главной странице на различных устройствах и экранах:
 
@@ -145,12 +164,13 @@ title: Быстрый старт
 displayName: Начало работы
 order: 1
 published: true
-category: start
+category: Начало работы
 categoryName: Быстрый старт
 categoryDescription: Узнайте, как быстро начать пользоваться нашим сервисом
 categoryOrder: 10
 categoryIcon: /icons/quickstart.svg
 ---
+
 # Быстрый старт
 
 Добро пожаловать в руководство по быстрому началу работы...
@@ -164,7 +184,7 @@ title: Продвинутое использование
 displayName: Продвинутое использование
 order: 1
 published: true
-category: start
+category: Начало работы
 categoryName: Продвинутое использование
 categoryDescription: Продвинутое использование сервиса
 categoryOrder: 20
@@ -183,12 +203,13 @@ title: Консалтинг
 displayName: Консалтинг
 order: 3
 published: true
-category: services
+category: Сервисы
 categoryName: Консалтинг
 categoryDescription: Профессиональные консультации для вашего бизнеса
 categoryOrder: 10
 categoryIcon: /icons/consulting.svg
 ---
+
 # Консалтинг
 
 Мы предлагаем экспертные консультации в области...
@@ -202,12 +223,13 @@ title: Техническая поддержка
 displayName: Техническая поддержка
 order: 3
 published: true
-category: services
+category: Сервисы
 categoryName: Техническая поддержка
 categoryDescription: Читайте если есть вопросы
 categoryOrder: 10
 categoryIcon: /icons/support.svg
 ---
+
 # Консалтинг
 
 Мы предлагаем экспертные консультации в области...
@@ -234,18 +256,19 @@ title: Черновики
 displayName: Черновики
 order: 99
 published: false
-category: services
+category: Сервисы
 categoryName: Черновики
 categoryDescription: Неразработанные разделы и статьи
 categoryOrder: 1
 categoryIcon: /icons/drafts.svg
 ---
+
 # Черновики
 
-*Эта секция находится в разработке и будет доступна позже.*
+_Эта секция находится в разработке и будет доступна позже._
 ```
 
-**Результат:** Секция "Черновики" не отображается на главной странице, так как `published: false`.
+**Результат:** Документ "Черновики" не отображается на главной странице, так как `published: false`.
 
 <br/>
 
@@ -260,6 +283,7 @@ categoryIcon: /icons/drafts.svg
 ## [Дополнительные ресурсы](additional-resources)
 
 - [Подробное описание мета свойства `published`](/ru/documentation/markdown/meta/published)
+- [Подробное описание мета свойства `categories`](/ru/documentation/markdown/meta/categories)
 - [Подробное описание мета свойства `category`](/ru/documentation/markdown/meta/category)
 - [Подробное описание мета свойства `categoryName`](/ru/documentation/markdown/meta/category-name)
 - [Подробное описание мета свойства `categoryDescription`](/ru/documentation/markdown/meta/category-description)

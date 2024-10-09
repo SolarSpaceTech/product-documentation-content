@@ -5,6 +5,15 @@ order: 20
 published: true
 historyName: Шапка документации
 historyDescription: Шапка сайта предоставляет быстрый доступ к ключевым разделам, улучшая навигацию и настройку через мета свойства.
+headerName: Шапка документации
+headerOrder: 1
+footerName: Шапка документации
+footerOrder: 1
+category: Начало работы
+categoryName: Шапка документации
+categoryDescription: Шапка сайта предоставляет быстрый доступ к ключевым разделам, улучшая навигацию и настройку через мета свойства.
+categoryOrder: 1
+categoryIcon: https://img.solarspace.pro/docs/microchip.svg
 ---
 
 # Шапка документации
@@ -30,9 +39,9 @@ historyDescription: Шапка сайта предоставляет быстр�
 ## [Настройка с помощью мета свойств](customization-using-meta-properties)
 
 - **`headerName`:** Задаёт название ссылки на статью в шапке.
-![Влияние cвойства headerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header-name.png)
+  ![Влияние cвойства headerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header-name.png)
 - **`headerOrder`:** Определяет порядок отображения ссылки в шапке.
-![Влияние cвойства headerOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header-order.png)
+  ![Влияние cвойства headerOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header-order.png)
 - **`published`:** Управляет видимостью статьи во всех элементах интерфейса, включая шапку.
 
 <br/>

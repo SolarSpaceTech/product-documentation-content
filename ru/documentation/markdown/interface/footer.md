@@ -5,6 +5,15 @@ order: 30
 published: true
 historyName: Подвал документации
 historyDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
+headerName: Подвал документации
+headerOrder: 2
+footerName: Подвал документации
+footerOrder: 2
+category: Сервисы
+categoryName: Подвал документации
+categoryDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
+categoryOrder: 2
+categoryIcon: https://img.solarspace.pro/docs/users.svg
 ---
 
 # Подвал документации
@@ -27,10 +36,10 @@ historyDescription: Подвал документации улучшает на�
 ## [Настройка с помощью мета свойств](customization-using-meta-properties)
 
 - **`footerName`:** Задаёт название ссылки на статью в подвале.
-![Влияние cвойства footerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/footer-name.png)
+  ![Влияние cвойства footerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/footer-name.png)
 
 - **`footerOrder`:** Определяет порядок отображения ссылки в подвале.
-![Влияние cвойства footerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/footer-order.png)
+  ![Влияние cвойства footerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/footer-order.png)
 
 - **`published`:** Управляет видимостью статьи во всех элементах интерфейса, включая подвал.
 
