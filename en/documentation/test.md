@@ -7,7 +7,7 @@ order: 3
 # Сервер лицензирования
 
 NgDoc is just a library, so first you need to create an Angular application that will be used to display
-documentation, it can be a separate application or an existing one.
+documentation, it can be a separate application or an existing one. 
 
 When you install NgDoc, it will be integrated into the build process of your application, and will generate
 and components based on you code, that can be used in your application to display documentation.
