@@ -228,6 +228,6 @@ footerOrder: 5
 
 ## [Дополнительные ресурсы](additional-resources)
 
-- [Подробное описание мета свойства `footerName`](/ru/documentation/markdown/meta/footer-name)
-- [Подробное описание мета свойства `footerOrder`](/ru/documentation/markdown/meta/footer-order)
-- [Подробное описание мета свойства `published`](/ru/documentation/markdown/meta/published)
+- [Подробное описание мета свойства `footerName`]([38])
+- [Подробное описание мета свойства `footerOrder`]([39])
+- [Подробное описание мета свойства `published`]([46])

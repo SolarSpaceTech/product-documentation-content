@@ -21,7 +21,7 @@ categoryIcon: https://img.solarspace.pro/docs/desktop.svg
 
 Мета свойства позволяют гибко управлять отображением различных элементов документации. С их помощью вы можете настроить следующие элементы:
 
-- **[Главная страница](/ru/documentation/markdown/interface/main-page)**
+- **[Главная страница]([9])**
 
   - **`category`**: Определяет секцию главной страницы для отображения статьи (`start`, `services`, `useful`, `faq`).
   - **`categoryName`**: Задает название статьи в секции на главной странице.
@@ -29,28 +29,28 @@ categoryIcon: https://img.solarspace.pro/docs/desktop.svg
   - **`categoryOrder`**: Определяет порядок отображения статей внутри секции.
   - **`categoryIcon`**: Указывает иконку для статьи в секции.
 
-- **[Шапка](/ru/documentation/markdown/interface/header) (Header)**
+- **[Шапка]([7]) (Header)**
 
   - **`headerName`**: Задает название ссылки на статью в шапке.
   - **`headerOrder`**: Определяет порядок отображения ссылок в шапке.
 
-- **[Подвал](/ru/documentation/markdown/interface/footer)**
+- **[Подвал]([6])**
 
   - **`footerName`**: Задает название ссылки на статью в подвале.
   - **`footerOrder`**: Определяет порядок отображения ссылок в подвале.
 
-- **[Меню](/ru/documentation/markdown/interface/menu)**
+- **[Меню]([10])**
 
   - **`displayName`**: Задает название разделов и статей в меню.
   - **`order`**: Определяет порядок отображения разделов и статей в меню.
 
-- **[Хлебные крошки](/ru/documentation/markdown/interface/breadcrumbs)**
+- **[Хлебные крошки]([4])**
 
   - **`displayName`**: Задает название разделов и статей в хлебных крошках.
 
-- **[Оглавление статьи](/ru/documentation/markdown/interface/table-of-contents)**
+- **[Оглавление статьи]([11])**
 
-- **[История посещений](/ru/documentation/markdown/interface/history)**
+- **[История посещений]([8])**
 
   - **`historyName`**: Задает название статьи в истории посещений.
   - **`historyDescription`**: Предоставляет краткое описание статьи в истории посещений.

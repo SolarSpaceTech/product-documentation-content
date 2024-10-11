@@ -179,7 +179,7 @@ historyDescription: Эта функция находится в разработ
 
 ## [Дополнительные ресурсы](additional-resources)
 
-- [Подробное описание мета свойства `id`](/ru/documentation/markdown/meta/id)
-- [Подробное описание мета свойства `published`](/ru/documentation/markdown/meta/published)
-- [Подробное описание мета свойства `historyName`](/ru/documentation/markdown/meta/history-name)
-- [Подробное описание мета свойства `historyDescription`](/ru/documentation/markdown/meta/history-description)
+- [Подробное описание мета свойства `id`]([44])
+- [Подробное описание мета свойства `published`]([46])
+- [Подробное описание мета свойства `historyName`]([43])
+- [Подробное описание мета свойства `historyDescription`]([42])
