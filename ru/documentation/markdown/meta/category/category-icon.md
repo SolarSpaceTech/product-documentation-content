@@ -1,6 +1,6 @@
 ---
 id: 33
-title: Описание categoryIcon - Мета свойства
+title: Описание categoryIcon - Разделы главной - Мета свойства
 displayName: categoryIcon
 order: 110
 published: true

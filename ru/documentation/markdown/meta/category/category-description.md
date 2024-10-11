@@ -1,6 +1,6 @@
 ---
 id: 32
-title: Описание categoryDescription - Мета свойства
+title: Описание categoryDescription - Разделы главной - Мета свойства
 displayName: categoryDescription
 order: 90
 published: true

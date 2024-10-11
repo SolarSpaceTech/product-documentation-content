@@ -1,8 +1,8 @@
 ---
 id: 47
-title: Описание title - Мета свойства
+title: Описание title - Общее - Мета свойства
 displayName: title
-order: 10
+order: 20
 published: true
 historyName: Описание мета свойства title
 historyDescription: Мета-свойство title отображает заголовок страницы на вкладке браузера, облегчая навигацию и идентификацию раздела.

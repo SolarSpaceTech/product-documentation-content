@@ -1,8 +1,8 @@
 ---
 id: 45
-title: Описание order - Мета свойства
+title: Описание order - Общее - Мета свойства
 displayName: order
-order: 30
+order: 40
 published: true
 historyName: Описание мета свойства order
 historyDescription: Мета-свойство order определяет порядок отображения разделов и статей в меню документации для удобной навигации.

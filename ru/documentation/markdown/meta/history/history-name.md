@@ -1,6 +1,6 @@
 ---
 id: 43
-title: Описание historyName - Мета свойства
+title: Описание historyName - История - Мета свойства
 displayName: historyName
 order: 50
 published: true

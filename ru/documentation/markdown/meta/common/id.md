@@ -1,6 +1,6 @@
 ---
 id: 44
-title: Описание id - Мета свойства
+title: Описание id - Общее - Мета свойства
 displayName: id
 order: 10
 published: true

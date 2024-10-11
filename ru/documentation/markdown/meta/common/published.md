@@ -1,8 +1,8 @@
 ---
 id: 46
-title: Описание published - Мета свойства
+title: Описание published - Общее - Мета свойства
 displayName: published
-order: 40
+order: 50
 published: true
 historyName: Описание мета свойства published
 historyDescription: Мета-свойство published контролирует видимость статьи или раздела в меню, шапке и на главной странице документации.

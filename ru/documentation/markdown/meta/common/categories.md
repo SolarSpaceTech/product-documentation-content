@@ -1,8 +1,8 @@
 ---
 id: 30
-title: Описание categories - Мета свойства
+title: Описание categories - Общее - Мета свойства
 displayName: categories
-order: 65
+order: 60
 published: true
 historyName: Описание мета свойства categories
 historyDescription: Мета-свойство categories определяет названия и порядок секций на главной странице.

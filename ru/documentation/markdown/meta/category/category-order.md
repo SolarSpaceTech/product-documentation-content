@@ -1,6 +1,6 @@
 ---
 id: 35
-title: Описание categoryOrder - Мета свойства
+title: Описание categoryOrder - Разделы главной - Мета свойства
 displayName: categoryOrder
 order: 100
 published: true

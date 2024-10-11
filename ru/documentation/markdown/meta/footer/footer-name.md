@@ -1,6 +1,6 @@
 ---
 id: 38
-title: Описание footerName - Мета свойства
+title: Описание footerName - Подвал - Мета свойства
 displayName: footerName
 order: 140
 published: true

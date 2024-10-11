@@ -1,8 +1,8 @@
 ---
 id: 37
-title: Описание displayName - Мета свойства
+title: Описание displayName - Общее - Мета свойства
 displayName: displayName
-order: 20
+order: 30
 published: true
 historyName: Описание мета свойства displayName
 historyDescription: Мета-свойство displayName задает краткое название статьи для отображения в меню и навигации документации.

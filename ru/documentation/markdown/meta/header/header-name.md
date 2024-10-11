@@ -1,6 +1,6 @@
 ---
 id: 40
-title: Описание headerName - Мета свойства
+title: Описание headerName - Шапка - Мета свойства
 displayName: headerName
 order: 120
 published: true

@@ -1,6 +1,6 @@
 ---
 id: 41
-title: Описание headerOrder - Мета свойства
+title: Описание headerOrder - Шапка - Мета свойства
 displayName: headerOrder
 order: 130
 published: true
