@@ -219,4 +219,4 @@ historyDescription: Навигационный список заголовков
 
 ## [Дополнительные ресурсы](additional-resources)
 
-- [Документация по "Заголовки"](/ru/documentation/markdown/markup-language/heading)
+- [Документация по "Заголовки"]([18])

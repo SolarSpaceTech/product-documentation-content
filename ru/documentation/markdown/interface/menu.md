@@ -178,6 +178,6 @@ published: false
 
 ## [Дополнительные ресурсы](additional-resources)
 
-- [Подробное описание мета свойства `displayName`](/ru/documentation/markdown/meta/display-name)
-- [Подробное описание мета свойства `order`](/ru/documentation/markdown/meta/order)
-- [Подробное описание мета свойства `published`](/ru/documentation/markdown/meta/published)
+- [Подробное описание мета свойства `displayName`]([37])
+- [Подробное описание мета свойства `order`]([45])
+- [Подробное описание мета свойства `published`]([46])

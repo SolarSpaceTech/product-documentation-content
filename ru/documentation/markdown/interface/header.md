@@ -229,6 +229,6 @@ headerOrder: 5
 
 ## [Дополнительные ресурсы](additional-resources)
 
-- [Подробное описание мета свойства `headerName`](/ru/documentation/markdown/meta/header-name)
-- [Подробное описание мета свойства `headerOrder`](/ru/documentation/markdown/meta/header-order)
-- [Подробное описание мета свойства `published`](/ru/documentation/markdown/meta/published)
+- [Подробное описание мета свойства `headerName`]([40])
+- [Подробное описание мета свойства `headerOrder`]([41])
+- [Подробное описание мета свойства `published`]([46])

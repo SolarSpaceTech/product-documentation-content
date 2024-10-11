@@ -283,10 +283,10 @@ _Эта секция находится в разработке и будет д
 
 ## [Дополнительные ресурсы](additional-resources)
 
-- [Подробное описание мета свойства `published`](/ru/documentation/markdown/meta/published)
-- [Подробное описание мета свойства `categories`](/ru/documentation/markdown/meta/categories)
-- [Подробное описание мета свойства `category`](/ru/documentation/markdown/meta/category)
-- [Подробное описание мета свойства `categoryName`](/ru/documentation/markdown/meta/category-name)
-- [Подробное описание мета свойства `categoryDescription`](/ru/documentation/markdown/meta/category-description)
-- [Подробное описание мета свойства `categoryOrder`](/ru/documentation/markdown/meta/category-order)
-- [Подробное описание мета свойства `categoryIcon`](/ru/documentation/markdown/meta/category-icon)
+- [Подробное описание мета свойства `published`]([46])
+- [Подробное описание мета свойства `categories`]([30])
+- [Подробное описание мета свойства `category`]([31])
+- [Подробное описание мета свойства `categoryName`]([34])
+- [Подробное описание мета свойства `categoryDescription`]([32])
+- [Подробное описание мета свойства `categoryOrder`]([35])
+- [Подробное описание мета свойства `categoryIcon`]([33])
