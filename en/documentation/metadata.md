@@ -1,6 +1,5 @@
 ---
-title: metadata
-displayName: Документация
+displayName: Documentation
 published: true
-order: 50
+order: 1
 ---
