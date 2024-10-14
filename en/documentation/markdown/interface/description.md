@@ -1,3 +1,22 @@
+---
+id: 5
+title: Description - Documentation Interface
+displayName: Description
+order: 1
+published: true
+historyName: Description
+historyDescription: Brief description of interface elements.
+headerName: Description
+headerOrder: 3
+footerName: Description
+footerOrder: 3
+category: Resource Configuration
+categoryName: Description
+categoryDescription: Brief description of interface elements.
+categoryOrder: 3
+categoryIcon: https://img.solarspace.pro/docs/desktop.svg
+---
+
 # Description of Documentation Elements
 
 Meta properties allow flexible control over the display of various documentation elements. With them, you can configure the following elements:
