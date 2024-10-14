@@ -1,6 +1,5 @@
 ---
-title: metadata
 displayName: Құжаттама
 published: true
-order: 50
+order: 1
 ---

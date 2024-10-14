@@ -1,5 +1,5 @@
 ---
-displayName: Russian
+displayName: English
 published: true
 categories:
   - Getting Started
