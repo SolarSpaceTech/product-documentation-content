@@ -1,5 +1,9 @@
 ---
-displayName: Документация
+displayName: Русский
 published: true
-order: 1
+categories:
+  - Начало работы
+  - Сервисы
+  - Настройка ресурсов
+  - FAQ
 ---
