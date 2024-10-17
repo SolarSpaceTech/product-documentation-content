@@ -12,7 +12,7 @@ historyDescription: Structures content, simplifies navigation, and helps users f
 
 The main sections of the documentation homepage are organized blocks of content displayed on the main page. They are designed to structure information, making it easier for users to find and access the most important sections and articles. Each section may contain one or more articles that are related by the `categories` meta property of the language section and the `category` property of a specific article.
 
-![Main Sections of the Homepage](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/main-page-blocks.png)
+![Main Sections of the Homepage](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/main-page-blocks.png)
 
 <br/>
 
@@ -44,16 +44,16 @@ categories:
   - FAQ
 ---
 ```
-![Impact of the category property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category.png)
+![Impact of the category property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category.png)
 - **`category`**: Defines the section on the main page where the article will be displayed. Examples: `Getting Started`, `Services`, `Resource Configuration`, `FAQ`.
 - **`categoryName`**: The name of the article in the section on the main page.
-![Impact of the categoryName property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-name.png)
+![Impact of the categoryName property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-name.png)
 - **`categoryDescription`**: A brief description of the article to display in the section.
-![Impact of the categoryDescription property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-description.png)
+![Impact of the categoryDescription property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-description.png)
 - **`categoryOrder`**: The order of displaying the article within the section.
-![Impact of the categoryOrder property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-order.png)
+![Impact of the categoryOrder property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-order.png)
 - **`categoryIcon`**: The icon displayed next to the article name in the section.
-![Impact of the categoryIcon property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-icon.png)
+![Impact of the categoryIcon property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-icon.png)
 
 ### Example metadata for an article:
 

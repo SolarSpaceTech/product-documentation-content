@@ -15,7 +15,7 @@ historyDescription: The meta property categoryOrder sets the order of displaying
 **Data type:** Number
 
 **Scope of influence:**
-![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-order.png)
+![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-order.png)
 
 <br/>
 

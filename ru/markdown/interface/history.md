@@ -14,7 +14,7 @@ historyDescription: Улучшает навигацию, позволяя быс
 пользователем статей или разделов. Этот блок позволяет быстро возвращаться к ранее изученному контенту, улучшая навигацию и повышая удобство
 использования документации. Располагается в нижней части страницы, обеспечивая легкий доступ к прошлым просмотрам без необходимости искать их заново.
 
-![История посещений](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/history.png)
+![История посещений](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/history.png)
 
 <br/>
 
@@ -34,9 +34,9 @@ historyDescription: Улучшает навигацию, позволяя быс
 
 - **`id`**: Задаёт уникальный идентификатор статьи, который хранится на стороне клиента в истории просмотров.
 - **`historyName`**: Задает название статьи в блоке истории посещений.
-  ![Влияние cвойства historyName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/history-name.png)
+  ![Влияние cвойства historyName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/history-name.png)
 - **`historyDescription`**: Предоставляет краткое описание статьи в блоке истории посещений.
-  ![Влияние cвойства historyDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/history-description.png)
+  ![Влияние cвойства historyDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/history-description.png)
 - **`published`**: Управляет видимостью статьи во всех элементах интерфейса, включая блок истории посещений.
 
 ### Пример мета данных для статьи:

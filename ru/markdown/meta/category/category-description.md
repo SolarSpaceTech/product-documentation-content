@@ -15,7 +15,7 @@ historyDescription: Мета-свойство categoryDescription задаёт �
 **Тип данных:** Строка
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-description.png)
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-description.png)
 
 <br/>
 

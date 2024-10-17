@@ -15,7 +15,7 @@ historyDescription: Мета-свойство headerName задаёт назва
 **Тип данных:** Строка
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header-name.png)
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/header-name.png)
 
 <br/>
 

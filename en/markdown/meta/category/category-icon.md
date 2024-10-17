@@ -15,7 +15,7 @@ historyDescription: The meta property categoryIcon adds an icon to the article o
 **Data type:** String (URL or path to an image)
 
 **Scope of influence:**
-![Property Influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-icon.png)
+![Property Influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-icon.png)
 
 
 <br/>

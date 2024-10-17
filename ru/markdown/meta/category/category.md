@@ -17,7 +17,7 @@ historyDescription: Мета-свойство category определяет се
 **Возможные значения:** значения из списка указанные в свойстве `categories` описания языкового раздела в `metadata.md`
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category.png)
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category.png)
 
 <br/>
 

@@ -22,7 +22,7 @@ categoryIcon: https://img.solarspace.pro/docs/waf.svg
 Хлебные крошки — это навигационный элемент интерфейса, который отображает путь пользователя от главной страницы до текущей статьи. Этот элемент интерфейса
 помогает пользователям понять структуру документации. Он отображается в верхней части страницы между шапкой и статьёй.
 
-![Хлебные крошки](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/breadcrumbs.png)
+![Хлебные крошки](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/breadcrumbs.png)
 
 <br/>
 
@@ -39,7 +39,7 @@ categoryIcon: https://img.solarspace.pro/docs/waf.svg
 Для настройки хлебных крошек в документации используются следующие мета свойства:
 
 - **`displayName`:** Определяет название раздела или статьи, отображаемое в хлебных крошках.
-  ![Влияние cвойства displayName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/display-name.png)
+  ![Влияние cвойства displayName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/display-name.png)
 
 <br/>
 

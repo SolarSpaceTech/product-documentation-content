@@ -12,7 +12,7 @@ historyDescription: The documentation menu simplifies navigation and section str
 
 The documentation menu is one of the key elements of the user interface. It provides structure and navigation through sections and articles, allowing users to easily find and access the necessary information. The menu is displayed in the sidebar and reflects the hierarchical structure of the documentation.
 
-![Menu](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/menu.png)
+![Menu](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/menu.png)
 
 <br/>
 
@@ -30,9 +30,9 @@ The documentation menu is one of the key elements of the user interface. It prov
 The documentation menu is customized using the following meta properties specified in the Markdown file metadata:
 
 - **`displayName`:** Defines the name of the section or article displayed in the menu and breadcrumbs.
-  ![Impact of the displayName property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/display-name.png)
+  ![Impact of the displayName property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/display-name.png)
 - **`order`:** Specifies the display order of sections and articles in the menu.
-  ![Impact of the order property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/order.png)
+  ![Impact of the order property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/order.png)
 - **`published`:** Controls the visibility of a section or article in the menu and navigation. If set to `false`, the item is not displayed.
 
 <br/>

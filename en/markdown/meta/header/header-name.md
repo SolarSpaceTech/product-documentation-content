@@ -15,7 +15,7 @@ historyDescription: The meta property headerName sets the title of the link to t
 **Data type:** String
 
 **Scope of influence:**
-![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header-name.png)
+![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/header-name.png)
 
 <br/>
 

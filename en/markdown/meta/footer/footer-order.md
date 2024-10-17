@@ -15,7 +15,7 @@ historyDescription: The meta property footerOrder determines the order of displa
 **Data type:** Number
 
 **Scope of influence:**
-![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/footer-order.png)
+![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/footer-order.png)
 
 <br/>
 

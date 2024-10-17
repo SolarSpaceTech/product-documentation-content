@@ -15,7 +15,7 @@ historyDescription: Мета-свойство headerOrder определяет �
 **Тип данных:** Число
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header-order.png)
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/header-order.png)
 
 <br/>
 

@@ -15,7 +15,7 @@ historyDescription: Мета-свойство historyDescription предост�
 **Тип данных:** Строка
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/history-description.png)
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/history-description.png)
 
 <br/>
 

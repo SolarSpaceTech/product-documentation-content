@@ -15,7 +15,7 @@ historyDescription: The meta property footerName sets the name of the link to th
 **Data type:** String
 
 **Scope of influence:**
-![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/footer-name.png)
+![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/footer-name.png)
 
 <br/>
 

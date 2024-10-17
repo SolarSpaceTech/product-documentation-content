@@ -23,7 +23,7 @@ categoryIcon: https://img.solarspace.pro/docs/microchip.svg
 улучшает навигацию и способствует созданию целостного облика документации. В этой статье мы подробно рассмотрим роль шапки документации, способы её настройки
 с помощью мета свойств и примеры использования.
 
-![Шапка](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header.png)
+![Шапка](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/header.png)
 
 <br/>
 
@@ -40,9 +40,9 @@ categoryIcon: https://img.solarspace.pro/docs/microchip.svg
 ## [Настройка с помощью мета свойств](customization-using-meta-properties)
 
 - **`headerName`:** Задаёт название ссылки на статью в шапке.
-  ![Влияние cвойства headerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header-name.png)
+  ![Влияние cвойства headerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/header-name.png)
 - **`headerOrder`:** Определяет порядок отображения ссылки в шапке.
-  ![Влияние cвойства headerOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header-order.png)
+  ![Влияние cвойства headerOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/header-order.png)
 - **`published`:** Управляет видимостью статьи во всех элементах интерфейса, включая шапку.
 
 <br/>
