@@ -14,6 +14,8 @@ historyDescription: Мета-свойство historyName задаёт назв�
 
 **Тип данных:** Строка
 
+**Максимальное количество символов:** `90`
+
 **Область влияния:**
 ![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/history-name.png)
 
