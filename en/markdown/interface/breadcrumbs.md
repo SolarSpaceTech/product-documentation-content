@@ -21,7 +21,7 @@ categoryIcon: https://img.solarspace.pro/docs/waf.svg
 
 Breadcrumbs are a navigational element of the interface that displays the user's path from the main page to the current article. This interface element helps users understand the documentation structure. It is displayed at the top of the page between the header and the article.
 
-![Breadcrumbs](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/breadcrumbs.png)
+![Breadcrumbs](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/breadcrumbs.png)
 
 <br/>
 
@@ -38,7 +38,7 @@ Breadcrumbs are a navigational element of the interface that displays the user's
 The following meta properties are used to customize breadcrumbs in the documentation:
 
 - **`displayName`:** Determines the name of the section or article displayed in the breadcrumbs.
-  ![Impact of the displayName property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/display-name.png)
+  ![Impact of the displayName property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/display-name.png)
 
 <br/>
 

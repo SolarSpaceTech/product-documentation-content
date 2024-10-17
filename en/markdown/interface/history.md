@@ -12,7 +12,7 @@ historyDescription: Enhances navigation by allowing quick access to previously v
 
 The documentation visit history is a user interface element that displays a list of recently viewed articles or sections by the user. This feature allows for quick return to previously studied content, improving navigation and enhancing the usability of the documentation. It is located at the bottom of the page, providing easy access to past views without the need to search for them again.
 
-![Visit History](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/history.png)
+![Visit History](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/history.png)
 
 <br/>
 
@@ -32,9 +32,9 @@ The following meta properties are used to customize the visit history block in t
 
 - **`id`**: Sets a unique identifier for the article, stored client-side in the viewing history.
 - **`historyName`**: Sets the name of the article in the visit history block.
-  ![Impact of the historyName property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/history-name.png)
+  ![Impact of the historyName property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/history-name.png)
 - **`historyDescription`**: Provides a brief description of the article in the visit history block.
-  ![Impact of the historyDescription property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/history-description.png)
+  ![Impact of the historyDescription property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/history-description.png)
 - **`published`**: Controls the visibility of the article in all interface elements, including the visit history block.
 
 ### Example metadata for an article:

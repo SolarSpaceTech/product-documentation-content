@@ -15,7 +15,7 @@ historyDescription: The meta property categoryDescription provides a brief descr
 **Data type:** String
 
 **Scope of influence:**
-![Property Influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-description.png)
+![Property Influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-description.png)
 
 <br/>
 

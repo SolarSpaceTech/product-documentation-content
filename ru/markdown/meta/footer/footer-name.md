@@ -15,7 +15,7 @@ historyDescription: Мета-свойство footerName задаёт назва
 **Тип данных:** Строка
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/footer-name.png)
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/footer-name.png)
 
 <br/>
 

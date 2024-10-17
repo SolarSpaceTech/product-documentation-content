@@ -21,7 +21,7 @@ categoryIcon: https://img.solarspace.pro/docs/microchip.svg
 
 The documentation header is one of the key elements of the interface. It provides users with quick access to main sections and features, improves navigation, and contributes to the overall look of the documentation. In this article, we will examine in detail the role of the documentation header, methods of customization using meta properties, and usage examples.
 
-![Header](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header.png)
+![Header](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/header.png)
 
 <br/>
 
@@ -38,9 +38,9 @@ The documentation header is one of the key elements of the interface. It provide
 ## [Customization Using Meta Properties](customization-using-meta-properties)
 
 - **`headerName`:** Sets the name of the link to the article in the header.
-  ![Effect of the headerName property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header-name.png)
+  ![Effect of the headerName property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/header-name.png)
 - **`headerOrder`:** Determines the order of displaying the link in the header.
-  ![Effect of the headerOrder property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/header-order.png)
+  ![Effect of the headerOrder property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/header-order.png)
 - **`published`:** Controls the visibility of the article in all interface elements, including the header.
 
 <br/>

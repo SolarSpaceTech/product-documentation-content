@@ -23,7 +23,7 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 улучшает навигацию и способствует созданию целостного облика документации. В этой статье мы подробно рассмотрим роль подвала документации, способы её настройки
 с помощью мета свойств и примеры использования.
 
-![Подвал](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/footer.png)
+![Подвал](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/footer.png)
 
 <br/>
 
@@ -37,10 +37,10 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 ## [Настройка с помощью мета свойств](customization-using-meta-properties)
 
 - **`footerName`:** Задаёт название ссылки на статью в подвале.
-  ![Влияние cвойства footerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/footer-name.png)
+  ![Влияние cвойства footerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/footer-name.png)
 
 - **`footerOrder`:** Определяет порядок отображения ссылки в подвале.
-  ![Влияние cвойства footerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/footer-order.png)
+  ![Влияние cвойства footerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/footer-order.png)
 
 - **`published`:** Управляет видимостью статьи во всех элементах интерфейса, включая подвал.
 

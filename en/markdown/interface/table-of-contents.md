@@ -14,7 +14,7 @@ The table of contents of an article is a structured list of headings automatical
 of the main content of the article and serves as a navigational tool, allowing users to quickly navigate between the article headings. The table of contents
 facilitates orientation in the content, especially in long and detailed articles, improving the overall user experience.
 
-![Table of Contents](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/table-of-contents.png)
+![Table of Contents](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/table-of-contents.png)
 
 <br/>
 

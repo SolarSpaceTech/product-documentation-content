@@ -14,7 +14,7 @@ historyDescription: Структурирует контент, упрощают 
 информации, облегчая пользователям поиск и доступ к наиболее важным разделам и статьям. Каждая секция может содержать одну или несколько статей, которые связаны
 мета свойством `categories` языкового раздела и свойством `category` определенной статьи.
 
-![Секции главной страницы](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/main-page-blocks.png)
+![Секции главной страницы](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/main-page-blocks.png)
 
 <br/>
 
@@ -49,16 +49,16 @@ categories:
   - FAQ
 ---
 ```
-![Влияние свойства category](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category.png)
+![Влияние свойства category](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category.png)
 - **`category`**: Определяет секцию на главной странице, в которой будет отображаться статья. Примеры: `Начало работы`, `Сервисы`, `Настройки ресурсов`, `FAQ`.
 - **`categoryName`**: Название статьи в секции на главной странице.
-![Влияние свойства categoryName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-name.png)
+![Влияние свойства categoryName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-name.png)
 - **`categoryDescription`**: Краткое описание статьи для отображения в секции.
-![Влияние свойства categoryDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-description.png)
+![Влияние свойства categoryDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-description.png)
 - **`categoryOrder`**: Порядок отображения статьи внутри секции.
-![Влияние свойства categoryOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-order.png)
+![Влияние свойства categoryOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-order.png)
 - **`categoryIcon`**: Иконка, отображаемая рядом с названием статьи в секции.
-![Влияние свойства categoryIcon](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/documentation/markdown/images/category-icon.png)
+![Влияние свойства categoryIcon](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-icon.png)
 
 ### Пример мета данных для статьи:
 
