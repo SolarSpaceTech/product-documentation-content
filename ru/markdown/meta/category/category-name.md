@@ -14,6 +14,8 @@ historyDescription: Мета-свойство categoryName задает назв
 
 **Тип данных:** Строка
 
+**Максимальное количество символов:** `32`
+
 **Область влияния:**
 ![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category-name.png)
 
