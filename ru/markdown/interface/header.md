@@ -1,17 +1,17 @@
 ---
 id: 7
-title: Шапка документации12121211212 - Интерфейс документации
-displayName: Шапка121212121212
+title: Шапка документации - Интерфейс документации
+displayName: Шапка
 order: 20
 published: true
-historyName: Шапка документации121212121212
+historyName: Шапка документации
 historyDescription: Шапка сайта предоставляет быстрый доступ к ключевым разделам, улучшая навигацию и настройку через мета свойства.
-headerName: Шапка документации121212121212
+headerName: Шапка документации
 headerOrder: 4
-footerName: Шапка документации121212121212
+footerName: Шапка документации
 footerOrder: 1
 category: FAQ
-categoryName: Шапка документации121212121212
+categoryName: Шапка документации
 categoryDescription: Шапка сайта предоставляет быстрый доступ к ключевым разделам, улучшая навигацию и настройку через мета свойства.
 categoryOrder: 1
 categoryIcon: https://img.solarspace.pro/docs/microchip.svg
