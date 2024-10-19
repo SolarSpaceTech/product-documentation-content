@@ -1,5 +1,5 @@
 ---
-displayName: Тестовая инструкция пользователя
-order: 10
+displayName: Инструкция пользователя
+order: 72
 piblished: true
 ---
