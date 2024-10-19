@@ -5,12 +5,12 @@ displayName: Ограничения доступа
 order: 1
 published: true
 historyName: Ограничения доступа
-historyDescription: Краткое описание руководства пользователя
+historyDescription: Настройка ограничений доступа для входящего трафика
 category: Настройка ресурсов
 categoryName: Ограничения доступа
 categoryDescription: Как настроить ограничения доступа для входящего трафика
 categoryOrder: 1
-categoryIcon: /icons/lock.svg
+categoryIcon:
 footerName: Ограничения доступа
 footerOrder: 10
 ---
