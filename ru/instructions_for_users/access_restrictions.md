@@ -2,13 +2,17 @@
 id: 201
 title: Вкладка - Ограничения доступа
 displayName: Ограничения доступа
-order: 2
+order: 1
 published: true
 historyName: Ограничения доступа
 historyDescription: Краткое описание руководства пользователя
 category: Настройка ресурсов
 categoryName: Ограничения доступа
 categoryDescription: Как настроить ограничения доступа для входящего трафика
+categoryOrder: 1
+categoryIcon: /icons/lock.svg
+footerName: Ограничения доступа
+footerOrder: 10
 ---
 
 
