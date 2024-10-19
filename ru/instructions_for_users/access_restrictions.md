@@ -2,7 +2,7 @@
 id: 201
 title: Вкладка - Ограничения доступа
 displayName: Ограничения доступа
-order: 1
+order: 2
 published: true
 historyName: Ограничения доступа
 historyDescription: Краткое описание руководства пользователя
