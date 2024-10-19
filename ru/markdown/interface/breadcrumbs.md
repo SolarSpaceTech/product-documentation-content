@@ -7,7 +7,7 @@ published: true
 historyName: Хлебные крошки документации
 historyDescription: Меню документации упрощает навигацию и структуру разделов с помощью мета свойств `displayName`, `order`, `published`.
 headerName: Хлебные крошки
-headerOrder: 4
+headerOrder: 1
 footerName: Хлебные крошки
 footerOrder: 4
 category: FAQ

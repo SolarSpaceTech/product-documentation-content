@@ -3,7 +3,7 @@ id: 36
 title: Краткое описание - Мета свойств
 displayName: Описание
 order: 1
-published: true
+published: false
 historyName: Список мета свойств
 historyDescription: Представлено краткое описание Мета свойств
 ---
