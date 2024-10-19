@@ -1,6 +1,6 @@
 ---
 displayName: ScanGuard
-order: 72
+order: 70
 published: true
 ---
 ## **ScanGuard**
