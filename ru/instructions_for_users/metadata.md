@@ -1,5 +1,5 @@
 ---
 displayName: Инструкция пользователя
-order: 30
+order: 50
 published: true
 ---
