@@ -3,7 +3,7 @@ id: 203
 title: Вкладка - AntiDDoS
 displayName: AntiDDoS
 order: 1
-published: true
+published: false
 historyName: AntiDDoS
 historyDescription: Защита ресурса от DDoS-атак
 category: Сервисы
