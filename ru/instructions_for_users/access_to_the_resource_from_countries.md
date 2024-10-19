@@ -4,14 +4,14 @@ title: Вкладка - Ограничения доступа
 displayName: Ограничения доступа
 order: 1
 published: true
-historyName: Ограничения доступа
-historyDescription: Краткое описание руководства пользователя
+historyName: Настройки геоблокировки
+historyDescription: Защита ресурса от DDoS-атак
 category: Настройка ресурсов
-categoryName: Ограничения доступа
-categoryDescription: Как настроить ограничения доступа для входящего трафика
+categoryName: Настройки геоблокировки
+categoryDescription: Защита ресурса от DDoS-атак
 categoryOrder: 1
-categoryIcon: /icons/lock.svg
-footerName: Ограничения доступа
+categoryIcon: /icons/test-speed.svg
+footerName: Настройки геоблокировки
 footerOrder: 10
 ---
 ### **Доступ к ресурсу из стран**
