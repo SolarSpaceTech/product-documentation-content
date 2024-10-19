@@ -1,6 +1,6 @@
 ---
 displayName: Русский
-published: false
+published: true
 categories:
   - Начало работы
   - Сервисы
