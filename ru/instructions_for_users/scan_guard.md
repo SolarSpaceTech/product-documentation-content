@@ -1,3 +1,8 @@
+---
+displayName: ScanGuard
+order: 72
+published: true
+---
 ## **ScanGuard**
 Перейти на страницу "ScanGuard" вы можете через меню из раздела "Уровень защиты ресурса" или из бокового меню, кликнув по иконке "ScanGuard"
 
