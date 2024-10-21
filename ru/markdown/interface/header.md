@@ -7,10 +7,10 @@ published: true
 historyName: Шапка документации
 historyDescription: Шапка сайта предоставляет быстрый доступ к ключевым разделам, улучшая навигацию и настройку через мета свойства.
 headerName: Шапка документации
-headerOrder: 1
+headerOrder: 4
 footerName: Шапка документации
 footerOrder: 1
-category: Начало работы
+category: FAQ
 categoryName: Шапка документации
 categoryDescription: Шапка сайта предоставляет быстрый доступ к ключевым разделам, улучшая навигацию и настройку через мета свойства.
 categoryOrder: 1
