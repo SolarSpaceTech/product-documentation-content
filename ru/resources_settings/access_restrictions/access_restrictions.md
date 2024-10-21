@@ -5,10 +5,10 @@ displayName: Ограничения доступа
 order: 1
 published: true
 historyName: Ограничения доступа
-historyDescription: Настройка ограничений доступа для входящего трафика
+historyDescription: Геоблокировка, Black list, White list
 category: Настройка ресурсов
 categoryName: Ограничения доступа
-categoryDescription: Как настроить ограничения доступа для входящего трафика
+categoryDescription: Геоблокировка, Black list, White list
 categoryOrder: 1
 categoryIcon: ttps://img.solarspace.pro/docs/main.svg
 footerName: Ограничения доступа
