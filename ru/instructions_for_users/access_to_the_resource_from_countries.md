@@ -1,9 +1,9 @@
 ---
-id: 202
+id: 
 title: Вкладка - Настройки геоблокировки
 displayName: Настройки геоблокировки
 order: 1
-published: true
+published: false
 historyName: Настройки геоблокировки
 historyDescription: Защита ресурса от DDoS-атак
 category: Настройка ресурсов
