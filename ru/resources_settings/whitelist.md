@@ -9,7 +9,7 @@ historyDescription: Email защита от фишинга
 category: Настройка ресурсов
 categoryName: Настройки White List
 categoryDescription: Email защита от фишинга
-categoryOrder: 1
+categoryOrder: 2
 categoryIcon: https://img.solarspace.pro/docs/main.svg
 footerName: Настройки White List
 footerOrder: 10

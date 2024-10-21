@@ -9,7 +9,7 @@ historyDescription: Защита ресурса от DDoS-атак
 category: Настройка ресурсов
 categoryName: Настройки геоблокировки
 categoryDescription: Защита ресурса от DDoS-атак
-categoryOrder: 1
+categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/test-speed.svg
 footerName: Настройки геоблокировки
 footerOrder: 10

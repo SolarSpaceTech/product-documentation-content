@@ -10,7 +10,7 @@ category: Настройка ресурсов
 categoryName: Настройка SSL-сертификатов
 categoryDescription: Защита ресурса от DDoS-атак
 categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/main.svg
+categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
 footerName: Настройка SSL-сертификатов
 footerOrder: 10
 ---

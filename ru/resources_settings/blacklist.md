@@ -9,7 +9,7 @@ historyDescription: Обучение персонала
 category: Настройка ресурсов
 categoryName: Настройки Black List
 categoryDescription: Обучение персонала
-categoryOrder: 1
+categoryOrder: 6
 categoryIcon: https://img.solarspace.pro/docs/users.svg
 footerName: Настройки Black List
 footerOrder: 10
