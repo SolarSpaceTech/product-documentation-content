@@ -3,7 +3,7 @@ id: 201
 title: Вкладка - Ограничения доступа
 displayName: Ограничения доступа
 order: 1
-published: true
+published: false
 historyName: Ограничения доступа
 historyDescription: Настройка ограничений доступа для входящего трафика
 category: Настройка ресурсов
