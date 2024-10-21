@@ -3,14 +3,14 @@ id: 201
 title: Вкладка - Ограничения доступа
 displayName: Ограничения доступа
 order: 1
-published: false
+published: true
 historyName: Ограничения доступа
 historyDescription: Настройка ограничений доступа для входящего трафика
 category: Настройка ресурсов
 categoryName: Ограничения доступа
 categoryDescription: Как настроить ограничения доступа для входящего трафика
-categoryOrder: 4
-categoryIcon:
+categoryOrder: 1
+categoryIcon: ttps://img.solarspace.pro/docs/main.svg
 footerName: Ограничения доступа
 footerOrder: 10
 ---
