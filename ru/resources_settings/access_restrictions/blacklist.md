@@ -2,14 +2,14 @@
 id: 203
 title: Вкладка - Настройки Black List
 displayName: Настройки Black List
-order: 1
+order: 2
 published: true
 historyName: Настройки Black List
 historyDescription: Обучение персонала
 category: Настройка ресурсов
 categoryName: Настройки Black List
 categoryDescription: Обучение персонала
-categoryOrder: 1
+categoryOrder: 
 categoryIcon: https://img.solarspace.pro/docs/users.svg
 footerName: Настройки Black List
 footerOrder: 10

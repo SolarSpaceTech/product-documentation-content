@@ -2,14 +2,14 @@
 id: 205
 title: Вкладка - Настройки White List
 displayName: Настройки White List
-order: 1
+order: 3
 published: true
 historyName: Настройки White List
 historyDescription: Email защита от фишинга
 category: Настройка ресурсов
 categoryName: Настройки White List
 categoryDescription: Email защита от фишинга
-categoryOrder: 1
+categoryOrder: 
 categoryIcon: https://img.solarspace.pro/docs/main.svg
 footerName: Настройки White List
 footerOrder: 10
