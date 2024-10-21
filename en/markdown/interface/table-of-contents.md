@@ -209,3 +209,7 @@ The table of contents of an article is an important tool for organizing and navi
 ## [Additional Resources](additional-resources)
 
 - [Documentation on "Headings"]([18])
+- [Подробное описание мета свойства `displayName`]([37])
+- [Подробное описание мета свойства `order`]([202])
+- [Подробное описание мета свойства `published`]([46])
+- [Table of Contents](https://ya.ru/)
