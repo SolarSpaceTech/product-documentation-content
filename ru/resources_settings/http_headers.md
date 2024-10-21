@@ -9,7 +9,7 @@ historyDescription: Защита от взлома сайта
 category: Настройка ресурсов
 categoryName: Настройки HTTP-заголовков
 categoryDescription: Защита от взлома сайта
-categoryOrder: 5
+categoryOrder: 1
 categoryIcon: https://img.solarspace.pro/docs/waf.svg
 footerName: Настройки Black List
 footerOrder: 10
