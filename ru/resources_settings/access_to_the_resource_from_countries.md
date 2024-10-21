@@ -3,13 +3,13 @@ id: 202
 title: Вкладка - Настройки геоблокировки
 displayName: Настройки геоблокировки
 order: 1
-published: true
+published: false
 historyName: Настройки геоблокировки
 historyDescription: Защита ресурса от DDoS-атак
 category: Настройка ресурсов
 categoryName: Настройки геоблокировки
 categoryDescription: Защита ресурса от DDoS-атак
-categoryOrder: 4
+categoryOrder: 1
 categoryIcon: https://img.solarspace.pro/docs/test-speed.svg
 footerName: Настройки геоблокировки
 footerOrder: 10
