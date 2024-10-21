@@ -1,16 +1,16 @@
 ---
 id: 206
-title: Вкладка - Выбор сервиса и оплата
-displayName: Выбор сервиса и оплата
-order: 3
+title: Вкладка - Подтверждение аккаунта
+displayName: Подтверждение аккаунта
+order: 4
 published: true
-historyName: Выбор сервиса и оплата
-historyDescription: Защита от взлома сайта
+historyName: Подтверждение аккаунта
+historyDescription: Заполнение данных пользователя
 category: Начало работы
-categoryName: Выбор сервиса и оплата
-categoryDescription: Защита от взлома сайта
-categoryOrder: 3
+categoryName: Подтверждение аккаунта
+categoryDescription: Заполнение данных пользователя
+categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/ruble.svg
-footerName: Выбор сервиса и оплата
+footerName: Подтверждение аккаунта
 footerOrder: 13
 ---
