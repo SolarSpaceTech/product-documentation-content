@@ -5,10 +5,10 @@ displayName: Настройки Black List
 order: 2
 published: true
 historyName: Настройки Black List
-historyDescription: Обучение персонала
-category: Настройка ресурсов
+historyDescription: Черный список
+category: Ограничения доступа
 categoryName: Настройки Black List
-categoryDescription: Обучение персонала
+categoryDescription: Черный список
 categoryOrder: 
 categoryIcon: https://img.solarspace.pro/docs/users.svg
 footerName: Настройки Black List

@@ -6,7 +6,7 @@ order: 3
 published: true
 historyName: Настройки White List
 historyDescription: Email защита от фишинга
-category: Настройка ресурсов
+category: Ограничения доступа
 categoryName: Настройки White List
 categoryDescription: Email защита от фишинга
 categoryOrder: 

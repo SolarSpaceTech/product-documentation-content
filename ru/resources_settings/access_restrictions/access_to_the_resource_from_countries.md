@@ -6,7 +6,7 @@ order: 1
 published: true
 historyName: Настройки геоблокировки
 historyDescription: Защита ресурса от DDoS-атак
-category: Настройка ресурсов
+category: Ограничения доступа
 categoryName: Настройки геоблокировки
 categoryDescription: Защита ресурса от DDoS-атак
 categoryOrder: 
