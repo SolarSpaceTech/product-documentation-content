@@ -6,6 +6,13 @@ order: 40
 published: true
 historyName: Меню документации
 historyDescription: Меню документации упрощает навигацию и структуру разделов с помощью мета свойств `displayName`, `order`, `published`.
+footerName: Меню
+footerOrder: 3
+category: FAQ
+categoryName: FAQ
+categoryDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
+categoryOrder: 4
+categoryIcon: https://img.solarspace.pro/docs/users.svg
 ---
 
 # Меню документации

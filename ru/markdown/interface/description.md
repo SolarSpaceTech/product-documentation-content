@@ -7,10 +7,10 @@ published: true
 historyName: Описание
 historyDescription: Краткое описание элементов интерфейса.
 headerName: Описание
-headerOrder: 3
+headerOrder: 1
 footerName: Описание
 footerOrder: 3
-category: Настройка ресурсов
+category: FAQ
 categoryName: Описание
 categoryDescription: Краткое описание элементов интерфейса.
 categoryOrder: 3

@@ -1,3 +1,19 @@
+---
+id: 
+title: Вкладка - Настройки геоблокировки
+displayName: Настройки геоблокировки
+order: 1
+published: false
+historyName: Настройки геоблокировки
+historyDescription: Защита ресурса от DDoS-атак
+category: Настройка ресурсов
+categoryName: Настройки геоблокировки
+categoryDescription: Защита ресурса от DDoS-атак
+categoryOrder: 1
+categoryIcon: https://img.solarspace.pro/docs/test-speed.svg
+footerName: Настройки геоблокировки
+footerOrder: 10
+---
 ### **Доступ к ресурсу из стран**
 Вы можете настроить 2 варианта ограничения доступа в зависимости от геолокации:
 
