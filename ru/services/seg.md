@@ -1,0 +1,16 @@
+---
+id: 203
+title: Вкладка - SEG
+displayName: SEG
+order: 1
+published: true
+historyName: SEG
+historyDescription: Email защита от фишинга
+category: Сервисы
+categoryName: SEG
+categoryDescription: Email защита от фишинга
+categoryOrder: 1
+categoryIcon: https://img.solarspace.pro/docs/waf.svg
+footerName: SEG
+footerOrder: 10
+---
