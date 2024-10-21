@@ -9,7 +9,7 @@ historyDescription: Геоблокировка, Black list, White list
 category: Настройка ресурсов
 categoryName: Ограничения доступа
 categoryDescription: Геоблокировка, Black list, White list
-categoryOrder: 1
+categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/main.svg
 footerName: Ограничения доступа
 footerOrder: 10
