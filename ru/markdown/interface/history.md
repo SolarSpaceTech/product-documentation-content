@@ -6,6 +6,13 @@ order: 70
 published: true
 historyName: История посещений документации
 historyDescription: Улучшает навигацию, позволяя быстро возвращаться к ранее изученным статьям и разделам.
+footerName: История посещений
+footerOrder: 1
+category: FAQ
+categoryName: История посещений
+categoryDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
+categoryOrder: 3
+categoryIcon: https://img.solarspace.pro/docs/users.svg
 ---
 
 # История посещений документации

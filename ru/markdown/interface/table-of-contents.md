@@ -6,6 +6,13 @@ order: 60
 published: true
 historyName: Оглавление
 historyDescription: Навигационный список заголовков, упрощающий поиск и доступ к разделам документации.
+footerName: Оглавление
+footerOrder: 4
+category: FAQ
+categoryName: Оглавление
+categoryDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
+categoryOrder: 5
+categoryIcon: https://img.solarspace.pro/docs/users.svg
 ---
 
 # Оглавление
@@ -220,3 +227,6 @@ historyDescription: Навигационный список заголовков
 ## [Дополнительные ресурсы](additional-resources)
 
 - [Документация по "Заголовки"]([18])
+- [Подробное описание мета свойства `displayName`]([37])
+- [Подробное описание мета свойства `order`]([202])
+- [Подробное описание мета свойства `published`]([46])
