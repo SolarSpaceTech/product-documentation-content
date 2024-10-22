@@ -1,5 +1,5 @@
 ---
-id: 202
+id: 
 title: Вкладка - Настройки геоблокировки
 displayName: Настройки геоблокировки
 order: 1
@@ -20,4 +20,8 @@ footerOrder: 10
 - только у стран из списка ниже – выберите конкретные страны, доступ из которых будет разрешен;
 - у всех кроме стран из списка ниже - (этот пункт выбран по умолчанию) – выберите конкретные страны, доступ из которых будет запрещен.
 
-https://img.solarspace.pro/docs/access-to-the-resource-from-countries.png
+![access-to-the-resource-from-countries](https://img.solarspace.pro/docs/field-geo.jpg "Ограничение входящего трафика для стран")
+
+![access-type-for-countries](https://img.solarspace.pro/docs/choose-countries-geo.jpg "Доступность входящего траифка для выбранных стран")
+
+![choose-counties](https://img.solarspace.pro/docs/countries-menu-geo.jpg "Страны, которым будет разрешено или запрещено отправлять трафик")
