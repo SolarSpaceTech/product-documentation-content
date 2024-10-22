@@ -1,17 +1,17 @@
 ---
 id: 203
-title: Вкладка - AntiDDoS
-displayName: AntiDDoS
-order: 1
+title: Вкладка - WAF Lite
+displayName: WAf Lite
+order: 7
 published: true
-historyName: AntiDDoS
-historyDescription: Защита ресурса от DDoS-атак
+historyName: WAF Lite
+historyDescription: Защита от взлома сайта
 category: Сервисы
-categoryName: AntiDDoS
-categoryDescription: Защита ресурса от DDoS-атак
-categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
-footerName: AntiDDoS
+categoryName: WAF Lite
+categoryDescription: Защита от взлома сайта
+categoryOrder: 7
+categoryIcon: https://img.solarspace.pro/docs/waf.svg
+footerName: WAF Lite
 footerOrder: 10
 ---
 

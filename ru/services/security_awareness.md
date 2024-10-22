@@ -1,17 +1,17 @@
 ---
 id: 203
-title: Вкладка - AntiDDoS
-displayName: AntiDDoS
-order: 1
+title: Вкладка - Security Awareness
+displayName: Security Awareness
+order: 3
 published: true
-historyName: AntiDDoS
-historyDescription: Защита ресурса от DDoS-атак
+historyName: Security Awareness
+historyDescription: Обучение персонала
 category: Сервисы
-categoryName: AntiDDoS
-categoryDescription: Защита ресурса от DDoS-атак
-categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
-footerName: AntiDDoS
+categoryName: Security Awareness
+categoryDescription: Обучение персонала
+categoryOrder: 3
+categoryIcon: https://img.solarspace.pro/docs/waf.svg
+footerName: Security Awareness
 footerOrder: 10
 ---
 

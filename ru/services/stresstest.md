@@ -1,17 +1,17 @@
 ---
 id: 203
-title: Вкладка - AntiDDoS
-displayName: AntiDDoS
-order: 1
+title: Вкладка - StressTest
+displayName: StressTest
+order: 5
 published: true
-historyName: AntiDDoS
-historyDescription: Защита ресурса от DDoS-атак
+historyName: StressTest
+historyDescription: Тестирование сайта
 category: Сервисы
-categoryName: AntiDDoS
-categoryDescription: Защита ресурса от DDoS-атак
-categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
-footerName: AntiDDoS
+categoryName: StressTest
+categoryDescription: Тестирование сайта
+categoryOrder: 5
+categoryIcon: https://img.solarspace.pro/docs/waf.svg
+footerName: StressTest
 footerOrder: 10
 ---
 
