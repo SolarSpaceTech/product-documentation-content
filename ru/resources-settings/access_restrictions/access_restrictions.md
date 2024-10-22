@@ -3,6 +3,16 @@ id: 201
 title: Вкладка - Ограничения доступа
 displayName: Ограничения доступа
 order: 1
+<<<<<<<< HEAD:ru/instructions-for-users/access_restrictions.md
+published: false
+historyName: Ограничения доступа
+historyDescription: Настройка ограничений доступа для входящего трафика
+category: Настройка ресурсов
+categoryName: Ограничения доступа
+categoryDescription: Как настроить ограничения доступа для входящего трафика
+categoryOrder: 1
+categoryIcon:
+========
 published: true
 historyName: Ограничения доступа
 historyDescription: Геоблокировка, Black list, White list
@@ -11,10 +21,15 @@ categoryName: Ограничения доступа
 categoryDescription: Геоблокировка, Black list, White list
 categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/main.svg
+>>>>>>>> dev:ru/resources-settings/access_restrictions/access_restrictions.md
 footerName: Ограничения доступа
 footerOrder: 10
 ---
 
+<<<<<<<< HEAD:ru/instructions-for-users/access_restrictions.md
+
+========
+>>>>>>>> dev:ru/resources-settings/access_restrictions/access_restrictions.md
 ## **Вкладка "Ограничения доступа"**
 На этой вкладке вы можете задать параметры ограничения доступа к вашему ресурсу. Доступны 3 типа ограничений:
 
@@ -28,4 +43,7 @@ footerOrder: 10
 3. White list - если запрос пришел из "запрещенной" страны, но IP-адрес внесен в White list с разрешением доступа, то система пропускает пользователя на ресурс. Если IP-адрес не внесен в White list, то система перенаправляет его на проверку сервисами защиты – AntiDDoS, Antibot, WAF Lite – в зависимости от того, какие из них у вас подключены.
 
 https://img.solarspace.pro/docs/access_restrictions.png
+<<<<<<<< HEAD:ru/instructions-for-users/access_restrictions.md
+========
 
+>>>>>>>> dev:ru/resources-settings/access_restrictions/access_restrictions.md
