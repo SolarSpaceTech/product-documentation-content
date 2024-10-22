@@ -14,3 +14,5 @@ categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
 footerName: Восстановление пароля
 footerOrder: 15
 ---
+
+### **Восстановление пароля**
