@@ -1,5 +1,5 @@
 ---
-id: 
+id: 445
 title: Вкладка - Ограничения доступа
 displayName: Ограничения доступа
 order: 1
@@ -11,8 +11,6 @@ categoryName: Ограничения доступа
 categoryDescription: Геоблокировка, Black list, White list
 categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/main.svg
-footerName: Ограничения доступа
-footerOrder: 10
 ---
 
 ## **Вкладка "Ограничения доступа"**
@@ -28,4 +26,4 @@ footerOrder: 10
 2. Доступ к ресурсу из стран - сопоставляет страну, из которой пришел запрос, со списком стран, из которых запросы разрешены/запрещены. Если обращение пришло из "разрешенного" государства, система пропускает пользователя сразу на ресурс. Запросы из "запрещенной" страны перенаправляются на третий этап проверки – White list.
 3. White list - если запрос пришел из "запрещенной" страны, но IP-адрес внесен в White list с разрешением доступа, то система пропускает пользователя на ресурс. Если IP-адрес не внесен в White list, то система перенаправляет его на проверку сервисами защиты – AntiDDoS, Antibot, WAF Lite – в зависимости от того, какие из них у вас подключены.
 
-![access-restriction](https://img.solarspace.pro/docs/access_restrictions.png "Раздел видов ограничения доступа")
+![access-restriction (80%)](https://img.solarspace.pro/docs/access_restrictions.png "Раздел видов ограничения доступа")

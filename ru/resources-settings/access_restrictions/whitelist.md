@@ -1,5 +1,5 @@
 ---
-id: 
+id: 454
 title: Вкладка - Настройки White List
 displayName: Настройки White List
 order: 3
@@ -11,8 +11,6 @@ categoryName: Настройки White List
 categoryDescription: Email защита от фишинга
 categoryOrder: 
 categoryIcon: https://img.solarspace.pro/docs/main.svg
-footerName: Настройки White List
-footerOrder: 10
 ---
 
 ### **White list**
@@ -25,6 +23,6 @@ footerOrder: 10
 
 Добавьте IP-адреса (IPv4) и подсети (группы IP-адресов), запрос от которых система будет пропускать без дополнительных проверок, за исключением проверок Black list и Доступа к ресурсу из стран. Их можно прописать вручную или загрузить списком в формате .csv.
 
-![White list](https://img.solarspace.pro/docs/field-whitelist.jpg "Определение необходимости направлять IP-адрес на дополнительные проверки")
+![White list (80%)](https://img.solarspace.pro/docs/field-whitelist.jpg "Определение необходимости направлять IP-адрес на дополнительные проверки")
 
 > Взаимодействие с настройками добавления и импортирования IP-адресов в White list идентично настройкам Black list. 
