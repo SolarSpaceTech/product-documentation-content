@@ -17,26 +17,25 @@ footerOrder: 11
 
 ### **Авторизация**
 Откройте страницу авторизации – https://my.solarspace.pro/sign-in
+
 На ней размещается форма с обязательными для заполнения полями “Введите Email”, “Введите пароль” и кнопкой "Войти".
 
-![Стартовая форма авторизации](https://img.solarspace.pro/docs/auth-start-form.jpg)
+![Start authorization form(50%)](https://img.solarspace.pro/docs/auth-start-form.jpg)
 
 Введите email и пароль в соответствующие поля. Если они заполнены корректно, кнопка "Войти" станет активной. Нажмите на нее, чтобы перейти на стартовую страницу "Мои ресурсы".
 
-![Активная форма авторизации](https://img.solarspace.pro/docs/auth-active-form.jpg)
+![Active authorization form(50%)](https://img.solarspace.pro/docs/auth-active-form.jpg)
 
 Если в поля введены некорректные данные, то при нажатии на кнопку "Войти" вы увидите сообщение  "Логин или пароль неверен".
 
-![Форма авторизации с некорректными значениями для емайла или пароля](https://img.solarspace.pro/docs/auth-incorrect-email-or-password.jpg)
+![Authorization form with incorrect email or password(50%)](https://img.solarspace.pro/docs/auth-incorrect-email-or-password.jpg)
 
 После 5 неудачных попыток авторизации с неверным паролем вам потребуется ввести капчу. С ее помощью система распознает вас как реального пользователя.
 
-![Капча на форме авторизации](https://img.solarspace.pro/docs/auth-captcha.jpg)
+![Captcha on the authorization form(50%)](https://img.solarspace.pro/docs/auth-captcha.jpg)
 
 При отправке формы с некорректным кодом вы увидите надпись "Неверный текст", и капча обновится. Количество попыток прохождения капчи не ограничено.
 
-![Капча с неверным кодом на форме авторизации](https://img.solarspace.pro/docs/auth-wrong-captcha.jpg)
+![Captcha with wrong code on the authorization form(50%)](https://img.solarspace.pro/docs/auth-wrong-captcha.jpg)
 
 Когда капча пройдена, и поля "Логин", "Пароль" заполнены корректно, кнопка "Войти" станет активной. Нажмите на нее, чтобы перейти на стартовую страницу "Мои ресурсы".
-
-

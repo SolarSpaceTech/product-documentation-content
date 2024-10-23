@@ -8,7 +8,7 @@ historyName: Оглавление
 historyDescription: Навигационный список заголовков, упрощающий поиск и доступ к разделам документации.
 footerName: Оглавление
 footerOrder: 4
-category: FAQ
+category: 
 categoryName: Оглавление
 categoryDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
 categoryOrder: 5
