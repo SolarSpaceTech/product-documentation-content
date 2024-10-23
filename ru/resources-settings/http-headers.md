@@ -1,5 +1,5 @@
 ---
-id: 533
+id: 5
 title: Вкладка - Настройки HTTP-заголовков
 displayName: Настройки HTTP-заголовков
 order: 3

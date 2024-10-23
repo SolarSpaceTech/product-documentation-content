@@ -1,5 +1,5 @@
 ---
-id: 203
+id: 11
 title: Вкладка - Sec DNS
 displayName: Sec DNS
 order: 6

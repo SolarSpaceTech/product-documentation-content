@@ -1,5 +1,5 @@
 ---
-id: 203
+id: 10
 title: Вкладка - ScanGuard
 displayName: ScanGuard
 order: 9

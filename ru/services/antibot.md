@@ -1,5 +1,5 @@
 ---
-id: 203
+id: 7
 title: Вкладка - Antibot
 displayName: Antibot
 order: 4

@@ -1,5 +1,5 @@
 ---
-id: 454
+id: 3
 title: Вкладка - Настройки White List
 displayName: Настройки White List
 order: 3

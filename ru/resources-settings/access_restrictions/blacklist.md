@@ -1,5 +1,5 @@
 ---
-id: 555
+id: 3
 title: Вкладка - Настройки Black List
 displayName: Настройки Black List
 order: 2
