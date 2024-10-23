@@ -11,8 +11,6 @@ categoryName: Antibot
 categoryDescription: Защита ресурса от ботнет атак
 categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/waf.svg
-footerName: Antibot
-footerOrder: 10
 ---
 
 
