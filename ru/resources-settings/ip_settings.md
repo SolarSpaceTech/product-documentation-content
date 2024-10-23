@@ -45,7 +45,7 @@ categoryIcon: https://img.solarspace.pro/docs/copy-link.svg
 
 Если в поле ввода IP-адреса ввести уже существующий IP-адрес, отобразится соответствующая надпись о том, что такой IP-адрес уже есть.
 
-![ip exist](https://img.solarspace.pro/docs/double-ip-settings.jpg "Уведомление о существующем IP-адресе")
+![ip exist (80%)](https://img.solarspace.pro/docs/double-ip-settings.jpg "Уведомление о существующем IP-адресе")
 
 Если у вас один IP-адрес, то в правой части страницы будет раздел "Дополнительные функции", с возможностью настроить блок "Порты IP-адресов".
 
