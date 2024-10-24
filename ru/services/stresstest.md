@@ -10,7 +10,7 @@ category: Сервисы
 categoryName: StressTest
 categoryDescription: Тестирование сайта
 categoryOrder: 5
-categoryIcon: https://img.solarspace.pro/docs/waf.svg
+categoryIcon: https://img.solarspace.pro/docs/test-speed.svg
 ---
 
 Сервис в разработке. Если хотите протестировать его одним из первых, сообщите об этом письмом на почту solarspace@rt-solar.ru. Мы свяжемся с вами, когда он будет готов к релизу

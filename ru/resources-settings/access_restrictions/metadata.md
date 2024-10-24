@@ -1,5 +1,5 @@
 ---
 displayName: Ограничения доступа
-order: 50
+order: 51
 published: true
 ---

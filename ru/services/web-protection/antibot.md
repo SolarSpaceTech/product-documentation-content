@@ -10,7 +10,7 @@ category: Сервисы
 categoryName: Antibot
 categoryDescription: Защита ресурса от ботнет атак
 categoryOrder: 4
-categoryIcon: https://img.solarspace.pro/docs/waf.svg
+categoryIcon: https://img.solarspace.pro/docs/anti-bot.svg
 ---
 
 
