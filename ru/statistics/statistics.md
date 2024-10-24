@@ -8,8 +8,6 @@ historyName: Статистика
 historyDescription: Ширина канала, Запросы, Коды ответов, География запросов
 categoryDescription: Ширина канала, Запросы, Коды ответов, География запросов
 categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
-footerName: Статистика
-footerOrder: 15
 ---
 
 ### **Статистика**

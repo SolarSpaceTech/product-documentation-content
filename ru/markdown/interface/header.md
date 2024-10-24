@@ -8,13 +8,6 @@ historyName: Шапка документации
 historyDescription: Шапка сайта предоставляет быстрый доступ к ключевым разделам, улучшая навигацию и настройку через мета свойства.
 headerName: Шапка документации
 headerOrder: 4
-footerName: Шапка документации
-footerOrder: 1
-category: FAQ
-categoryName: Шапка документации
-categoryDescription: Шапка сайта предоставляет быстрый доступ к ключевым разделам, улучшая навигацию и настройку через мета свойства.
-categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/microchip.svg
 ---
 
 # Шапка документации
