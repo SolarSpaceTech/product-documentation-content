@@ -1,5 +1,5 @@
 ---
 displayName: Сервисы
-order: 50
+order: 52
 published: true
 ---
