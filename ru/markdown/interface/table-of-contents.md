@@ -10,7 +10,6 @@ footerName: Оглавление
 footerOrder: 4
 categoryName: Оглавление
 categoryDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
-categoryOrder: 5
 categoryIcon: https://img.solarspace.pro/docs/users.svg
 ---
 
