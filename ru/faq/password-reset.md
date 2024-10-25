@@ -5,7 +5,7 @@ displayName: Восстановление пароля
 order: 1
 published: true
 historyName: Восстановление пароля
-historyDescription: 
+historyDescription: Инструкция по восстановлению пароля
 category: FAQ
 categoryName: Восстановление пароля
 categoryDescription: 
