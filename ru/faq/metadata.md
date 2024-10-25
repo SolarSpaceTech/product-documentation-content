@@ -1,5 +1,5 @@
 ---
-displayName: NEW FAQ
-order: 52
+displayName: FAQ
+order: 55
 published: true
 ---

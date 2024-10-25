@@ -8,13 +8,6 @@ historyName: Подвал документации
 historyDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
 headerName: Подвал документации
 headerOrder: 4
-footerName: Подвал документации
-footerOrder: 2
-category: FAQ
-categoryName: Подвал документации
-categoryDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
-categoryOrder: 2
-categoryIcon: https://img.solarspace.pro/docs/users.svg
 ---
 
 # Подвал документации

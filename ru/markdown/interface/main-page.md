@@ -6,13 +6,6 @@ order: 10
 published: true
 historyName: Секции главной документации
 historyDescription: Структурирует контент, упрощают навигацию и помогают пользователям находить важные статьи и разделы.
-footerName: Секции главной
-footerOrder: 2
-category: FAQ
-categoryName: Секции главной
-categoryDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
-categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/users.svg
 ---
 
 # Секции главной страницы

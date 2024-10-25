@@ -8,13 +8,6 @@ historyName: Описание
 historyDescription: Краткое описание элементов интерфейса.
 headerName: Описание
 headerOrder: 1
-footerName: Описание
-footerOrder: 3
-category: FAQ
-categoryName: Описание
-categoryDescription: Краткое описание элементов интерфейса.
-categoryOrder: 3
-categoryIcon: https://img.solarspace.pro/docs/desktop.svg
 ---
 
 # Описание элементов документации

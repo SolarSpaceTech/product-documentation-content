@@ -8,13 +8,6 @@ historyName: Хлебные крошки документации
 historyDescription: Меню документации упрощает навигацию и структуру разделов с помощью мета свойств `displayName`, `order`, `published`.
 headerName: Хлебные крошки
 headerOrder: 1
-footerName: Хлебные крошки
-footerOrder: 4
-category: FAQ
-categoryName: Хлебные крошки
-categoryDescription: Меню документации упрощает навигацию и структуру разделов с помощью мета свойств `displayName`, `order`, `published`.
-categoryOrder: 4
-categoryIcon: https://img.solarspace.pro/docs/waf.svg
 ---
 
 # Хлебные крошки документации
