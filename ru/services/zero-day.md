@@ -1,0 +1,22 @@
+---
+id: 241
+title: Вкладка - Zero Day
+displayName: Zero Day
+order: 62
+published: true
+historyName: Zero Day
+historyDescription: Сканирование внешнего периметра
+category: Сервисы
+categoryName: Zero Day
+categoryDescription: Сканирование внешнего периметра
+categoryOrder: 16
+categoryIcon: https://img.solarspace.pro/docs/test-speed.svg
+---
+
+
+Zero Day (Сканирование внешнего периметра)
+Сервис для углубленного сканирования сетевого периметра с отчетом по выявленным уязвимостям и рекомендациями по их устранению.
+
+Сервис в разработке. Если хотите протестировать его одним из первых, сообщите об этом письмом на почту solarspace@rt-solar.ru. Мы свяжемся с вами, когда он будет готов к релизу.  
+
+Сейчас вы можете подключить сервисы из WEB-защиты: [AntiDDoS]([217]), [Antibot]([216]) и [WAF Lite]([234]).
