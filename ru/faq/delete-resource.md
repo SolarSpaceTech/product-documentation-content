@@ -1,9 +1,9 @@
 ---
-id: 2434
+id: 235
 title: Вкладка - Восстановление пароля
 displayName: Восстановление пароля
 order: 2
-published: false
+published: true
 historyName: Восстановление пароля
 historyDescription: 
 category: FAQ
