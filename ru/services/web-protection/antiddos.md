@@ -13,4 +13,14 @@ categoryOrder: 1
 categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
 ---
 
-Сервис в разработке. Если хотите протестировать его одним из первых, сообщите об этом письмом на почту solarspace@rt-solar.ru. Мы свяжемся с вами, когда он будет готов к релизу
+# Вкладка "AntiDDoS"
+
+### Description
+
+На странице сервиса AntiDDoS доступно его краткое описание и переключатель для активации услуги. AntiDDoS – базовый уровень защиты ресурса, без него невозможна работа Antibot и WAF Lite. Поэтому активация других сервисов возможна только при условии активного AntiDDoS.
+
+![AntiDDoS (80%|left)](https://img.solarspace.pro/docs/antiddos.jpg "antiddos")
+
+> **WARNING**
+> Отключение AntiDDoS приведет к отключению Antibot и WAF Lite.
+
