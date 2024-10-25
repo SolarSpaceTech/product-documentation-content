@@ -11,11 +11,9 @@ categoryName: Авторизация
 categoryDescription: Вход в систему
 categoryOrder: 1
 categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
-footerName: Авторизация
-footerOrder: 11
 ---
 
-### **Авторизация**
+### Авторизация
 Откройте страницу авторизации – https://my.solarspace.pro/sign-in
 
 На ней размещается форма с обязательными для заполнения полями “Введите Email”, “Введите пароль” и кнопкой "Войти".

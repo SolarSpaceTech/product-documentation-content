@@ -11,11 +11,9 @@ categoryName: Создание ресурса
 categoryDescription: Добавление доменов
 categoryOrder: 2
 categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
-footerName: Создание ресурса
-footerOrder: 12
 ---
 
-### **Создание ресурса**
+### Создание ресурса
 Нажмите на кнопку "Создать ресурс" ![screen]() в правом верхнем углу.
 
 ![screen]()
