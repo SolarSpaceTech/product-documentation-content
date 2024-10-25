@@ -14,7 +14,7 @@ categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
 
 Для быстрого доступа к странице "Статистика" из любого раздела нажмите на иконку в боковом меню слева
 
-![Sidebar for Statistics(30%)](https://img.solarspace.pro/docs/statistic-sidebar.jpg "Боковое меню раздела "Статистика"")
+![Sidebar for Statistics(30%)](https://img.solarspace.pro/docs/statistic-sidebar.jpg "Боковое меню раздела 'Статистика'")
 
 На странице отображаются отчеты по всем вашим ресурсам. Доступны 4 вкладки:
 - [Ширина канала]([236])

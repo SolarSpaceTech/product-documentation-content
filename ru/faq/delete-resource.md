@@ -1,13 +1,13 @@
 ---
 id: 235
-title: Вкладка - Восстановление пароля
-displayName: Восстановление пароля
+title: Вкладка - Удаление ресурса
+displayName: Удаление ресурса
 order: 2
 published: true
-historyName: Восстановление пароля
-historyDescription: 
+historyName: Удаление ресурса
+historyDescription: Инструкция по удалению ресурса
 category: FAQ
-categoryName: Восстановление пароля
+categoryName: Удаление ресурса
 categoryDescription: 
 categoryOrder: 2
 categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
