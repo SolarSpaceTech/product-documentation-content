@@ -10,7 +10,7 @@ category: Настройка ресурсов
 categoryName: Настройки HTTP-заголовков
 categoryDescription: Защита от взлома сайта
 categoryOrder: 3
-categoryIcon: https://img.solarspace.pro/docs/waf.svg
+categoryIcon: https://img.solarspace.pro/docs/icon_07.svg
 ---
 
 # Вкладка "HTTP заголовки"

@@ -10,7 +10,7 @@ category: Настройка ресурсов
 categoryName: Настройки IP-адресов
 categoryDescription: Защита от ботнет атак
 categoryOrder: 2
-categoryIcon: https://img.solarspace.pro/docs/copy-link.svg
+categoryIcon: https://img.solarspace.pro/docs/icon_06.svg
 ---
 
 # Вкладка "Настройки IP"
