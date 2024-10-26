@@ -2,7 +2,7 @@
 id: 205
 title: Вкладка - Создание ресурса
 displayName: Создание ресурса
-order: 2
+order: 3
 published: true
 historyName: Создание ресурса
 historyDescription: Добавление доменов
