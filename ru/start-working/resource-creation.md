@@ -40,5 +40,5 @@ categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
 
 ![Create resource(35%)](https://img.solarspace.pro/docs/create-resource.jpg "Создание ресурса")
 
-4. После создания ресурса вам необходимо его [верифицировать]([206])
+4. После успешного создания ресурса вам необходимо его [верифицировать]([206])
 
