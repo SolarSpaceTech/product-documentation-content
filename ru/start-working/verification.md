@@ -2,7 +2,7 @@
 id: 206
 title: Вкладка - Верификация
 displayName: Верификация
-order: 3
+order: 4
 published: true
 historyName: Верификация
 historyDescription: Подтверждение владения доменом
