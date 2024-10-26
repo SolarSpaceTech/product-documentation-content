@@ -10,7 +10,7 @@ category: Настройка ресурсов
 categoryName: Ограничения доступа
 categoryDescription: Геоблокировка, Black list, White list
 categoryOrder: 4
-categoryIcon: https://img.solarspace.pro/docs/main.svg
+categoryIcon: https://img.solarspace.pro/docs/icon_08.svg
 ---
 
 # Вкладка "Ограничения доступа"

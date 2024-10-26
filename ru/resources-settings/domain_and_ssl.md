@@ -10,7 +10,7 @@ category: Настройка ресурсов
 categoryName: Домен и SSL
 categoryDescription: Настройка SSL-сертификатов домена
 categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
+categoryIcon: https://img.solarspace.pro/docs/icon_05.svg
 ---
 
 

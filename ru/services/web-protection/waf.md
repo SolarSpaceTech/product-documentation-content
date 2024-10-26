@@ -94,10 +94,31 @@ categoryIcon: https://img.solarspace.pro/docs/waf.svg
 Для быстрого перемещения между страницами нажмите на кнопку "Список исключений" или "Заблокированные атаки" в правой верхней части страницы.  
 Название кнопки будет отличаться в зависимости от того, на какой странице вы сейчас находитесь
 
-![button-exceprions (80%|left)](https://img.solarspace.pro/docs/buttom-exceptions.jpg "Кнопка "Список исключений"")
+![button-exceptions (80%|left)](https://img.solarspace.pro/docs/buttom-exceptions.jpg "Кнопка Список исключений")
 
-![button-blocked-attacks (80%|left)](https://img.solarspace.pro/docs/buttom-attacks.jpg "Кнопка "Заблокированные атаки"")
+![button-blocked-attacks (80%|left)](https://img.solarspace.pro/docs/buttom-attacks.jpg "Кнопка Заблокированные атаки")
 
 Если вы не добавили ни одно исключение, при переходе в "Список исключений" вы увидите надпись "Исключений не найдено"
 
 ![exceptions-not-found (80%|left)](https://img.solarspace.pro/docs/not-found-exceptions.jpg "Исключений не найдено")
+
+
+### [Защита от типов атак](protection-from-types-of-attacks)
+
+1. Scanner Detection
+2. HTTP protection
+3. Local File Inclusion (LFI)
+4. Remote File Inclusion (RFI)
+5. Remote Code Execution (RCE)
+6. PHP Injection (PHPi)
+7. Generic Attack
+8. Cross Site Scripting (XSS)
+9. SQL Injection (SQLi)
+10. Session Fixation
+11. JAVA
+12. Leakaages
+13. Leakages-SQL
+14. Leakages-JAVA
+15. Leakages-PHP
+16. Leakages Microsoft IIS
+17. WEB shells
