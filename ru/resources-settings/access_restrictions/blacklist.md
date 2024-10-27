@@ -35,7 +35,7 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 
 ![how-to-add-csv (80%|left)](https://img.solarspace.pro/docs/choose-csv.jpg "Замена или добавление списка IP-адресов к существующему")
 
-![buttom-import (80%|left)](https://img.solarspace.pro/docs/approve-csv.jpg "Импортирование после загрузки CSV-файла в Black list")
+![button-import (80%|left)](https://img.solarspace.pro/docs/approve-csv.jpg "Импортирование после загрузки CSV-файла в Black list")
 
 Если хотите отменить внесенные изменения, нажмите "Отменить", окно закроется.
 
@@ -55,7 +55,7 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 
 После введения IP-адреса/подсети или загрузки файла со списком нажмите кнопку "Сохранить" в нижней части экрана.
 
-![buttom-save-changes (80%|left)](https://img.solarspace.pro/docs/save-cidr-csv.jpg "Необходимо сохранить изменения")
+![button-save-changes (80%|left)](https://img.solarspace.pro/docs/save-cidr-csv.jpg "Необходимо сохранить изменения")
 
 В нижней части экрана вы увидите сообщение "Настройки ресурса успешно сохранены". Добавленный IP-адрес отражается в списке подлежащих блокировке.
 
@@ -65,7 +65,7 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 Если хотите добавить новые IP-адреса/подсети, нажмите на кнопку "+" рядом с полем поиска.
 Для загрузки списка нажмите иконку загрузки файла в верхнем правом углу формы. 
 
-![little-buttoms-for-edit (80%|left)](https://img.solarspace.pro/docs/buttoms-cidr-csv.jpg "Маленькие кнопки для взаимодействия с разделом. Актуально и для White list")
+![little-buttons-for-edit (80%|left)](https://img.solarspace.pro/docs/buttoms-cidr-csv.jpg "Маленькие кнопки для взаимодействия с разделом. Актуально и для White list")
 
 Нужный IP-адрес можно найти через поле поиска. Вы можете задать в нем любой уровень. Если IP-адрес есть в списке, система его найдет.
 

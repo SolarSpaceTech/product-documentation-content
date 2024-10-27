@@ -2,38 +2,39 @@
 id: 204
 title: Вкладка - Авторизация
 displayName: Авторизация
-order: 1
+order: 2
 published: true
 historyName: Авторизация
 historyDescription: Вход в систему
-category: Начало работы
-categoryName: Авторизация
-categoryDescription: Вход в систему
-categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
 ---
 
 ### Авторизация
-Откройте страницу авторизации – https://my.solarspace.pro/sign-in
+Если у вас еще нет аккаунта, вы можете [зарегистрироваться]([242])
 
-На ней размещается форма с обязательными для заполнения полями “Введите Email”, “Введите пароль” и кнопкой "Войти".
+Если вы забыли пароль, у вас есть возможность его [восстановить]([208])
 
-![Start authorization form(50%)](https://img.solarspace.pro/docs/auth-start-form.jpg)
+Для авторизации в личном кабинете выполните следующие действие:
 
-Введите email и пароль в соответствующие поля. Если они заполнены корректно, кнопка "Войти" станет активной. Нажмите на нее, чтобы перейти на стартовую страницу "Мои ресурсы".
+1. Откройте страницу авторизации – https://my.solarspace.pro/sign-in
 
-![Active authorization form(50%)](https://img.solarspace.pro/docs/auth-active-form.jpg)
+На ней размещается форма с обязательными для заполнения полями “Введите Email”, “Введите пароль” и кнопкой "Войти"
 
-Если в поля введены некорректные данные, то при нажатии на кнопку "Войти" вы увидите сообщение  "Логин или пароль неверен".
+![Start authorization form(35%)](https://img.solarspace.pro/docs/auth-start-form.jpg "Стартовая форма авторизации")
 
-![Authorization form with incorrect email or password(50%)](https://img.solarspace.pro/docs/auth-incorrect-email-or-password.jpg)
+2. Введите email и пароль, которые вы указывали при регистрации. Если они заполнены корректно, кнопка "Войти" станет активной. Нажмите на нее для перехода на стартовую страницу "Мои ресурсы" в личном кабинете
 
-После 5 неудачных попыток авторизации с неверным паролем вам потребуется ввести капчу. С ее помощью система распознает вас как реального пользователя.
+![Active authorization form(35%)](https://img.solarspace.pro/docs/auth-active-form.jpg "Активная форма авторизации")
 
-![Captcha on the authorization form(50%)](https://img.solarspace.pro/docs/auth-captcha.jpg)
+При вводе некорректных данных и нажатии на кнопку "Войти" вы увидите сообщение  "Логин или пароль неверен"
 
-При отправке формы с некорректным кодом вы увидите надпись "Неверный текст", и капча обновится. Количество попыток прохождения капчи не ограничено.
+![Authorization form with incorrect email or password(35%)](https://img.solarspace.pro/docs/auth-incorrect-email-or-password.jpg "Авторизация с некорректным емайлом или паролем")
 
-![Captcha with wrong code on the authorization form(50%)](https://img.solarspace.pro/docs/auth-wrong-captcha.jpg)
+После 5 неудачных попыток авторизации с неверным паролем вам потребуется ввести капчу, с помощью которой система cможет отличить реального пользователя от робота
 
-Когда капча пройдена, и поля "Логин", "Пароль" заполнены корректно, кнопка "Войти" станет активной. Нажмите на нее, чтобы перейти на стартовую страницу "Мои ресурсы".
+![Captcha on the authorization form(35%)](https://img.solarspace.pro/docs/auth-captcha.jpg "Капча на форме авторизации")
+
+При отправке формы с некорректным кодом вы увидите сообщение "Неверный текст", и капча обновится. Количество попыток прохождения капчи не ограничено
+
+![Captcha with wrong code on the authorization form(35%)](https://img.solarspace.pro/docs/auth-wrong-captcha.jpg "Неверный код для капчи на форме авторизации")
+
+Когда капча пройдена, и поля "Логин" и "Пароль" заполнены корректно, кнопка "Войти" станет активной. Нажмите на нее для перехода на стартовую страницу "Мои ресурсы" в личном кабинете
