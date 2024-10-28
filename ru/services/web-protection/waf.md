@@ -71,9 +71,9 @@ categoryIcon: https://img.solarspace.pro/docs/waf.svg
 
 Для просмотра подробной информации об атаке нажмите на стрелочку в правой части строки или на иконку троеточия для вызова меню
 
-![buttons-blocked-attack (80%|left)](https://img.solarspace.pro/docs/buttoms-blocked-attacks.jpg "Кнопки в строке заблокированной атаки")
+![buttons-blocked-attack (80%|left)](https://img.solarspace.pro/docs/buttons-blocked-attacks.jpg "Кнопки в строке заблокированной атаки")
 
-![two-buttons-of-blocked-attack (30%)](https://img.solarspace.pro/docs/description-buttoms-blocked-attacks.jpg "Описание кнопок заимодействия с заблокированной атакой")
+![two-buttons-of-blocked-attack (30%)](https://img.solarspace.pro/docs/description-buttons-blocked-attacks.jpg "Описание кнопок заимодействия с заблокированной атакой")
 
 При нажатии на стрелочку или на пункт меню "Подробнее" в правой части экрана откроется окно с информацией об атаке
 
@@ -94,9 +94,9 @@ categoryIcon: https://img.solarspace.pro/docs/waf.svg
 Для быстрого перемещения между страницами нажмите на кнопку "Список исключений" или "Заблокированные атаки" в правой верхней части страницы.  
 Название кнопки будет отличаться в зависимости от того, на какой странице вы сейчас находитесь
 
-![button-exceptions (80%|left)](https://img.solarspace.pro/docs/buttom-exceptions.jpg "Кнопка Список исключений")
+![button-exceptions (80%|left)](https://img.solarspace.pro/docs/button-exceptions.jpg "Кнопка Список исключений")
 
-![button-blocked-attacks (80%|left)](https://img.solarspace.pro/docs/buttom-attacks.jpg "Кнопка Заблокированные атаки")
+![button-blocked-attacks (80%|left)](https://img.solarspace.pro/docs/button-attacks.jpg "Кнопка Заблокированные атаки")
 
 Если вы не добавили ни одно исключение, при переходе в "Список исключений" вы увидите надпись "Исключений не найдено"
 
