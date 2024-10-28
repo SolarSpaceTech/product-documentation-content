@@ -10,7 +10,7 @@ category: Начало работы
 categoryName: Подтверждение аккаунта
 categoryDescription: Заполнение данных пользователя
 categoryOrder: 4
-categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
+categoryIcon: https://img.solarspace.pro/docs/icon_03.svg
 ---
 
 ### Данные пользователя

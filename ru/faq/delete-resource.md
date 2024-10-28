@@ -7,10 +7,10 @@ published: true
 historyName: Удаление ресурса
 historyDescription: Инструкция по удалению ресурса
 category: FAQ
-categoryName: Удаление ресурса
-categoryDescription: 
+categoryName: Как удалить ресурс?
+categoryDescription: Инструкция по удалению ресурса
 categoryOrder: 2
-categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
+categoryIcon: https://img.solarspace.pro/docs/icon_10.svg
 ---
 
 ### Удаление ресурса

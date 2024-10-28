@@ -10,7 +10,7 @@ category: Начало работы
 categoryName: Создание ресурса
 categoryDescription: Добавление доменов
 categoryOrder: 2
-categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
+categoryIcon: https://img.solarspace.pro/docs/icon_01.svg
 ---
 
 ### Создание ресурса

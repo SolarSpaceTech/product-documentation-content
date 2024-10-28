@@ -7,10 +7,10 @@ published: true
 historyName: Восстановление пароля
 historyDescription: Инструкция по восстановлению пароля
 category: FAQ
-categoryName: Восстановление пароля
-categoryDescription: 
+categoryName: Как восстановить пароль?
+categoryDescription: Инструкция по восстановлению пароля
 categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
+categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
 ---
 
 ### Восстановление пароля

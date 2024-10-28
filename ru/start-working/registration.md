@@ -10,7 +10,7 @@ category: Начало работы
 categoryName: Регистрация
 categoryDescription: Создание аккаунта
 categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
+categoryIcon: https://img.solarspace.pro/docs/icon_02.svg
 ---
 
 ### Регистрация

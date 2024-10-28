@@ -18,7 +18,7 @@ categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
 
 На странице отображаются отчеты по всем вашим ресурсам. Доступны 4 вкладки:
 
-![All tabs for Statistics(70%)](ссылка "Все вкладки раздела 'Статистика'")
+![All tabs for Statistics(70%)](https://img.solarspace.pro/docs/all-tabs-for-statistics.jpg "Все вкладки раздела 'Статистика'")
 
 - [Ширина канала]([236])
 - [Запросы]([237])
