@@ -20,11 +20,11 @@ categoryIcon: https://img.solarspace.pro/docs/icon_01.svg
 
 1. Если вы только зарегистрировались в личном кабинете, нажмите на кнопку “Создать ресурс” на стартовом экране
 
-![Create resource on start page(35%)](https://img.solarspace.pro/docs/create-resource-on-start-page.jpg "Создание ресурса на стартовой странице")
+![Create resource on start page(60%)](https://img.solarspace.pro/docs/create-resource-on-start-page.jpg "Создание ресурса на стартовой странице")
 
 Если у вас есть аккаунт с уже добавленными ресурсами, нажмите на кнопку “Создать ресурс” в правом верхнем углу
 
-![Create resourse on Resources page(35%)](https://img.solarspace.pro/docs/create-resource-on-resources-page.jpg "Создание ресурса на странице Ресурсов")
+![Create resourse on Resources page(60%)](https://img.solarspace.pro/docs/create-resource-on-resources-page.jpg "Создание ресурса на странице Ресурсов")
 
 2. Заполните обязательные поля в соответствии с требованиями:
 - Домен зарегистрирован в системе доменных имен (DNS)
