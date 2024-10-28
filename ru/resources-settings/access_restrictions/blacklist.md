@@ -29,7 +29,7 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 
 При нажатии на кнопку "Импортировать список" справа откроется окно для загрузки файла в формате .csv. Когда вы добавите файл, кнопка "Импортировать" в нижней части экрана станет активной.
 
-![import-csv (80%|left)](https://img.solarspace.pro/docs/buttom-import-file-csv.jpg "Импортирование CSV-файла в Black list")
+![import-csv (80%|left)](https://img.solarspace.pro/docs/button-import-file-csv.jpg "Импортирование CSV-файла в Black list")
 
 После загрузки файла, выберите один из способов его добавления в Black list и нажмите "Импортировать"
 
@@ -65,7 +65,7 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 Если хотите добавить новые IP-адреса/подсети, нажмите на кнопку "+" рядом с полем поиска.
 Для загрузки списка нажмите иконку загрузки файла в верхнем правом углу формы. 
 
-![little-buttons-for-edit (80%|left)](https://img.solarspace.pro/docs/buttoms-cidr-csv.jpg "Маленькие кнопки для взаимодействия с разделом. Актуально и для White list")
+![little-buttons-for-edit (80%|left)](https://img.solarspace.pro/docs/buttons-cidr-csv.jpg "Маленькие кнопки для взаимодействия с разделом. Актуально и для White list")
 
 Нужный IP-адрес можно найти через поле поиска. Вы можете задать в нем любой уровень. Если IP-адрес есть в списке, система его найдет.
 
