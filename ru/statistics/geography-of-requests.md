@@ -10,7 +10,7 @@ category: Статистика
 categoryName: География запросов
 categoryDescription: Просмотр запросов из стран
 categoryOrder: 5
-categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
+categoryIcon: https://img.solarspace.pro/docs/icon_15.svg
 ---
 
 ### География запросов

@@ -10,7 +10,7 @@ category: Статистика
 categoryName: Коды ответов
 categoryDescription: Просмотр графика по кодам ответов
 categoryOrder: 4
-categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
+categoryIcon: https://img.solarspace.pro/docs/icon_14.svg
 ---
 
 ### Коды ответов
