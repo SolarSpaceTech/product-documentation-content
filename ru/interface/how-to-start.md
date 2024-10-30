@@ -1,4 +1,5 @@
 ---
+id: 252
 title: Как начать
 displayName: Как начать
 order: 2

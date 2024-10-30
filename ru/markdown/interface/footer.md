@@ -3,7 +3,7 @@ id: 6
 title: Подвал - Интерфейс документации
 displayName: Подвал
 order: 30
-published: true
+published: false
 historyName: Подвал документации
 historyDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
 headerName: Подвал документации
