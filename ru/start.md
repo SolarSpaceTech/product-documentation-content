@@ -2,7 +2,7 @@
 id: 100
 title: Стартовая страница
 displayName: Стартовая страница
-published: true
+published: false
 order: 1
 historyName: Стартовая страница
 historyDescription: Описание стартовой страницы
