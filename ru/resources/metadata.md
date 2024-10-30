@@ -1,5 +1,5 @@
 ---
 displayName: Ресурсы
-order: 58
+order: 53
 published: true
 ---
