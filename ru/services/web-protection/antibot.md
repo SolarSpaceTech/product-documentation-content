@@ -2,7 +2,7 @@
 id: 216
 title: Вкладка - Antibot
 displayName: Antibot
-order: 2
+order: 3
 published: true
 historyName: Antibot
 historyDescription: Защита ресурса от ботнет атак
