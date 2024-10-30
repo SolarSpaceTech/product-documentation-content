@@ -2,7 +2,7 @@
 id: 213
 title: Вкладка - Домен и SSL
 displayName: Домен и SSL
-order: 1
+order: 5
 published: true
 historyName: Домен и SSL
 historyDescription: Настройка SSL-сертификатов домена

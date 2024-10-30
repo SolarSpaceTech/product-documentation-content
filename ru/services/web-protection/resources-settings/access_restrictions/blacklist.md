@@ -2,7 +2,7 @@
 id: 211
 title: Вкладка - Настройки Black List
 displayName: Настройки Black List
-order: 2
+order: 10
 published: true
 historyName: Настройки Black List
 historyDescription: Черный список

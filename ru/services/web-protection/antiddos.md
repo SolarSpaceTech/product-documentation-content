@@ -2,7 +2,7 @@
 id: 217
 title: Вкладка - AntiDDoS
 displayName: AntiDDoS
-order: 1
+order: 2
 published: true
 historyName: AntiDDoS
 historyDescription: Защита ресурса от DDoS-атак

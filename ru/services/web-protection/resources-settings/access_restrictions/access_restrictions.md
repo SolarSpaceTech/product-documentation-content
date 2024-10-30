@@ -1,8 +1,8 @@
 ---
 id: 209
-title: Вкладка - Ограничения доступа
-displayName: Ограничения доступа
-order: 1
+title: Вкладка - общее описание ограничений доступа
+displayName: Общее описание
+order: 8
 published: true
 historyName: Ограничения доступа
 historyDescription: Геоблокировка, Black list, White list

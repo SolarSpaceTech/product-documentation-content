@@ -2,7 +2,7 @@
 id: 234
 title: Вкладка - WAF Lite
 displayName: WAf Lite
-order: 3
+order: 4
 published: true
 historyName: WAF Lite
 historyDescription: Защита от взлома сайта

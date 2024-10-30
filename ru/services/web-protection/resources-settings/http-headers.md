@@ -2,7 +2,7 @@
 id: 214
 title: Вкладка - Настройки HTTP-заголовков
 displayName: Настройки HTTP-заголовков
-order: 3
+order: 7
 published: true
 historyName: Настройки HTTP-заголовков
 historyDescription: Защита от взлома сайта
