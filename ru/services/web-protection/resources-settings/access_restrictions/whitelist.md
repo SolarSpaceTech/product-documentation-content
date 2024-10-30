@@ -2,7 +2,7 @@
 id: 212
 title: Вкладка - Настройки White List
 displayName: Настройки White List
-order: 3
+order: 11
 published: true
 historyName: Настройки White List
 historyDescription: Email защита от фишинга

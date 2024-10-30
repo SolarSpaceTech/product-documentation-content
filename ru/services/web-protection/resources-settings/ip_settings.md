@@ -2,7 +2,7 @@
 id: 215
 title: Вкладка - Настройки IP-адресов
 displayName: Настройки IP-адресов
-order: 2
+order: 6
 published: true
 historyName: Настройки IP-адресов
 historyDescription: Защита от ботнет атак
