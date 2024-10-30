@@ -1,5 +1,5 @@
 ---
 displayName: Настройка ресурсов
-order: 53
+order: 55
 published: true
 ---
