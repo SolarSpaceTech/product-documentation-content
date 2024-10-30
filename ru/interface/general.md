@@ -1,7 +1,3 @@
-- **Статья "Главная":**
-
-
-```md
 ---
 title: Главная
 displayName: Главная
@@ -10,4 +6,3 @@ published: true
 headerName: Главная
 headerOrder: 10
 ---
-```
