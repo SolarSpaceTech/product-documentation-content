@@ -1,6 +1,3 @@
-- **Статья "Как начать":**
-
-```md
 ---
 title: Как начать
 displayName: Как начать
@@ -9,4 +6,3 @@ published: true
 headerName: Как начать
 headerOrder: 20
 ---
-```

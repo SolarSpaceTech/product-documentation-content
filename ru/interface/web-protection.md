@@ -1,6 +1,3 @@
-- **Статья "Веб-защита":**
-
-```md
 ---
 title: Веб-защита
 displayName: Веб-защита
@@ -9,4 +6,3 @@ published: true
 headerName: Веб-защита
 headerOrder: 30
 ---
-```
