@@ -10,7 +10,7 @@ category: Начало работы
 categoryName: Верификация
 categoryDescription: Подтверждение владения доменом
 categoryOrder: 3
-categoryIcon: https://img.solarspace.pro/docs/icon_02.svg
+categoryIcon: https://img.solarspace.pro/docs/icon_16.svg
 ---
 
 ### Верификация
