@@ -1,5 +1,5 @@
 ---
-id: 253
+id: 255
 title: Типы атак
 displayName: Типы атак
 order: 5
