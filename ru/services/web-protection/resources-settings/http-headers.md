@@ -4,7 +4,7 @@ title: Вкладка - Настройки HTTP-заголовков
 displayName: Настройки HTTP-заголовков
 order: 7
 published: true
-historyName: Настройки HTTP-заголовков
+historyName: HTTP-заголовки
 historyDescription: Защита от взлома сайта
 category: Настройка ресурсов
 categoryName: Настройки HTTP-заголовков
@@ -30,7 +30,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_07.svg
 
 - **Value** – значение заголовка
 
-![add key & value (80%|left)](https://img.solarspace.pro/docs/key-value-http-headers.jpg "Добавление параметров "ключ значение"")
+![add key & value (80%|left)](https://img.solarspace.pro/docs/key-value-http-headers.jpg "Добавление параметров 'ключ значение'")
 
 После заполнения полей "Key" и "Value" кнопка "Сохранить" станет активной. Нажмите на нее, чтобы сохранить HTTP-заголовок. Вы увидите сообщение "HTTP-заголовок успешно добавлен"
 
