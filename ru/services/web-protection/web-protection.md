@@ -1,6 +1,6 @@
 ---
 id: 240
-title: Вкладка - общее описание веб-защиты
+title: Веб-защита
 displayName: Общее описание
 order: 1
 published: true
@@ -8,6 +8,8 @@ historyName: Веб-защита
 historyDescription: Защита от взлома сайта
 category: Сервисы
 categoryName: Веб-защита
+headerName: Веб-защита
+headerOrder: 30
 ---
 
 # Веб-защита
