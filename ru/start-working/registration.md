@@ -11,6 +11,8 @@ categoryName: Регистрация
 categoryDescription: Создание аккаунта
 categoryOrder: 1
 categoryIcon: https://img.solarspace.pro/docs/icon_02.svg
+headerName: Как начать
+headerOrder: 20
 ---
 
 ### Регистрация
