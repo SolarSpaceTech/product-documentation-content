@@ -14,7 +14,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_05.svg
 ---
 
 
-# [Вкладка "Домен и SSL"](domain-&-ssl)
+# [Домен и SSL](domain-&-ssl)
 На этой вкладке вы можете управлять доменами и их SSL-сертификатами, подключать расширенный функционал и верифицировать свой домен.
 
 ![domain & ssl (80%|left)](https://img.solarspace.pro/docs/field-domain&ssl.jpg "Вкладка Домен и SSL")

@@ -1,6 +1,6 @@
 ---
 id: 252
-title: Перейти в личный кабинет
+title: Личный кабинет
 displayName: Перейти в личный кабинет
 order: 5
 published: true

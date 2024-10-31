@@ -13,7 +13,7 @@ categoryOrder: 2
 categoryIcon: https://img.solarspace.pro/docs/icon_06.svg
 ---
 
-# Вкладка "Настройки IP"
+# Вкладка Настройки IP
 
 ![ip settings (80%|left)](https://img.solarspace.pro/docs/field-ip-settings.jpg "Вкладка Настройки IP")
 
@@ -55,6 +55,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_06.svg
 
 
 - Порт 80 поддерживает протокол HTTP – информация передается между браузером и сервером в виде обычного текста, что небезопасно
+
 
 - Порт 443 поддерживает протокол HTTPS – информация, передаваемая между сервером и браузером, зашифровывается, что повышает безопасность обмена данными
 

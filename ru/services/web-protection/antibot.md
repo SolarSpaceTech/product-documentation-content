@@ -14,7 +14,7 @@ categoryIcon: https://img.solarspace.pro/docs/anti-bot.svg
 ---
 
 
-# Вкладка "Antibot"
+# Antibot
 
 WEB Antibot в комплексе с WEB AntiDDoS обеспечивает оптимальный уровень веб-защиты в рамках комплексного решения Solar Space.
 

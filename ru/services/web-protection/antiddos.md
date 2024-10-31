@@ -13,7 +13,7 @@ categoryOrder: 1
 categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
 ---
 
-# Вкладка "AntiDDoS"
+# AntiDDoS
 
 WEB AntiDDoS обеспечивает базовый уровень веб-защиты в рамках комплексного решения Solar Space.
 

@@ -13,7 +13,7 @@ categoryOrder: 7
 categoryIcon: https://img.solarspace.pro/docs/waf.svg
 ---
 
-# [Вкладка "WAF Lite"](waf-lite)
+# [WAF Lite](waf-lite)
 
 WAF Lite в комплексе с WEB Antibot и WEB AntiDDoS обеспечивает продвинутый уровень веб-защиты в рамках комплексного решения Solar Space.
 

@@ -1,11 +1,11 @@
 ---
 id: 251
-title: Связаться с поддержкой
-displayName: Связаться с поддержкой
+title: Поддержка
+displayName: Поддержка
 order: 4
 published: true
-headerName: Связаться с поддержкой
+headerName: Поддержка
 headerOrder: 40
-historyName: Связаться с поддержкой
+historyName: Поддержка
 historyDescription: Если возникли вопросы
 ---

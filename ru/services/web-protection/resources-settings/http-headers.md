@@ -13,7 +13,7 @@ categoryOrder: 3
 categoryIcon: https://img.solarspace.pro/docs/icon_07.svg
 ---
 
-# Вкладка "HTTP заголовки"
+# HTTP заголовки
 
 > **INFO**
 > #### Обратите внимание
