@@ -5,7 +5,7 @@ displayName: Регистрация
 order: 1
 published: true
 historyName: Регистрация
-historyDescription: Создание аккаунта
+historyDescription: Создание аккаунта 
 category: Начало работы
 categoryName: Регистрация
 categoryDescription: Создание аккаунта
@@ -19,7 +19,7 @@ headerOrder: 20
 Если у вас уже есть аккаунт, вы можете [авторизоваться]([204]).
 
 Если вы новый пользователь, выполните следующие действия для регистрации на платформе:
-1. Откройте страницу регистрации – https://my.solarspace.pro/sign-up
+1. Откройте страницу регистрации – https://my.solarspace.pro/sign-up  
 На форме размещаются обязательные поля для заполнения: “Введите Email”, “Введите пароль”, “Повторите пароль” и кнопка "Зарегистрироваться”.
 ![Registration start form(35%)](https://img.solarspace.pro/docs/registration-start-form.jpg "Стартовая форма регистрации")
 2. Заполните поля в соответствии с требованиями и нажмите на кнопку “Зарегистрироваться”:
