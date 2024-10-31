@@ -10,7 +10,7 @@ historyDescription: Страница "Мои ресурсы"
 
 ### Страница "Мои ресурсы"
 Для быстрого доступа к странице "Мои ресурсы" из любого раздела кликните на иконку в виде папки в боковом меню.
-![Resources tab on sidebar(20%)](https://img.solarspace.pro/docs/resources-tab-on-sidebar.jpg "Вкладка 'Мои ресурсы' в боковом меню")
+![Resources tab on sidebar(18%)](https://img.solarspace.pro/docs/resources-tab-on-sidebar.jpg "Вкладка 'Мои ресурсы' в боковом меню")
 
 Если у вас еще нет ресурсов, вы можете [его создать]([205]).
 
