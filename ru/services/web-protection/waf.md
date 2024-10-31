@@ -119,23 +119,3 @@ SQL-инъекции. Атаки на базу данных, целью кото
 
 ![exceptions-not-found (80%|left)](https://img.solarspace.pro/docs/not-found-exceptions.jpg "Исключений не найдено")
 
-
-### [Защита от типов атак](protection-from-types-of-attacks)
-
-1. Scanner Detection
-2. HTTP protection
-3. Local File Inclusion (LFI)
-4. Remote File Inclusion (RFI)
-5. Remote Code Execution (RCE)
-6. PHP Injection (PHPi)
-7. Generic Attack
-8. Cross Site Scripting (XSS)
-9. SQL Injection (SQLi)
-10. Session Fixation
-11. JAVA
-12. Leakaages
-13. Leakages-SQL
-14. Leakages-JAVA
-15. Leakages-PHP
-16. Leakages Microsoft IIS
-17. WEB shells
