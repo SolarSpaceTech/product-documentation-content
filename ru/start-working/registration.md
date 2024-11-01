@@ -6,11 +6,6 @@ order: 1
 published: true
 historyName: Регистрация
 historyDescription: Создание аккаунта 
-category: Начало работы
-categoryName: Регистрация
-categoryDescription: Создание аккаунта
-categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/icon_02.svg
 headerName: Как начать
 headerOrder: 20
 ---
