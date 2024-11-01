@@ -13,6 +13,8 @@ categoryOrder: 3
 categoryIcon: https://img.solarspace.pro/docs/test-speed.svg
 ---
 
+# [Stress Test](stress-test)
+
 Сервис в разработке. Если хотите протестировать его одним из первых, сообщите об этом письмом на почту solarspace@rt-solar.ru. Мы свяжемся с вами, когда он будет готов к релизу  
 
 Сейчас вы можете подключить сервисы из WEB-защиты: [AntiDDoS]([217]), [Antibot]([216]) и [WAF Lite]([234])

@@ -13,7 +13,7 @@ categoryOrder: 3
 categoryIcon: https://img.solarspace.pro/docs/icon_07.svg
 ---
 
-# Вкладка "HTTP заголовки"
+# [HTTP заголовки](http-headers)
 
 > **INFO**
 > #### Обратите внимание
@@ -28,6 +28,8 @@ categoryIcon: https://img.solarspace.pro/docs/icon_07.svg
 
 - **Key** – ключ заголовка
 
+<br/>
+
 - **Value** – значение заголовка
 
 ![add key & value (80%|left)](https://img.solarspace.pro/docs/key-value-http-headers.jpg "Добавление параметров 'ключ значение'")
@@ -40,9 +42,15 @@ categoryIcon: https://img.solarspace.pro/docs/icon_07.svg
 
 - добавлять новые HTTP-заголовки, нажав на кнопку "Добавить"
 
+<br/>
+
 - редактировать существующие HTTP-заголовки, нажав на иконку карандаша
 
+<br/>
+
 - удалять существующие HTTP-заголовки, нажав на иконку корзины
+
+<br/>
 
 - выполнять поиск по полям "Key" или "Value". Нужное поле выберите в выпадающем списке
 

@@ -13,7 +13,7 @@ categoryOrder:
 categoryIcon: https://img.solarspace.pro/docs/main.svg
 ---
 
-# White list
+# [White list]()
 
 Это список IP-адресов и подсетей в формате IPv4, которым нужен гарантированный доступ к ресурсу. White list – финальный этап проверки запросов к сайту перед фильтрацией сервисами Solar Space.
 
