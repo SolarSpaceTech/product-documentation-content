@@ -3,7 +3,7 @@ id: 10
 title: Меню - Интерфейс документации
 displayName: Меню
 order: 40
-published: true
+published: false
 historyName: Меню документации
 historyDescription: Меню документации упрощает навигацию и структуру разделов с помощью мета свойств `displayName`, `order`, `published`.
 ---
