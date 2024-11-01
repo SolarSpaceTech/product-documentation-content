@@ -3,7 +3,7 @@ id: 7
 title: Шапка документации - Интерфейс документации
 displayName: Шапка
 order: 20
-published: false
+published: true
 historyName: Шапка документации
 historyDescription: Шапка сайта предоставляет быстрый доступ к ключевым разделам, улучшая навигацию и настройку через мета свойства.
 headerName: Шапка документации

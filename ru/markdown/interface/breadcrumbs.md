@@ -3,7 +3,7 @@ id: 4
 title: Хлебные крошки - Интерфейс документации
 displayName: Хлебные крошки
 order: 50
-published: false
+published: true
 historyName: Хлебные крошки документации
 historyDescription: Меню документации упрощает навигацию и структуру разделов с помощью мета свойств `displayName`, `order`, `published`.
 headerName: Хлебные крошки

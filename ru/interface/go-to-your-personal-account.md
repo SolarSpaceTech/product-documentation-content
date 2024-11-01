@@ -1,10 +1,10 @@
 ---
 id: 252
 title: Личный кабинет
-displayName: Перейти в личный кабинет
+displayName: Личный кабинет
 order: 5
 published: true
-headerName: Перейти в личный кабинет
+headerName: Личный кабинет
 headerOrder: 50
 historyName: Личный кабинет
 historyDescription: Войти или зарегестрироваться в личном кабинете

@@ -13,7 +13,7 @@ categoryOrder: 6
 categoryIcon: https://img.solarspace.pro/docs/internet.svg
 ---
 
-# Security DNS
+# [Security DNS](security-dns)
 
 Обеспечивает безопасность DNS-запросов для защиты от нежелательного контента с помощью алгоритмов машинного обучения
 

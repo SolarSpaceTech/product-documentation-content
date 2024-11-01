@@ -13,7 +13,7 @@ categoryOrder: 9
 categoryIcon: https://img.solarspace.pro/docs/main.svg
 ---
 
-# Security Email Gateway (Защита электронной почты)
+# [Security Email Gateway (Защита электронной почты)](security-email-gateway)
 
 Обнаруживает и блокирует фишинговые и спам-письма в корпоративной почте для защиты от вредоносногого ПО
 
