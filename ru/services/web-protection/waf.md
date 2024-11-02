@@ -1,7 +1,7 @@
 ---
 id: 234
 title: WAF Lite
-displayName: WAf Lite
+displayName: WAF Lite
 order: 4
 published: true
 historyName: WAF Lite
