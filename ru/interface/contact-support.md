@@ -1,11 +1,19 @@
 ---
 id: 251
-title: Поддержка
-displayName: Поддержка
+title: Контакты
+displayName: Контакты
 order: 4
 published: true
-headerName: Поддержка
+headerName: Контакты
 headerOrder: 40
-historyName: Поддержка
-historyDescription: Если возникли вопросы
+historyName: Контакты
+historyDescription: Подробная информация
 ---
+
+## Личный кабинет
+
+[rt-solar.ru/space](rt-solar.ru/space "Личный кабинет")
+
+## Поддержка
+
+[solarspace@rt-solar.ru](solarspace@rt-solar.ru "Поддержка")
