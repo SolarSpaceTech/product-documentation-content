@@ -13,7 +13,7 @@ categoryOrder:
 categoryIcon: https://img.solarspace.pro/docs/users.svg
 ---
 
-# Black list
+# [Black list](black-list)
 
 Добавьте IP-адреса (IPv4) и подсети (группы IP-адресов), запрос от которых система будет сразу блокировать без дополнительных проверок. Их можно прописать вручную или загрузить списком в формате .csv.
 

@@ -3,7 +3,7 @@ id: 5
 title: Описание - Интерфейс документации
 displayName: Описание
 order: 1
-published: false
+published: true
 historyName: Описание
 historyDescription: Краткое описание элементов интерфейса.
 headerName: Описание
