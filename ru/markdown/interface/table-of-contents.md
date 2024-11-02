@@ -3,7 +3,7 @@ id: 11
 title: Оглавление - Интерфейс документации
 displayName: Оглавление
 order: 60
-published: true
+published: false
 historyName: Оглавление
 historyDescription: Навигационный список заголовков, упрощающий поиск и доступ к разделам документации.
 ---
