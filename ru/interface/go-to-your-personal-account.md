@@ -1,15 +1,19 @@
 ---
 id: 252
-title: Личный кабинет
-displayName: Личный кабинет
-order: 5
-published: false
-headerName: Личный кабинет
-headerOrder: 50
-historyName: Личный кабинет
-historyDescription: Войти или зарегестрироваться в личном кабинете
+title: Поддержка
+displayName: Поддержка
+order: 4
+published: true
+headerName: Поддержка
+headerOrder: 40
+historyName: Поддержка
+historyDescription: Получить консультацию
+footerName: Поддержка
+footerOrder: 4
 ---
 
-## Личный кабинет
+Чтобы получить консультацию технических специалистов, напишите свой вопрос на почту support@solarspace.pro.
 
-[rt-solar.ru/space](rt-solar.ru/space "Личный кабинет")
+Стандартный формат работы техподдержки 8/5 – 8 часов в день только по будням.  
+
+Круглосуточная техподдержка доступна по запросу. Сообщите об этом на почту solarspace@rt-solar.ru, и с вами свяжется специалист.
