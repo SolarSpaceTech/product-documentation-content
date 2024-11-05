@@ -14,7 +14,7 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 ---
 
 
-# [Security Awarness (Обучение сотрудников)](security-awareness)
+# [Security Awarness](security-awareness)
 
 Обучение персонала навыкам реагирования на фишинговые атаки для снижения риска утечек конфиденциальной информации.
 

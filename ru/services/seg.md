@@ -13,7 +13,7 @@ categoryOrder: 9
 categoryIcon: https://img.solarspace.pro/docs/main.svg
 ---
 
-# [Security Email Gateway (Защита электронной почты)](security-email-gateway)
+# [Security Email Gateway](security-email-gateway)
 
 Защита электронной почты от вирусных вложений, фишинговых и спам-писем.
 
