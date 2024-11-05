@@ -25,7 +25,7 @@ historyDescription: Сервисы ресурса
 ![Activate service on resource page(35%)](https://img.solarspace.pro/docs/activate-service-on-resource-page.jpg "Подключение сервиса")
 При клике на кнопку "Подключить" вы попадете на страницу с кратким описанием услуги и возможностью активации сервиса.  
    > **INFO**
-   > #### Обратите внимание
+   > #### Обратите внимание  
    > Подключение услуги Antibot доступно только при активной услуге AntiDDoS.
 Подключение услуги WAF Lite доступно только при активных услугах AntiDDoS и Antibot. Если вы хотите пользоваться WAF Lite, отключить Antibot нельзя: WAF Lite тоже перестанет работать.  
 
