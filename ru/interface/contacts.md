@@ -14,13 +14,9 @@ footerOrder: 5
 
 # Контакты
 
-Регистрация/доступ в Личный кабинет  
+Регистрация/доступ в Личный кабинет https://my.solarspace.pro/sign-in  
 
-https://my.solarspace.pro/sign-in
-
-Техническая поддержка
-
-support@solarspace.pro  
+Техническая поддержка support@solarspace.pro  
 
 Заявка на консультацию менеджера, запрос на круглосуточную техподдержку или индивидуальные условия solarspace@rt-solar.ru
 
