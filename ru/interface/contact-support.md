@@ -2,18 +2,22 @@
 id: 251
 title: Контакты
 displayName: Контакты
-order: 4
+order: 5
 published: true
 headerName: Контакты
-headerOrder: 40
+headerOrder: 50
 historyName: Контакты
 historyDescription: Подробная информация
+footerName: Контакты
+footerOrder: 5
 ---
 
-## Личный кабинет
+## [Регистрация/доступ в Личный кабинет](https://my.solarspace.pro/sign-in)
 
-[rt-solar.ru/space](rt-solar.ru/space "Личный кабинет")
+## Техническая поддержка
 
-## Поддержка
+support@solarspace.pro
 
-[solarspace@rt-solar.ru](solarspace@rt-solar.ru "Поддержка")
+Заявка на консультацию менеджера, запрос на круглосуточную техподдержку или индивидуальные условия solarspace@rt-solar.ru
+
+Сайт https://rt-solar.ru/space/
