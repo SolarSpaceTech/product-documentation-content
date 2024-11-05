@@ -15,7 +15,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_06.svg
 
 # [Вкладка Настройки IP](ip-settings)
 
-![ip settings (80%|left)](https://img.solarspace.pro/docs/field-ip-settings.jpg "Вкладка Настройки IP")
+![ip settings (75%|left)](https://img.solarspace.pro/docs/field-ip-settings.jpg "Вкладка Настройки IP")
 
 Нажмите "Добавить IP" для добавления IP-адреса вашего ресурса.
 Если у вас несколько IP-адресов, вы увидите форму расширенных настроек с возможностью добавить новый IP и подключить расширенный функционал.
@@ -24,7 +24,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_06.svg
 Если у вас есть дополнительный IP-адрес, его нужно ввести в это поле.
 Появится строка с полями для вашего IP-адреса.
 
-![add ip address (80%|left)](https://img.solarspace.pro/docs/add-ip-settings.jpg "Добавление IP-адреса")
+![add ip address (75%|left)](https://img.solarspace.pro/docs/add-ip-settings.jpg "Добавление IP-адреса")
 
 
 Все предзаполненные поля можно редактировать:
@@ -47,17 +47,17 @@ categoryIcon: https://img.solarspace.pro/docs/icon_06.svg
 
 После этого нажмите кнопку "Сохранить" в нижней части страницы
 
-![save ip-address (80%|left)](https://img.solarspace.pro/docs/save-ip-settings.jpg "Сохранение нового IP-адреса")
+![save ip-address (75%|left)](https://img.solarspace.pro/docs/save-ip-settings.jpg "Сохранение нового IP-адреса")
 
 Если в поле ввода IP-адреса ввести уже существующий IP-адрес, отобразится соответствующая надпись о том, что такой IP-адрес уже есть.
 
-![ip exist (80%|left)](https://img.solarspace.pro/docs/double-ip-settings.jpg "Уведомление о существующем IP-адресе")
+![ip exist (75%|left)](https://img.solarspace.pro/docs/double-ip-settings.jpg "Уведомление о существующем IP-адресе")
 
 Если у вас один IP-адрес, то в правой части страницы будет раздел "Дополнительные функции", с возможностью настроить блок "Порты IP-адресов".
 
 Порты установлены "По умолчанию", если вам нужно, вы можете изменить этот параметр на HTTP или HTTPS. Порты IP-адресов определяют, через какой порт будет устанавливаться соединение с сервером-источником. Доступны три варианта: "По умолчанию", "HTTP 80", "HTTPS 443".
 
-![advanced feauters with 1 ip (80%|left)](https://img.solarspace.pro/docs/port-ip-settings.jpg "Дополнительные функции, если IP-адрес один")
+![advanced feauters with 1 ip (75%|left)](https://img.solarspace.pro/docs/port-ip-settings.jpg "Дополнительные функции, если IP-адрес один")
 
 
 - **Порт 80** поддерживает протокол HTTP – информация передается между браузером и сервером в виде обычного текста, что небезопасно
@@ -73,7 +73,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_06.svg
 
 Если у вас несколько IP-адресов, то в правой части экрана отображается окно с еще одной дополнительной функцией: IP-hash. При введении нескольких IP-адресов с типом "Основной", она сразу будет активной.
 
-![ip hash (80%|left)](https://img.solarspace.pro/docs/ip-hash-ip-settings.jpg "IP-hash")
+![ip hash (75%|left)](https://img.solarspace.pro/docs/ip-hash-ip-settings.jpg "IP-hash")
 
 IP-hash – это метод распределения нагрузки между серверами. Он гарантирует, что пользователь с конкретным IP подключится к тому же серверу, с которым работал ранее. Этот алгоритм часто используют для веб-приложений, поскольку в них пользователь взаимодействует с интерфейсом, – например, заходит в личный кабинет, добавляет товары в корзину. При использовании IP-hash балансировки пользователь подключится к тому же сеансу: ему не понадобится снова заходить в личный кабинет.
 
@@ -85,4 +85,4 @@ IP-hash – это метод распределения нагрузки меж
 
 Если необходимо вернуть удаленный ресурс, нажмите кнопку "Отменить".
 
-![change deleted ip (80%|left)](https://img.solarspace.pro/docs/cancel-or-save-deleted-ip.jpg "Сохранение или отмена удаленного IP-адреса")
+![change deleted ip (75%|left)](https://img.solarspace.pro/docs/cancel-or-save-deleted-ip.jpg "Сохранение или отмена удаленного IP-адреса")

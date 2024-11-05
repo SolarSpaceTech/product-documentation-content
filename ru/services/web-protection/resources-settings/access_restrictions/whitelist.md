@@ -24,7 +24,7 @@ categoryIcon: https://img.solarspace.pro/docs/main.svg
 
 Добавьте IP-адреса (IPv4) и подсети (группы IP-адресов), запрос от которых система будет пропускать без дополнительных проверок, за исключением проверок Black list и Доступа к ресурсу из стран. Их можно прописать вручную или загрузить списком в формате csv.
 
-![White list (80%|left)](https://img.solarspace.pro/docs/field-whitelist.jpg "Определение необходимости направлять IP-адрес на дополнительные проверки")
+![White list (75%|left)](https://img.solarspace.pro/docs/field-whitelist.jpg "Определение необходимости направлять IP-адрес на дополнительные проверки")
 
 <br/>
 

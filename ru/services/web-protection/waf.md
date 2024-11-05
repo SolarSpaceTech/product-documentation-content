@@ -44,38 +44,38 @@ WAF Lite – это «облегченная» версия стандартно
 Вы можете активировать WAF Lite при условии, что у вас уже активированы сервисы AntiDDoS и Antibot  
 Если сервис отключен, вы увидите текст: "WAF Lite подключен, но не работает, потому что вы выключили Antibot"
 
-![WAF Lite (80%|left)](https://img.solarspace.pro/docs/field-waf.jpg "waf-lite")
+![WAF Lite (75%|left)](https://img.solarspace.pro/docs/field-waf.jpg "waf-lite")
 
 На странице сервиса есть список типов атак, защиту от которых обеспечивает WAF Lite 
 
-![protection-from-types-of-attacks (80%|left)](https://img.solarspace.pro/docs/protection-from-types-of-attacks-waf.jpg "Защита от типов атак")
+![protection-from-types-of-attacks (75%|left)](https://img.solarspace.pro/docs/protection-from-types-of-attacks-waf.jpg "Защита от типов атак")
 
 В блоке "Заблокированные атаки" расположены кнопки "Заблокированные атаки" и "Список исключений". При нажатии на них можно просмотреть подробную информацию
 
-![blocked-requests (80%|left)](https://img.solarspace.pro/docs/blocked-attacks-waf.jpg "Заблокированные атаки")
+![blocked-requests (75%|left)](https://img.solarspace.pro/docs/blocked-attacks-waf.jpg "Заблокированные атаки")
 
 
 ### [Заблокированные атаки](blocked-attacks)
 
 При нажатии на кнопку “Заблокированные атаки” вы перейдете на страницу заблокированных сервисом атак. По умолчанию откроется список за последние сутки, но период можно изменить. Если система не зафиксировала атак за этот период, вы увидите сообщение "Угроз, соответствующих настройкам фильтра, не найдено"
 
-![threats-not-found (80%|left)](https://img.solarspace.pro/docs/threats-not-found-blocked-attacks.jpg "Угрозы не найдены")
+![threats-not-found (75%|left)](https://img.solarspace.pro/docs/threats-not-found-blocked-attacks.jpg "Угрозы не найдены")
 
 В первом поле можно выбрать ресурсы, для которых будет отображаться отчет
 
-![list-of-domains (80%/left)](https://img.solarspace.pro/docs/all-domains-blocked-attacks.jpg "Список доменов")
+![list-of-domains (75%/left)](https://img.solarspace.pro/docs/all-domains-blocked-attacks.jpg "Список доменов")
 
 Во втором поле можно изменить период отображения отчета. После выбора вы увидите список атак за нужные даты
 
-![blocked-attacks-report-period (80%|left)](https://img.solarspace.pro/docs/time-blocked-attacks.jpg "Период отчета о заблокированных атаках")
+![blocked-attacks-report-period (75%|left)](https://img.solarspace.pro/docs/time-blocked-attacks.jpg "Период отчета о заблокированных атаках")
 
 В третьем поле можно изменить часовой пояс. Выберите "Локальный часовой пояс" или "UTC + 00"
 
-![timezone-of-blocked-attacks (80%|left)](https://img.solarspace.pro/docs/timezone-blocked-attacks.jpg "Выбор часового пояса")
+![timezone-of-blocked-attacks (75%|left)](https://img.solarspace.pro/docs/timezone-blocked-attacks.jpg "Выбор часового пояса")
 
 Список заблокированных атак:
 
-![list-of-blocked-attacks (80%|left)](https://img.solarspace.pro/docs/all-attacks-blocked-attacks.jpg "Список заблокированных атак")
+![list-of-blocked-attacks (75%|left)](https://img.solarspace.pro/docs/all-attacks-blocked-attacks.jpg "Список заблокированных атак")
 
 Краткая информация об атаке отражается в следующих полях:
 
@@ -105,13 +105,13 @@ WAF Lite – это «облегченная» версия стандартно
 
 Для просмотра подробной информации об атаке нажмите на стрелочку в правой части строки или на иконку троеточия для вызова меню
 
-![buttons-blocked-attack (80%|left)](https://img.solarspace.pro/docs/buttons-blocked-attacks.jpg "Кнопки в строке заблокированной атаки")
+![buttons-blocked-attack (75%|left)](https://img.solarspace.pro/docs/buttons-blocked-attacks.jpg "Кнопки в строке заблокированной атаки")
 
-![two-buttons-of-blocked-attack (30%)](https://img.solarspace.pro/docs/description-buttons-blocked-attacks.jpg "Описание кнопок заимодействия с заблокированной атакой")
+![two-buttons-of-blocked-attack (35%)](https://img.solarspace.pro/docs/description-buttons-blocked-attacks.jpg "Описание кнопок заимодействия с заблокированной атакой")
 
 При нажатии на стрелочку или на пункт меню "Подробнее" в правой части экрана откроется окно с информацией об атаке
 
-![detail-info-about-blocked-attack (80%|left)](https://img.solarspace.pro/docs/attack-info-blocked-attacks.jpg "Подробная информация о заблокированной атаке")
+![detail-info-about-blocked-attack (75%|left)](https://img.solarspace.pro/docs/attack-info-blocked-attacks.jpg "Подробная информация о заблокированной атаке")
 
 Если нажмете "Закрыть", окно закроется. Если нажмете "Разрешить данный запрос", он пропадет из списка заблокированных атак и в дальнейшем не будет блокироваться при условии, что придет по тому же пути. Также вы можете выбрать вариант "Разрешить данный запрос", не открывая это окно. Достаточно нажать на три точки в строке атаки и кликнуть по второму пункту в появившемся меню
 
@@ -119,20 +119,20 @@ WAF Lite – это «облегченная» версия стандартно
 
 Список разрешенных запросов вы найдете в разделе "Список исключений" на вкладке WAF Lite
 
-![list-of-exceptions (80%|left)](https://img.solarspace.pro/docs/list-of-exceptions.jpg "Список исключений")
+![list-of-exceptions (75%|left)](https://img.solarspace.pro/docs/list-of-exceptions.jpg "Список исключений")
 
 Запрос можно удалить из списка разрешенных. Для этого нажмите на иконку корзины справа в строке
 
-![button-for-deleting-exception (80%|left)](https://img.solarspace.pro/docs/delete-exceptions.jpg "Удаление исключения")
+![button-for-deleting-exception (75%|left)](https://img.solarspace.pro/docs/delete-exceptions.jpg "Удаление исключения")
 
 Для быстрого перемещения между страницами нажмите на кнопку "Список исключений" или "Заблокированные атаки" в правой верхней части страницы.  
 Название кнопки будет отличаться в зависимости от того, на какой странице вы сейчас находитесь
 
-![button-exceptions (80%|left)](https://img.solarspace.pro/docs/button-exceptions.jpg "Кнопка Список исключений")
+![button-exceptions (75%|left)](https://img.solarspace.pro/docs/button-exceptions.jpg "Кнопка Список исключений")
 
-![button-blocked-attacks (80%|left)](https://img.solarspace.pro/docs/button-attacks.jpg "Кнопка Заблокированные атаки")
+![button-blocked-attacks (75%|left)](https://img.solarspace.pro/docs/button-attacks.jpg "Кнопка Заблокированные атаки")
 
 Если вы не добавили ни одно исключение, при переходе в "Список исключений" вы увидите надпись "Исключений не найдено"
 
-![exceptions-not-found (80%|left)](https://img.solarspace.pro/docs/not-found-exceptions.jpg "Исключений не найдено")
+![exceptions-not-found (75%|left)](https://img.solarspace.pro/docs/not-found-exceptions.jpg "Исключений не найдено")
 

@@ -39,4 +39,4 @@ categoryIcon: https://img.solarspace.pro/docs/icon_08.svg
 
 3. White list - если запрос пришел из "запрещенной" страны, но IP-адрес внесен в White list с разрешением доступа, то система пропускает пользователя на ресурс. Если IP-адрес не внесен в White list, то система перенаправляет его на проверку сервисами защиты – AntiDDoS, Antibot, WAF Lite – в зависимости от того, какие из них у вас подключены.
 
-![access-restriction (80%|left)](https://img.solarspace.pro/docs/field-access-restrictions.jpg "Раздел видов ограничения доступа")
+![access-restriction (75%|left)](https://img.solarspace.pro/docs/field-access-restrictions.jpg "Раздел видов ограничения доступа")

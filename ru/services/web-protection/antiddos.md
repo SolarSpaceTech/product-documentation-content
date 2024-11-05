@@ -52,6 +52,6 @@ DDoS-атака (от англ. Distributed Denial of Service – распред
 
 На странице сервиса AntiDDoS доступно его краткое описание и переключатель для активации услуги. AntiDDoS – базовый уровень защиты ресурса, без него невозможна работа Antibot и WAF Lite. Поэтому активация других сервисов возможна только при условии активного AntiDDoS.  
 
-![AntiDDoS (80%|left)](https://img.solarspace.pro/docs/antiddos.jpg "antiddos")
+![AntiDDoS (75%|left)](https://img.solarspace.pro/docs/antiddos.jpg "antiddos")
 
 
