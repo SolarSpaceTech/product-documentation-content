@@ -25,8 +25,8 @@ categoryIcon: https://img.solarspace.pro/docs/test-speed.svg
 
 - у всех кроме стран из списка ниже - (этот пункт выбран по умолчанию) – выберите конкретные страны, доступ из которых будет запрещен
 
-![access-to-the-resource-from-countries (80%|left)](https://img.solarspace.pro/docs/field-geo.jpg "Ограничение входящего трафика для стран")
+![access-to-the-resource-from-countries (75%|left)](https://img.solarspace.pro/docs/field-geo.jpg "Ограничение входящего трафика для стран")
 
-![access-type-for-countries (80%|left)](https://img.solarspace.pro/docs/choose-countries-geo.jpg "Доступность входящего траифка для выбранных стран")
+![access-type-for-countries (75%|left)](https://img.solarspace.pro/docs/choose-countries-geo.jpg "Доступность входящего траифка для выбранных стран")
 
-![choose-counties (80%|left)](https://img.solarspace.pro/docs/countries-menu-geo.jpg "Страны, которым будет разрешено или запрещено отправлять трафик")
+![choose-counties (75%|left)](https://img.solarspace.pro/docs/countries-menu-geo.jpg "Страны, которым будет разрешено или запрещено отправлять трафик")
