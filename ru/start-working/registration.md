@@ -1,6 +1,6 @@
 ---
 id: 242
-title: Вкладка - Регистрация
+title: Регистрация
 displayName: Регистрация
 order: 1
 published: true

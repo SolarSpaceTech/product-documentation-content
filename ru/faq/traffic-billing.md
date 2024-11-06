@@ -1,6 +1,6 @@
 ---
 id: 244
-title: Вкладка - Тарификация трафика
+title: Тарификация трафика
 displayName: Тарификация трафика
 order: 3
 published: false

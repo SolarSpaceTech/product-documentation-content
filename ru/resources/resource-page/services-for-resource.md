@@ -1,6 +1,6 @@
 ---
 id: 248
-title: Вкладка - Сервисы
+title: Сервисы
 displayName: Сервисы
 order: 2
 published: true

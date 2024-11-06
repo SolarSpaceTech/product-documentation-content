@@ -1,6 +1,6 @@
 ---
 id: 205
-title: Вкладка - Создание ресурса
+title: Создание ресурса
 displayName: Создание ресурса
 order: 3
 published: true

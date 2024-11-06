@@ -1,6 +1,6 @@
 ---
 id: 247
-title: Вкладка - Статистика
+title: Статистика
 displayName: Статистика
 order: 1
 published: true

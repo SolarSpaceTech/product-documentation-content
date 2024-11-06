@@ -1,6 +1,6 @@
 ---
 id: 237
-title: Вкладка - Запросы
+title: Запросы
 displayName: Запросы
 order: 3
 published: true

@@ -1,6 +1,6 @@
 ---
 id: 256
-title: Вкладка - Описание тарификации
+title: Описание тарификации
 displayName: Описание тарификации
 order: 1
 published: true

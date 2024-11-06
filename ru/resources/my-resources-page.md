@@ -1,6 +1,6 @@
 ---
 id: 246
-title: Вкладка - Мои ресурсы
+title: Мои ресурсы
 displayName: Мои ресурсы
 order: 1
 published: true
@@ -8,7 +8,9 @@ historyName: Мои ресурсы
 historyDescription: Страница "Мои ресурсы"
 ---
 
-# [Страница "Мои ресурсы"](my-resources-page)
+# [Мои ресурсы](my-resources-page)
+На странице "Мои ресурсы" отображается список всех созданных вами ресурсов.
+
 Для быстрого доступа к странице "Мои ресурсы" из любого раздела кликните на иконку в виде папки в боковом меню.
 ![Resources tab on sidebar(15%)](https://img.solarspace.pro/docs/resources-tab-on-sidebar.jpg "Вкладка 'Мои ресурсы' в боковом меню")
 

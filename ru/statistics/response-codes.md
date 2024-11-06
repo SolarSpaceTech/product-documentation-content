@@ -1,6 +1,6 @@
 ---
 id: 238
-title: Вкладка - Коды ответов
+title: Коды ответов
 displayName: Коды ответов
 order: 4
 published: true

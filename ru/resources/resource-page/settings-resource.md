@@ -1,6 +1,6 @@
 ---
 id: 249
-title: Вкладка - Настройки
+title: Настройки
 displayName: Настройки
 order: 3
 published: true
