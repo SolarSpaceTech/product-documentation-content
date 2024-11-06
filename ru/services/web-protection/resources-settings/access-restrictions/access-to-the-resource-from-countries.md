@@ -14,7 +14,7 @@ categoryIcon: https://img.solarspace.pro/docs/test-speed.svg
 ---
 
 
-# [Доступ к ресурсу из стран](access-toresource-from-)
+# [Доступ к ресурсу из стран](access-toresource-from-countries)
 
 Вы можете настроить 2 варианта ограничения доступа в зависимости от геолокации:
 
