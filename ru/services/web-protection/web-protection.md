@@ -1,6 +1,6 @@
 ---
 id: 240
-title: Веб-защита
+title: Общее описание
 displayName: Общее описание
 order: 1
 published: true

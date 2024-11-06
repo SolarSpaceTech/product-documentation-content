@@ -1,13 +1,13 @@
 ---
 id: 214
-title: Вкладка - Настройки HTTP-заголовков
-displayName: Настройки HTTP-заголовков
+title: HTTP-заголовков
+displayName: HTTP заголовки
 order: 7
 published: true
-historyName: HTTP-заголовки
+historyName: HTTP заголовки
 historyDescription: Защита от взлома сайта
 category: Настройка ресурсов
-categoryName: Настройки HTTP-заголовков
+categoryName: HTTP заголовки
 categoryDescription: Защита от взлома сайта
 categoryOrder: 3
 categoryIcon: https://img.solarspace.pro/docs/icon_07.svg

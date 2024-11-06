@@ -1,6 +1,6 @@
 ---
 id: 222
-title: Вкладка - SEG
+title: SEG
 displayName: SEG
 order: 61
 published: true

@@ -1,6 +1,6 @@
 ---
 id: 213
-title: Вкладка - Домен и SSL
+title: Домен и SSL
 displayName: Домен и SSL
 order: 5
 published: true

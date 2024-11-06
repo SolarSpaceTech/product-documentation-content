@@ -1,6 +1,6 @@
 ---
 id: 212
-title: Вкладка - Настройки White List
+title: White List
 displayName: Настройки White List
 order: 11
 published: true

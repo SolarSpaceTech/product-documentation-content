@@ -1,6 +1,6 @@
 ---
 id: 220
-title: Вкладка - Sec DNS
+title: Sec DNS
 displayName: Sec DNS
 order: 59
 published: true

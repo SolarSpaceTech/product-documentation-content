@@ -1,6 +1,6 @@
 ---
 id: 223
-title: Вкладка - StressTest
+title: StressTest
 displayName: StressTest
 order: 60
 published: true
