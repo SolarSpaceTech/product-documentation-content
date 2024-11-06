@@ -1,7 +1,7 @@
 ---
 id: 209
 title: Общее описание ограничений доступа
-displayName: Общее описание
+displayName: Ограничения доступа
 order: 8
 published: true
 historyName: Ограничения доступа
@@ -13,7 +13,7 @@ categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/icon_08.svg
 ---
 
-# [Ограничения доступ](access-restrictions)
+# [Ограничения доступа](access-restrictions)
 
 На этой вкладке вы можете задать параметры ограничения доступа к вашему ресурсу. Доступны 3 типа ограничений:
 
