@@ -1,6 +1,6 @@
 ---
 id: 211
-title: Вкладка - Настройки Black List
+title: Black List
 displayName: Настройки Black List
 order: 10
 published: true

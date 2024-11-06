@@ -10,7 +10,7 @@ category: Сервисы
 categoryName: Веб-защита
 ---
 
-# [Защита от типов атак](protection-from-types-of-attacks)
+# [Типы атак](protection-from-types-of-attacks)
 
 1. Scanner Detection
 2. HTTP protection

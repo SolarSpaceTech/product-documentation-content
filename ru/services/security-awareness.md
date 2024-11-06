@@ -1,6 +1,6 @@
 ---
 id: 221
-title: Вкладка - Security Awareness
+title: Security Awareness
 displayName: Security Awareness
 order: 58
 published: true

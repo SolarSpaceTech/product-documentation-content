@@ -1,19 +1,19 @@
 ---
 id: 215
-title: Вкладка - Настройки IP-адресов
-displayName: Настройки IP-адресов
+title: Настройки IP
+displayName: Настройки IP
 order: 6
 published: true
-historyName: Настройки IP-адресов
+historyName: Настройки IP
 historyDescription: Защита от ботнет атак
 category: Настройка ресурсов
-categoryName: Настройки IP-адресов
+categoryName: Настройки IP
 categoryDescription: Защита от ботнет атак
 categoryOrder: 2
 categoryIcon: https://img.solarspace.pro/docs/icon_06.svg
 ---
 
-# [Вкладка Настройки IP](ip-settings)
+# [Настройки IP](ip-settings)
 
 ![ip settings (75%|left)](https://img.solarspace.pro/docs/field-ip-settings.jpg "Вкладка Настройки IP")
 
