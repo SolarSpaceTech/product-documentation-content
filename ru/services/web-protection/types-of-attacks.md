@@ -3,7 +3,7 @@ id: 255
 title: Типы атак
 displayName: Типы атак
 order: 5
-published: true
+published: false
 historyName: Типы атак
 historyDescription: Типы атак от которых защищает WAF lite
 category: Сервисы
