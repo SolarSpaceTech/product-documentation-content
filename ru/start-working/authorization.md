@@ -1,6 +1,6 @@
 ---
 id: 204
-title: Вкладка - Авторизация
+title: Авторизация
 displayName: Авторизация
 order: 2
 published: true

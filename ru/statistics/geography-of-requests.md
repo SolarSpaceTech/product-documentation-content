@@ -1,6 +1,6 @@
 ---
 id: 239
-title: Вкладка - География запросов
+title: География запросов
 displayName: География запросов
 order: 5
 published: true

@@ -1,6 +1,6 @@
 ---
 id: 236
-title: Вкладка - Ширина канала
+title: Ширина канала
 displayName: Ширина канала
 order: 2
 published: true

@@ -1,6 +1,6 @@
 ---
 id: 206
-title: Вкладка - Верификация
+title: Верификация
 displayName: Верификация
 order: 4
 published: true

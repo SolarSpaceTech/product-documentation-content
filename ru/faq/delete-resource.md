@@ -1,6 +1,6 @@
 ---
 id: 250
-title: Вкладка - Удаление ресурса
+title: Удаление ресурса
 displayName: Удаление ресурса
 order: 2
 published: true
