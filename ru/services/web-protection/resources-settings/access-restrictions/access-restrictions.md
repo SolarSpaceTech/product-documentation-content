@@ -13,7 +13,7 @@ categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/icon_08.svg
 ---
 
-# [Ограничения доступа](access-restrictions)
+# [Общее описание ограничений доступа](access-restrictions)
 
 На этой вкладке вы можете задать параметры ограничения доступа к вашему ресурсу. Доступны 3 типа ограничений:
 
