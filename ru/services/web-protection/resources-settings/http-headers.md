@@ -1,7 +1,7 @@
 ---
 id: 214
 title: HTTP-заголовков
-displayName: HTTP заголовки
+displayName: HTTP-заголовки
 order: 7
 published: true
 historyName: HTTP заголовки
