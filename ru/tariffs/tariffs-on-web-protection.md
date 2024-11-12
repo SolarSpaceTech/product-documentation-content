@@ -13,7 +13,7 @@ categoryOrder: 2
 categoryIcon: https://img.solarspace.pro/docs/internet.svg
 ---
 
-# Тарифы на веб-защиту
+# [Тарифы на веб-защиту](tariffs-on-web-protection)
 
 
 На этой странице приведен полный список фиксированных тарифов. Если вам нужен тариф, который отличается от стандартной линейки, напишите на почту solarspace@rt-solar.ru. С вами свяжется менеджер.
@@ -33,13 +33,13 @@ categoryIcon: https://img.solarspace.pro/docs/internet.svg
 
 Таблица 1. Стоимость базового уровня веб-защиты (цены указаны без НДС)
 
-![tariffs-on-web-protection-table-1](https://img.solarspace.pro/docs/tariffs-on-wp-table-1.jpg 'tariffs-on-web-protection-table-1')
+![tariffs-on-web-protection-table-1 (35%|left)](https://img.solarspace.pro/docs/tariffs-on-wp-table-1.jpg 'tariffs-on-web-protection-table-1')
 
 Тарифицируемый трафик определяется полосой пропускания трафика, зафиксированной в вашем тарифе (столбец 1 в таблице). Правила измерения и подсчета тарифицируемого трафика описаны в статье "[Тарификация и оплата]([256])".  
 
 
 
-### Тарифы на оптимальный уровень веб-защиты – AntiDDoS + Antibot
+### [Тарифы на оптимальный уровень веб-защиты – AntiDDoS + Antibot](tariffs-on-optimal-level-of-web-protection-antiddos-antibot)
 
 Подключение – 0 рублей.
 
@@ -54,13 +54,13 @@ categoryIcon: https://img.solarspace.pro/docs/internet.svg
 
 Таблица 2. Стоимость оптимального уровня веб-защиты (цены указаны без НДС)
 
-![tariffs-on-web-protection-table-2](https://img.solarspace.pro/docs/tariffs-on-wp-table-2.jpg 'tariffs-on-web-protection-table-2')
+![tariffs-on-web-protection-table-2 (35%|left)](https://img.solarspace.pro/docs/tariffs-on-wp-table-2.jpg 'tariffs-on-web-protection-table-2')
 
 Тарифицируемый трафик определяется полосой пропускания трафика, зафиксированной в вашем тарифе (столбец 1 в таблице). Правила измерения и подсчета тарифицируемого трафика описаны в статье "[Тарификация и оплата]([256])".
 
 
 
-### Тарифы на продвинутый уровень веб-защиты – AntiDDoS + Antibot + WAF Lite
+### [Тарифы на продвинутый уровень веб-защиты – AntiDDoS + Antibot + WAF Lite](tariffs-on-advanced-level-of-web-protection-antiddos-antibot-waf)
 
 Подключение – 0 рублей.
 
@@ -77,7 +77,7 @@ categoryIcon: https://img.solarspace.pro/docs/internet.svg
 
 Таблица 3. Стоимость продвинутого уровня веб-защиты AntiDDoS + Antibot + WAF Lite (цены указаны без НДС)
 
-![tariffs-on-web-protection-table-3](https://img.solarspace.pro/docs/tariffs-on-wp-table-3.jpg 'tarffs-on-web-protection-table-3')
+![tariffs-on-web-protection-table-3 (35%|left)](https://img.solarspace.pro/docs/tariffs-on-wp-table-3.jpg 'tarffs-on-web-protection-table-3')
 
 Тарифицируемый трафик определяется полосой пропускания трафика, зафиксированной в вашем тарифе (столбец 1 в таблице). Правила измерения и подсчета тарифицируемого трафика, а также рекомендации по расчету RPS (количества запросов к сайту в секунду) описаны в статье "[Тарификация и оплата]([256])".  
 
@@ -87,7 +87,7 @@ categoryIcon: https://img.solarspace.pro/docs/internet.svg
 
 Если такие уведомления поступают в течение нескольких месяцев подряд, рекомендуем изменить тариф, чтобы он соответствовал реальному объему трафика и запросов на вашем сайте.  
 
-### Как подобрать тариф
+### [Как подобрать тариф](how-to-coose-a-tariff)
 
 На что ориентироваться при подборе тарифа:
 
