@@ -11,7 +11,9 @@ historyDescription: Сервисы ресурса
 # [Сервисы ресурса](services-for-resource)
 
 На странице указан полный перечень сервисов, уже подключенных и доступных для подключения. Это сервисы веб-защиты, а также бесплатный сервис [ScanGuard]([219]) для сканирования ресурса на предмет утечек учетных записей и наличия фишинговых сайтов.
-![Services on resource page(70%)](https://img.solarspace.pro/docs/services-on-resource-page.jpg "Сервисы для страницы ресурса")
+
+![Services on resource page(70%|left)](https://img.solarspace.pro/docs/services-on-resource-page.jpg "Сервисы для страницы ресурса")
+
 Если сервис активирован, иконка около его названия зеленого цвета и переключатель справа – активный. Если сервис не подключен, то иконка красная, а переключатель справа – неактивный.  
 
    > **INFO**
@@ -19,10 +21,14 @@ historyDescription: Сервисы ресурса
    > Иконка около сервиса ScanGuard всегда зеленого цвета, поскольку сервис для сканирования доступен бесплатно всем пользователям Solar Space  
 
 Если сервис активирован, в нижней части его блока будет кнопка "Подробнее".
-![More information for service(35%)](https://img.solarspace.pro/docs/more-inf-for-service.jpg "Подробнее о сервисе")
+
+![More information for service(35%|left)](https://img.solarspace.pro/docs/more-inf-for-service.jpg "Подробнее о сервисе")
+
 При нажатии на нее вы перейдете на страницу настроек ресурса в раздел выбранного сервиса.
 Если сервис выключен, в нижней части его блока будет кнопка "Подключить".
-![Activate service on resource page(35%)](https://img.solarspace.pro/docs/activate-service-on-resource-page.jpg "Подключение сервиса")
+
+![Activate service on resource page(35%|left)](https://img.solarspace.pro/docs/activate-service-on-resource-page.jpg "Подключение сервиса")
+
 При клике на кнопку "Подключить" вы попадете на страницу с кратким описанием услуги и возможностью активации сервиса.  
    > **INFO**
    > #### Обратите внимание  
