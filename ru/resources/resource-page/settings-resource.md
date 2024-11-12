@@ -14,14 +14,17 @@ historyDescription: Настройки ресурса
 
 #### 1 способ
 На странице "Мои ресурсы" кликните по иконке в виде трех точек в строке нужного ресурса. В открывшемся списке нажмите "Настройки".
-![Settings on resources page(70%)](https://img.solarspace.pro/docs/settings-on-resources-page.jpg "Настройки на странице ресурсов")
+
+![Settings on resources page(70%|left)](https://img.solarspace.pro/docs/settings-on-resources-page.jpg "Настройки на странице ресурсов")
 
 #### 2 способ
 На странице "Мои ресурсы" кликните на строку нужного ресурса.
-![Row on resources page(70%)](https://img.solarspace.pro/docs/row-on-resources-page.jpg "Ресурс на странице ресурсов")
+
+![Row on resources page(70%|left)](https://img.solarspace.pro/docs/row-on-resources-page.jpg "Ресурс на странице ресурсов")
 
 На открывшейся странице ресурса перейдите во вкладку "Настройки".
-![Resource setting page(70%)](https://img.solarspace.pro/docs/resource-setting-page.jpg "Страница настроек ресурса")
+
+![Resource setting page(70%|left)](https://img.solarspace.pro/docs/resource-setting-page.jpg "Страница настроек ресурса")
 
 На странице настроек ресурса вы можете:
 - Добавить домены 

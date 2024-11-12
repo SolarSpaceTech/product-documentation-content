@@ -12,12 +12,15 @@ historyDescription: Страница "Мои ресурсы"
 На странице "Мои ресурсы" отображается список всех созданных вами ресурсов.
 
 Для быстрого доступа к странице "Мои ресурсы" из любого раздела кликните на иконку в виде папки в боковом меню.
-![Resources tab on sidebar(15%)](https://img.solarspace.pro/docs/resources-tab-on-sidebar.jpg "Вкладка 'Мои ресурсы' в боковом меню")
+
+![Resources tab on sidebar(15%|left)](https://img.solarspace.pro/docs/resources-tab-on-sidebar.jpg "Вкладка 'Мои ресурсы' в боковом меню")
 
 Если у вас еще нет ресурсов, вы можете [его создать]([205]).
 
 Если у вас уже есть созданные ресурсы, на странице "Мои ресурсы" будет отображаться их список со статусами и подключенными сервисами.
-![All resources on resources page(75%)](https://img.solarspace.pro/docs/all-resources-on-resources-page.jpg "Список ресурсов на странице 'Мои ресурсы'")
+
+![All resources on resources page(75%|left)](https://img.solarspace.pro/docs/all-resources-on-resources-page.jpg "Список ресурсов на странице 'Мои ресурсы'")
+
 Напротив названия каждого ресурса высвечивается 1 из 4-х возможных статусов:
 - **Не подтвержден** – отображается сразу после создания нового ресурса, который еще не прошел верификацию, или после неуспешной верификации. Если у домена есть поддомены, и хотя бы один из них не верифицирован, то у всего домена будет статус "Не подтвержден"
 - **Ожидание** – означает, что ресурс находится в процессе верификации, то есть подтверждения права собственности на него
@@ -29,19 +32,19 @@ historyDescription: Страница "Мои ресурсы"
 - Найти нужный домен через поле "Поиск по ресурсам и доменам"
 - Раскрыть или скрыть список поддоменов, нажав на "и еще 1" рядом с именем домена
 
-![One more on resources page(75%)](https://img.solarspace.pro/docs/more-one-on-resources-page.jpg "Скрытый блок доменов на странице ресурсов")
+![One more on resources page(75%|left)](https://img.solarspace.pro/docs/more-one-on-resources-page.jpg "Скрытый блок доменов на странице ресурсов")
 
 - Если у ресурса нет поддоменов, аналогичное меню можно раскрыть, нажав на "стрелочку" справа в строке ресурса
 
-![Open more one on resources page(75%)](https://img.solarspace.pro/docs/open-more-one-on-resources-page.jpg "Раскрытый блок доменов на странице ресурсов")
+![Open more one on resources page(75%|left)](https://img.solarspace.pro/docs/open-more-one-on-resources-page.jpg "Раскрытый блок доменов на странице ресурсов")
 
 - Открыть дополнительные возможности, нажав на иконку с тремя точками справа в строке ресурса
 
-![Three dots on resources page(75%)](https://img.solarspace.pro/docs/three-dots-on-resources-page.jpg "Иконка с тремя точками на странице ресурсов")
+![Three dots on resources page(75%|left)](https://img.solarspace.pro/docs/three-dots-on-resources-page.jpg "Иконка с тремя точками на странице ресурсов")
 
 При нажатии на эта иконку вы увидите меню дополнительных возможностей из 4 пунктов:
 
-![Menu on resources page(75%)](https://img.solarspace.pro/docs/menu-on-resources-page.jpg "Меню на странице ресурсов")
+![Menu on resources page(75%|left)](https://img.solarspace.pro/docs/menu-on-resources-page.jpg "Меню на странице ресурсов")
 
 - **Статистика** - при нажатии этой кнопки вы перейдете на страницу "Статистика". На ней 4 раздела. По умолчанию откроется первый раздел "Ширина канала"
 - **Сервисы** - при нажатии этой кнопки вы перейдете на страницу "Сервисы". Откроется список со всеми доступными для подключения сервисами и по умолчанию включенным сервисом AntiDDoS
