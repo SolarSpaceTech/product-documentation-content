@@ -13,6 +13,6 @@ categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/internet.svg
 ---
 
-### [Изменение тарифа](how-to-change-tariff)
+# [Изменение тарифа](how-to-change-tariff)
 
 Скоро здесь будет инструкция. Мы работаем над этим.
