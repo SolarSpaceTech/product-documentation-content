@@ -1,5 +1,5 @@
 ---
 displayName: Тарифы и оплата
-order: 56
+order: 55
 published: true
 ---
