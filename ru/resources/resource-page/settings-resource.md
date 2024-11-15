@@ -19,10 +19,8 @@ historyDescription: Настройки ресурса
 #### 2 способ
 На странице "Мои ресурсы" кликните на строку нужного ресурса.
 ![Row on resources page(70%)](https://img.solarspace.pro/docs/row-on-resources-page.jpg "Ресурс на странице ресурсов")
-
 На открывшейся странице ресурса перейдите во вкладку "Настройки".
 ![Resource setting page(70%)](https://img.solarspace.pro/docs/resource-setting-page.jpg "Страница настроек ресурса")
-
 На странице настроек ресурса вы можете:
 - Добавить домены 
 - Включить/отключить защиту ресурса
