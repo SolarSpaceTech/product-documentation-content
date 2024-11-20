@@ -1,14 +1,14 @@
 ---
 id: 258
 title: Изменение тарифа
-displayName: Изменеие тарифа
+displayName: Изменение тарифа
 order: 4
 published: true
-historyName: Измнение тарифа
-historyDescription: Инструкиция по изменению вашего текущего тарифа
+historyName: Изменение тарифа
+historyDescription: Инструкция по изменению вашего текущего тарифа
 category: FAQ
 categoryName: Инструкция по изменению тарифа
-categoryDescription: Инструкция по изменению вашего текущгео тарифа
+categoryDescription: Инструкция по изменению вашего текущего тарифа
 categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/internet.svg
 ---
