@@ -25,4 +25,4 @@ historyDescription: Инструкция по изменению вашего т
 ![Changing tariff on profile(75%)](https://img.solarspace.pro/docs/changing-tariff-on-profile.jpg "Изменение тарифа на странице профиля")
 3. На странице изменения тарифа нажмите на кнопку “Изменить”.
 ![Change tariff on billing page(75%)](https://img.solarspace.pro/docs/change-tariff-on-billing-page.jpg "Изменить тариф")
-4. [Добавьте новый сервис]([259]), [отключите его]([260]) или [измените параметры тарифа]([261]).
+4. Выполните нужное действие: [добавьте новый сервис]([259]), [измените параметры тарифа]([261]) или [отключите сервис]([260]).
