@@ -25,9 +25,9 @@ categoryIcon: https://img.solarspace.pro/docs/icon_07.svg
 
 При нажатии на эту кнопку открывается форма с двумя обязательными полями для заполнения "Key" и "Value".
 
-- **Key** – ключ заголовка <br/>
+- **Key** – Тип информации, передаваемый в HTTP-заголовке <br/>
 
-- **Value** – значение заголовка
+- **Value** – Значение, которое предоставляет параметры для данного HTTP-заголовка
 
 ![add key & value (75%|left)](https://img.solarspace.pro/docs/key-value-http-headers.jpg "Добавление параметров 'ключ значение'")
 
