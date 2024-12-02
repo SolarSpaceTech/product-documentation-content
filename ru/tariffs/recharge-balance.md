@@ -6,11 +6,6 @@ order: 3
 published: true
 historyName: Пополнение баланса
 historyDescription: Инструкция по пополнению баланса
-category: FAQ
-categoryName: Как пополнить баланс?
-categoryDescription: Инструкция по пополнению баланса
-categoryOrder: 3
-categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
 ---
 
 # [Пополнение баланса](recharge-balance)
@@ -35,5 +30,4 @@ categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
 
 Пользователям с этими типами контрагентов доступна оплата по счету.  
 Свяжитесь с поддержкой Solar Space support@solarspace.pro и укажите в письме название компании, тип контрагента и сумму, которую вы хотите положить на баланс.
-![Recharge for individual and self-employed(35%)](https://img.solarspace.pro/docs/recharge-for-individual-and-self-employed.jpg "Оплата по счету для ИП и Юр.лиц")  
-
+![Recharge for individual and self-employed(35%)](https://img.solarspace.pro/docs/recharge-for-individual-and-self-employed.jpg "Оплата по счету для ИП и Юр.лиц")
