@@ -6,11 +6,6 @@ order: 2
 published: true
 historyName: Тарифы на веб-защиту
 historyDescription: Список фиксированных тарифов стандартной линейки
-category: FAQ
-categoryName: Список фиксированных тарифов
-categoryDescription: Список фиксированных тарифов и рекомендации по выбору
-categoryOrder: 2
-categoryIcon: https://img.solarspace.pro/docs/internet.svg
 ---
 
 # [Тарифы на веб-защиту](tariffs-on-web-protection)

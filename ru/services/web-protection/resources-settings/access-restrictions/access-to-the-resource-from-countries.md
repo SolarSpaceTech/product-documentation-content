@@ -6,11 +6,6 @@ order: 9
 published: true
 historyName: Настройки геоблокировки
 historyDescription: Защита ресурса от DDoS-атак
-category: Ограничения доступа
-categoryName: Доступ к ресурсу из стран
-categoryDescription: Защита ресурса от DDoS-атак
-categoryOrder: 
-categoryIcon: https://img.solarspace.pro/docs/test-speed.svg
 ---
 
 

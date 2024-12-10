@@ -6,11 +6,6 @@ order: 11
 published: true
 historyName: Настройки White List
 historyDescription: Email защита от фишинга
-category: Ограничения доступа
-categoryName: Настройки White List
-categoryDescription: Email защита от фишинга
-categoryOrder: 
-categoryIcon: https://img.solarspace.pro/docs/main.svg
 ---
 
 # [White list](whitelist)
