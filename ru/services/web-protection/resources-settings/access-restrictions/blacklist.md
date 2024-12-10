@@ -6,11 +6,6 @@ order: 10
 published: true
 historyName: Настройки Black List
 historyDescription: Черный список
-category: Ограничения доступа
-categoryName: Настройки Black List
-categoryDescription: Черный список
-categoryOrder: 
-categoryIcon: https://img.solarspace.pro/docs/users.svg
 ---
 
 # [Black list](black-list)
