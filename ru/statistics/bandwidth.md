@@ -5,7 +5,7 @@ displayName: Ширина канала
 order: 2
 published: true
 historyName: Ширина канала
-historyDescription: Просмотр графика пропускной способности
+historyDescription: "Описание и графические отчеты по видам трафика: входящий, входящий легитимный, исходящий и тарифицируемый"
 category: Статистика
 categoryName: Ширина канала
 categoryDescription: Просмотр графика пропускной способности

@@ -14,6 +14,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
 ---
 
 # [Восстановление пароля](password-reset)
+
 Для восстановления пароля выполните следующие действия:
 
 1. Откройте страницу авторизации https://my.solarspace.pro/sign-in </br>

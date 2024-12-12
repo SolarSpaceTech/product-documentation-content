@@ -5,7 +5,7 @@ displayName: Домен и SSL
 order: 5
 published: true
 historyName: Домен и SSL
-historyDescription: Настройка SSL-сертификатов домена
+historyDescription: Инструкция по добавлению SSL-сертификатов и перенаправлению трафика
 category: Настройка ресурсов
 categoryName: Домен и SSL
 categoryDescription: Настройка SSL-сертификатов домена

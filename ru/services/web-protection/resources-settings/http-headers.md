@@ -5,10 +5,10 @@ displayName: HTTP-заголовки
 order: 7
 published: true
 historyName: HTTP-заголовки
-historyDescription: Защита от взлома сайта
+historyDescription: Инструкция по добавлению HTTP-заголовков
 category: Настройка ресурсов
 categoryName: HTTP-заголовки
-categoryDescription: Защита от взлома сайта
+categoryDescription: Добавление HTTP-заголовков
 categoryOrder: 3
 categoryIcon: https://img.solarspace.pro/docs/icon_07.svg
 ---

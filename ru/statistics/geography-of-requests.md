@@ -5,7 +5,7 @@ displayName: География запросов
 order: 5
 published: true
 historyName: География запросов
-historyDescription: Просмотр запросов из стран
+historyDescription: Описание и графический отчет по странам, из которых поступает трафик на сайт
 category: Статистика
 categoryName: География запросов
 categoryDescription: Просмотр запросов из стран

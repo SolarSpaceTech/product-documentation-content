@@ -5,7 +5,7 @@ displayName: AntiDDoS
 order: 2
 published: true
 historyName: AntiDDoS
-historyDescription: Защита ресурса от DDoS-атак
+historyDescription: Описание сервиса AntiDDoS, который защищает веб-ресурсы от атак, направленных на замедление работы сайта или его недоступность
 category: Сервисы
 categoryName: AntiDDoS
 categoryDescription: Защита ресурса от DDoS-атак

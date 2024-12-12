@@ -5,7 +5,7 @@ displayName: Общее описание
 order: 1
 published: true
 historyName: Изменение тарифа
-historyDescription: Инструкция по изменению вашего текущего тарифа
+historyDescription: Описание возможных вариантов изменения тарифа
 ---
 
 # [Изменение тарифа](changing-tariff)

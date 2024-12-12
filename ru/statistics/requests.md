@@ -5,7 +5,7 @@ displayName: Запросы
 order: 3
 published: true
 historyName: Запросы
-historyDescription: Просмотр графика по запросам
+historyDescription: Описание и графические отчеты по входящим и легитимным запросам, отправленным к защищаемым ресурсам
 category: Статистика
 categoryName: Запросы
 categoryDescription: Просмотр графика по запросам

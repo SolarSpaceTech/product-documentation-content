@@ -5,7 +5,7 @@ displayName: Сервисы
 order: 2
 published: true
 historyName: Сервисы
-historyDescription: Сервисы ресурса
+historyDescription: Информация об активных и доступных для подключения сервисах
 ---
 
 # [Сервисы ресурса](services-for-resource)

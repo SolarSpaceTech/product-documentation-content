@@ -5,7 +5,7 @@ displayName: Настройки Black list
 order: 10
 published: true
 historyName: Настройки Black list
-historyDescription: Черный список
+historyDescription: Инструкция по формированию черного списка IP-адресов для автоматической блокировки запросов
 ---
 
 # [Black list](black-list)

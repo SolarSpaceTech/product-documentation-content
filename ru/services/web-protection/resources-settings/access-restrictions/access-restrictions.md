@@ -5,7 +5,12 @@ displayName: Ограничения доступа
 order: 8
 published: true
 historyName: Ограничения доступа
-historyDescription: Геоблокировка, Black list, White list
+historyDescription: Список настроек, которые позволяют ограничивать или разрешать доступ к веб-ресурсу
+category: Настройка ресурсов
+categoryName: Ограничения доступа
+categoryDescription: Геоблокировка, Black list, White list
+categoryOrder: 4
+categoryIcon: https://img.solarspace.pro/docs/icon_08.svg
 ---
 
 # [Общее описание ограничений доступа](access-restrictions)

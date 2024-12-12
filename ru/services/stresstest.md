@@ -5,10 +5,10 @@ displayName: StressTest
 order: 60
 published: true
 historyName: StressTest
-historyDescription: Тестирование сайта
+historyDescription: Описание инструмента для тестирования устойчивости системы к экстремальным нагрузкам
 category: Сервисы
 categoryName: StressTest
-categoryDescription: Тестирование сайта
+categoryDescription: Тестирование системы
 categoryOrder: 3
 categoryIcon: https://img.solarspace.pro/docs/test-speed.svg
 ---
