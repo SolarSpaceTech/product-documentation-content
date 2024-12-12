@@ -5,7 +5,7 @@ displayName: Подключение и оплата
 order: 6
 published: true
 historyName: Подключение и оплата
-historyDescription: Выбор и активация пакета услуг
+historyDescription: Настройте и оплатите тариф, чтобы активировать выбранные сервисы
 category: Начало работы
 categoryName: Подключение и оплата
 categoryDescription: Выбор и активация пакета услуг
@@ -14,6 +14,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_04.svg
 ---
 
 # [Подключение и оплата](activation-and-payment)
+
 Для подключения сервисов и оплаты выполните следующие действия:
 1. Нажмите на кнопку "Выбрать защиту" после [подтверждения аккаунта]([243]), либо на [странице профиля]([262]). </br>
 2. Нажмите на кнопку "Подключить" в тарифе "Веб-защита".
@@ -46,6 +47,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_04.svg
 9. После успешной оплаты вам необходимо выполнить несколько шагов для настройки защиты ресурса:
 
 ### [Если ресурс не был верифицирован](not-verificated-resource)
+
 1. Нажмите на кнопку "Верифицировать".
 ![Verification after payment(35%)](https://img.solarspace.pro/docs/verification-after-payment.jpg "Верификация после оплаты")
 2. В появившемся окне скопируйте DNS-TXT запись и добавьте ее в настройки своего хостинг-провайдера.
@@ -54,6 +56,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_04.svg
 ![Verification after payment in modal(35%)](https://img.solarspace.pro/docs/verification-after-payment-in-modal.jpg "Верификация после оплаты в модальном окне")
  
 ### [Если ресурс верифицирован](verificated-resource)
+
 1. Нажмите на кнопку "Настроить трафик" для того, чтобы перенаправить трафик через сервер защиты Solar Space.
 ![Сonfigure traffic after payment(35%)](https://img.solarspace.pro/docs/configure-traffic-after-payment.jpg "Настройка трафика после оплаты")
 2. В появившемся окне скопируйте DNS-A запись и добавьте ее в настройки своего хостинг-провайдера.

@@ -5,7 +5,7 @@ displayName: Коды ответов
 order: 4
 published: true
 historyName: Коды ответов
-historyDescription: Просмотр графика по кодам ответов
+historyDescription: Описание и графические отчеты по кодам ответов, полученным от сервера
 category: Статистика
 categoryName: Коды ответов
 categoryDescription: Просмотр графика по кодам ответов

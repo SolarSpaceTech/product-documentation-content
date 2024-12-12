@@ -5,7 +5,7 @@ displayName: Добавление нового сервиса
 order: 2
 published: true
 historyName: Добавление нового сервиса
-historyDescription: Инструкция по добавлению нового сервиса
+historyDescription: Инструкция по добавлению нового сервиса для более надежной защиты ресурсов
 ---
 
 # [Добавление нового сервиса](adding-new-service)

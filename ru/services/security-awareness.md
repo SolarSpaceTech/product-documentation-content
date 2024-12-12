@@ -5,7 +5,7 @@ displayName: Security Awareness
 order: 58
 published: true
 historyName: Security Awareness
-historyDescription: Обучение персонала
+historyDescription: Описание сервиса по обучению персонала навыкам реагирования на фишинговые атаки
 category: Сервисы
 categoryName: Security Awareness
 categoryDescription: Обучение персонала

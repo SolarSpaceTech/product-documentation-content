@@ -5,7 +5,7 @@ displayName: Sec DNS
 order: 59
 published: true
 historyName: Sec DNS
-historyDescription: Защищенный DNS
+historyDescription: Описание сервиса по защите DNS-запросов на основе машинного обучения
 category: Сервисы
 categoryName: Sec DNS
 categoryDescription: Защищенный DNS

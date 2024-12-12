@@ -5,14 +5,13 @@ displayName: Antibot
 order: 3
 published: true
 historyName: Antibot
-historyDescription: Защита ресурса от ботнет атак
+historyDescription: Описание работы сервиса Antibot, который защищает веб-ресурсы от ботов, спама и автоматизированных атак
 category: Сервисы
 categoryName: Antibot
 categoryDescription: Защита ресурса от ботнет атак
 categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/anti-bot.svg
 ---
-
 
 # [Antibot](antibot)
 

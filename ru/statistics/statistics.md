@@ -5,7 +5,7 @@ displayName: Статистика
 order: 1
 published: true
 historyName: Статистика
-historyDescription: Ширина канала, Запросы, Коды ответов, География запросов
+historyDescription: Общая статистика всех ресурсов по запросам к сайту, движению и источникам трафика
 categoryDescription: Ширина канала, Запросы, Коды ответов, География запросов
 ---
 

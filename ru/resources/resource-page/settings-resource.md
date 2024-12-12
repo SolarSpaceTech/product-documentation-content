@@ -5,7 +5,7 @@ displayName: Настройки
 order: 3
 published: true
 historyName: Настройки
-historyDescription: Настройки ресурса
+historyDescription: "Инструкция по действиям с доменом: добавление и удаление"
 ---
 
 # [Настройки ресурса](settings-for-resource)

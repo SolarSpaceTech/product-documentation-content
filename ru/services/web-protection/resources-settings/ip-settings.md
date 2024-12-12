@@ -5,10 +5,10 @@ displayName: Настройки IP
 order: 6
 published: true
 historyName: Настройки IP
-historyDescription: Защита от ботнет атак
+historyDescription: Инструкция по добавлению IP-адресов и настройка балансировки трафика с дополнительными функциями
 category: Настройка ресурсов
-categoryName: Настройки IP
-categoryDescription: Защита от ботнет атак
+categoryName: Настройки IP-адреса
+categoryDescription: Настройка IP-адреса ресурса и балансировка трафика
 categoryOrder: 2
 categoryIcon: https://img.solarspace.pro/docs/icon_06.svg
 ---

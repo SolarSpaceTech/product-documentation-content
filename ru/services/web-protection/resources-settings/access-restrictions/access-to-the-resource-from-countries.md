@@ -5,7 +5,7 @@ displayName: Доступ к ресурсу из стран
 order: 9
 published: true
 historyName: Настройки геоблокировки
-historyDescription: Защита ресурса от DDoS-атак
+historyDescription: Инструкция для настройки блокировки трафика по географическому признаку 
 ---
 
 # [Доступ к ресурсу из стран](access-toresource-from-countries)

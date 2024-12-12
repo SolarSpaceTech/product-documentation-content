@@ -5,7 +5,7 @@ displayName: Профиль
 order: 7
 published: true
 historyName: Профиль
-historyDescription: Описание профиля пользователя
+historyDescription: Описание страницы профиля пользователя с информацией об аккаунте
 ---
 
 # [Профиль](profile)

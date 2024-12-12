@@ -5,7 +5,7 @@ displayName: Общее описание
 order: 1
 published: true
 historyName: Веб-защита
-historyDescription: Защита от взлома сайта
+historyDescription: Инструкция по подключению сервисов AntiDDoS, Antibot и WAF Lite
 category: Сервисы
 categoryName: Веб-защита
 headerName: Веб-защита

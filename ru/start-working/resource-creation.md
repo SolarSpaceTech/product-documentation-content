@@ -5,7 +5,7 @@ displayName: Создание ресурса
 order: 3
 published: true
 historyName: Создание ресурса
-historyDescription: Добавление доменов
+historyDescription: Создайте ресурс, чтобы подключить к вашему домену нужные сервисы
 category: Начало работы
 categoryName: Создание ресурса
 categoryDescription: Добавление доменов
@@ -14,6 +14,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_01.svg
 ---
 
 # [Создание ресурса](resource-creation)
+
 Первое обязательное действие на платформе – создание ресурса.
 
 Для создания ресурса выполните следующие действия:
