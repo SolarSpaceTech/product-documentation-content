@@ -5,27 +5,18 @@ displayName: Доступ к ресурсу из стран
 order: 9
 published: true
 historyName: Настройки геоблокировки
-historyDescription: Защита ресурса от DDoS-атак
-category: Ограничения доступа
-categoryName: Доступ к ресурсу из стран
-categoryDescription: Защита ресурса от DDoS-атак
-categoryOrder: 
-categoryIcon: https://img.solarspace.pro/docs/test-speed.svg
+historyDescription: Инструкция для настройки блокировки трафика по географическому признаку 
 ---
-
 
 # [Доступ к ресурсу из стран](access-toresource-from-countries)
 
-Доступ к ресурсу из стран - определяет, из каких стран входящие запросы будут разрешены или запрещены.
+Доступ к ресурсу из стран определяет, из каких стран входящие запросы будут разрешены или запрещены.
 
 Вы можете настроить 2 варианта ограничения доступа в зависимости от геолокации:
+- Только у стран из списка ниже – выберите конкретные страны, доступ из которых будет разрешен <br/>
+- У всех кроме стран из списка ниже (этот пункт выбран по умолчанию) – выберите конкретные страны, доступ из которых будет запрещен
+![access-to-the-resource-from-countries (75%)](https://img.solarspace.pro/docs/field-geo.jpg "Ограничение входящего трафика для стран")
 
-- только у стран из списка ниже – выберите конкретные страны, доступ из которых будет разрешен <br/>
+![access-type-for-countries (75%)](https://img.solarspace.pro/docs/choose-countries-geo.jpg "Доступность входящего траифка для выбранных стран")
 
-- у всех кроме стран из списка ниже - (этот пункт выбран по умолчанию) – выберите конкретные страны, доступ из которых будет запрещен
-
-![access-to-the-resource-from-countries (75%|left)](https://img.solarspace.pro/docs/field-geo.jpg "Ограничение входящего трафика для стран")
-
-![access-type-for-countries (75%|left)](https://img.solarspace.pro/docs/choose-countries-geo.jpg "Доступность входящего траифка для выбранных стран")
-
-![choose-counties (75%|left)](https://img.solarspace.pro/docs/countries-menu-geo.jpg "Страны, которым будет разрешено или запрещено отправлять трафик")
+![choose-counties (75%)](https://img.solarspace.pro/docs/countries-menu-geo.jpg "Страны, которым будет разрешено или запрещено отправлять трафик")

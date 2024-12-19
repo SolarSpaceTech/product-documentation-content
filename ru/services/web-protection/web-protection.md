@@ -5,7 +5,7 @@ displayName: Общее описание
 order: 1
 published: true
 historyName: Веб-защита
-historyDescription: Защита от взлома сайта
+historyDescription: Инструкция по подключению сервисов AntiDDoS, Antibot и WAF Lite
 category: Сервисы
 categoryName: Веб-защита
 headerName: Веб-защита
@@ -15,62 +15,46 @@ headerOrder: 30
 # [Общее описание Веб-защиты](web-protection)
 
 Веб-защита – это пакет услуг для защиты сайтов и веб-приложений. В него входят три сервиса:  
-
-[WEB AntiDDoS]([217]), [WEB Antibot]([216]) и [WAF Lite]([234])  
+- [WEB AntiDDoS]([217]) </br>
+- [WEB Antibot]([216]) </br>
+- [WAF Lite]([234])  
 
 Вы можете выбрать один из 3 уровней защиты:  
- 1. **Базовый** – только WEB AntiDDoS. Защита от DDoS-атак на уровне L7 модели OSI. Без WEB AntiDDoS невозможна работа других сервисов веб-защиты <br/>
-
- 2. **Оптимальный** – WEB AntiDDoS + WEB Antibot. Защита от DDoS-атак на уровне L7 + защита от ботов <br/>
-
- 3. **Продвинутый** – WEB AntiDDoS + WEB Antibot + WAF Lite. Защита от DDoS-атак на уровне L7 + защита от ботов + защита от веб-атак, направленных на взлом сайта и утечку данных <br/>
+ 1. **Базовый** – только WEB AntiDDoS. Защита от DDoS-атак на уровне L7 модели OSI. Без WEB AntiDDoS невозможна работа других сервисов веб-защиты. <br/>
+ 2. **Оптимальный** – WEB AntiDDoS + WEB Antibot. Защита от DDoS-атак на уровне L7 + защита от ботов. <br/>
+ 3. **Продвинутый** – WEB AntiDDoS + WEB Antibot + WAF Lite. Защита от DDoS-атак на уровне L7 + защита от ботов + защита от веб-атак, направленных на взлом сайта и утечку данных.
  
-
 На главной странице раздела вы увидите список всех ресурсов. Напротив каждого из них отображается статус в зависимости от того, подключена ли для него защита:
-
-![web-protection (75%|left)](https://img.solarspace.pro/docs/field-wp.jpg "веб-защита")
-
+![web-protection (75%)](https://img.solarspace.pro/docs/field-wp.jpg "веб-защита")
 
 - **Не защищен** – для ресурса не подключен ни один из сервисов веб-защиты <br/>
-
 - **Ожидание** – идет верификация ресурса по DNS-A записи для постановки под защиту <br/>
-
 - **Под защитой** – для ресурса подключен хотя бы один из сервисов веб-защиты <br/>
-
 - **Отключен** – ресурс отключен
-
-![statuses (75%|left)](https://img.solarspace.pro/docs/statuses-wp.jpg "статусы")
-
+![statuses (75%)](https://img.solarspace.pro/docs/statuses-wp.jpg "статусы")
 
 > **INFO**
 > **Обратите внимание**  
-> Для наиболее эффективной защиты веб-ресурсов рекомендуется подключать все три сервиса. Они отражают разные виды атак и в комплексе обеспечивают эшелонированную (многоуровневую) защиту.
-
+> Для наиболее эффективной защиты веб-ресурсов рекомендуется подключать все три сервиса. Они отражают разные виды атак и в комплексе обеспечивают эшелонированную (многоуровневую) защиту
 
 ### [Статистика](statistics-in-the-web-protection)
 
 На главной странице раздела  "WEB-защита" в блоке "Статистика работы сервиса" отображается информация с графиком средних значений по всем ресурсам за отчетный период.
-
-![statistics-on-web-protection (75%|left)](https://img.solarspace.pro/docs/statistics-on-web-protection.jpg "статистика на странице веб-защита")
+![statistics-on-web-protection (75%)](https://img.solarspace.pro/docs/statistics-on-web-protection.jpg "статистика на странице веб-защита")
 
 В блоке отображается три вкладки: "Ширина канала", "Запросы" и "Коды ответов". На каждой из них есть кнопка "Подробнее".
-
-![details-on-mini-statisctics (35%|left)](https://img.solarspace.pro/docs/deatils-in-mini-statistics-wp.jpg "вкладки статистика")
+![details-on-mini-statisctics (35%)](https://img.solarspace.pro/docs/deatils-in-mini-statistics-wp.jpg "вкладки статистика")
 
 При нажатии на кнопку "Подробнее" вы перейдете на аналогичную вкладку страницы [Статистика]([235]) с подробным отчетом по этому параметру – ширине канала, запросам или кодам ответов.
 
 В правом верхнем углу блока "Статистика работы сервиса" есть иконка в виде трех точек, при нажатии на которую раскрывается меню из трех пунктов.
-
-![menu (35%|left)](https://img.solarspace.pro/docs/three-dots-in-mini-statistics-wp.jpg "меню")
-
+![menu (35%)](https://img.solarspace.pro/docs/three-dots-in-mini-statistics-wp.jpg "меню")
 Отчетный период (установлен по умолчанию) – средняя статистика за последние 30 дней
 Если данные за это время отсутствуют, вы увидите сообщение "Нет данных за период".
-
-![no-data-for-the-period (35%|left)](https://img.solarspace.pro/docs/no-data-for-the-period.jpg "нет данных за период")
-
+![no-data-for-the-period (35%)](https://img.solarspace.pro/docs/no-data-for-the-period.jpg "нет данных за период")
 Последние 24 часа – статистика за последние сутки.
-Полная статистика – переход на страницу "Статистика" с подробными отчетами.
 
+Полная статистика – переход на страницу ["Статистика"]([235]) с подробными отчетами. </br>
 
 ### [Настройки сервисов](settings-in-the-web-protection)
 
@@ -79,35 +63,25 @@ headerOrder: 30
 **1 способ**
 
 На странице "Мои ресурсы" кликните по строке нужного ресурса.
-
-![first-variant (75%"left)](https://img.solarspace.pro/docs/1-var.jpg "первый способ")
+![first-variant (75%)](https://img.solarspace.pro/docs/1-var.jpg "первый способ")
 
 Вы перейдете на страницу ресурса, где вам нужно открыть вкладку "Сервисы". На вкладке "Сервисы" нажмите на кнопку "Подробнее" в блоке активного сервиса, чтобы перейти на страницу настроек защиты.
-
-![first-variant-2 (75%|left)](https://img.solarspace.pro/docs/1.1-var.jpg "первый способ 2")
+![first-variant-2 (75%)](https://img.solarspace.pro/docs/1.1-var.jpg "первый способ 2")
 
 **2 способ**
 
 На странице "WEB-защита" кликните по иконке шестеренки справа в строке нужного ресурса.
-
-![second-variant (75%|left)](https://img.solarspace.pro/docs/2-var.jpg "второй способ")
+![second-variant (75%)](https://img.solarspace.pro/docs/2-var.jpg "второй способ")
 
 **3 споосб**
 
 На странице "WEB-защита" кликните по строке нужного ресурса.
-
-![third-variant (75%|left)](https://img.solarspace.pro/docs/3-var.jpg "третий споосб")
+![third-variant (75%)](https://img.solarspace.pro/docs/3-var.jpg "третий споосб")
 
 **4 способ**
 
 На странице "WEB-защита" найдите в списке нужный ресурс. Справа в строке ресурса нажмите на иконку в виде галочки и в появившемся меню выберите пункт "Настройки защиты".
-
-![fourth-variant (75%|left)](https://img.solarspace.pro/docs/4-var.jpg "четвертый вариант")
+![fourth-variant (75%)](https://img.solarspace.pro/docs/4-var.jpg "четвертый вариант")
 
 На странице настроек защиты есть несколько вкладок.
-
-![fourth-variant-2](https://img.solarspace.pro/docs/4.1-var.jpg "четвертый вариант 2")
-
-
-
-
+![fourth-variant-2 (75%)](https://img.solarspace.pro/docs/4.1-var.jpg "четвертый вариант 2")

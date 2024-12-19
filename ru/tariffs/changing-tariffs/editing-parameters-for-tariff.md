@@ -5,7 +5,7 @@ displayName: Изменение параметров тарифа
 order: 3
 published: true
 historyName: Изменение параметров тарифа
-historyDescription: Инструкция по изменению параметров тарифа
+historyDescription: Инструкция по изменению параметров ширины канала и количества запросов в рамках действующего тарифа
 ---
 
 # [Изменение параметров тарифа](editing-parameters-for-tariff)

@@ -5,10 +5,10 @@ displayName: SEG
 order: 61
 published: true
 historyName: SEG
-historyDescription: Email защита от фишинга
+historyDescription: Описание сервиса для защиты электронной почты от вирусных вложений, фишинговых и спам-писем
 category: Сервисы
 categoryName: SEG
-categoryDescription: Email защита от фишинга
+categoryDescription: Email-защита от фишинга
 categoryOrder: 9
 categoryIcon: https://img.solarspace.pro/docs/main.svg
 ---
@@ -16,8 +16,6 @@ categoryIcon: https://img.solarspace.pro/docs/main.svg
 # [Security Email Gateway](security-email-gateway)
 
 Защита электронной почты от вирусных вложений, фишинговых и спам-писем.
-
-
 
 Сервис в разработке. Если хотите протестировать его одним из первых, сообщите об этом письмом на почту solarspace@rt-solar.ru. Мы свяжемся с вами, когда он будет готов к релизу.  
 
