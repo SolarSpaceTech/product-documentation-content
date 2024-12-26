@@ -1,11 +1,11 @@
 ---
 id: 265
-title: Импорт из Cloudflare
-displayName: Импорт из Cloudflare
-order: 2
+title: Импорт из CloudFlare
+displayName: Импорт из CloudFlare
+order: 8
 published: false
-historyName: Импорт из Cloudflare
-historyDescription: Инструкция по импорту ресурсов из Cloudflare
+historyName: Импорт из CloudFlare
+historyDescription: Инструкция по импорту ресурсов из CloudFlare
 ---
 
 # [Импорт из CloudFlare](import-from-cf)

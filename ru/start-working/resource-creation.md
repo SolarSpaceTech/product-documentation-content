@@ -2,7 +2,7 @@
 id: 205
 title: Создание ресурса
 displayName: Создание ресурса
-order: 1
+order: 3
 published: true
 historyName: Создание ресурса
 historyDescription: Создайте ресурс, чтобы подключить к вашему домену нужные сервисы
