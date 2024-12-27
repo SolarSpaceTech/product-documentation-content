@@ -30,6 +30,6 @@ categoryIcon: https://img.solarspace.pro/docs/icon_01.svg
 
 Если у вашего ресурса есть еще один домен, нажмите на кнопку "Добавить домен" (адреса доменов должны совпадать).
 ![Added domain for resource(35%)](https://img.solarspace.pro/docs/added-domain-for-resource.jpg "Добавление второго домена")
-3. Нажмите на кнопку "Создать".
+3. Нажмите на кнопку "Создать ресурс".
 ![Create resource(35%)](https://img.solarspace.pro/docs/create-resource.jpg "Создание ресурса")
 4. После успешного создания ресурса вам необходимо его [верифицировать]([206]), то есть подтвердить право собственности на него.
