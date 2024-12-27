@@ -3,7 +3,7 @@ id: 265
 title: Импорт из CloudFlare
 displayName: Импорт из CloudFlare
 order: 8
-published: false
+published: true
 historyName: Импорт из CloudFlare
 historyDescription: Инструкция по импорту ресурсов из CloudFlare
 ---
