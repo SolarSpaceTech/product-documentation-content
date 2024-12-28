@@ -22,8 +22,8 @@ categoryIcon: https://img.solarspace.pro/docs/icon_10.svg
 Для удаления ресурса выполните следующие действия:
 1. Откройте ресурс на странице ["Мои ресурсы"]([246]). </br>
 2. Перейдите на вкладку "Настройки" на странице ресурса.
-![Delete resource on Setting page(75%)](https://img.solarspace.pro/docs/delete-resource-settings.jpg "Удаление ресурса на странице настроек")
+![Delete resource on Setting page(75%)](https://img.solarspace.pro/docs/my-resources-settings-for-delete.jpg "Удаление ресурса на странице настроек")
 3. Нажмите кнопку "Удалить ресурс" в правой части страницы. </br>
 4. В появившемся окне нажмите на кнопку "Удалить" для удаления ресурса, либо отмените действие, нажав на кнопку "Отменить".
-![Submit recource deletion(35%)](https://img.solarspace.pro/docs/submit-delete-resource.jpg "Подтверждение удаления ресурса")
+![Submit recource deletion(35%)](https://img.solarspace.pro/docs/my-resources-settings-for-delete-2.jpg "Подтверждение удаления ресурса")
 5. После подтверждения действия появится сообщение об успешном удалении. Ресурс будет исключен из списка всех ресурсов [на странице "Мои ресурсы"]([246]) и все его сервисы будут отключены.
