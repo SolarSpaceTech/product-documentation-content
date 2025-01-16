@@ -2,7 +2,7 @@
 id: 262
 title: Профиль
 displayName: Профиль
-order: 7
+order: 8
 published: true
 historyName: Профиль
 historyDescription: Описание страницы профиля пользователя с информацией об аккаунте
