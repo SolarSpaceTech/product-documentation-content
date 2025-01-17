@@ -55,10 +55,12 @@ categoryIcon: https://img.solarspace.pro/docs/icon_04.svg
 3. Нажмите на кнопку "Верифицировать".
 ![Verification after payment in modal(35%)](https://img.solarspace.pro/docs/verification-after-payment-in-modal.jpg "Верификация после оплаты в модальном окне")
  
-### [Если ресурс верифицирован](verificated-resource)
+### [Если вы верифицировали ресурс ранее, то переходите к следующему шагу](verification-resource) "[Постановка домена под защиту]([265])"
 
 1. Нажмите на кнопку "Настроить трафик" для того, чтобы перенаправить трафик через сервер защиты Solar Space.
+
 ![Сonfigure traffic after payment(35%)](https://img.solarspace.pro/docs/configure-traffic-after-payment.jpg "Настройка трафика после оплаты")
+
 2. В появившемся окне скопируйте DNS-A запись и добавьте ее в настройки своего хостинг-провайдера.
    [Подробнее о настройке защиты]([213]). </br>
 3. Нажмите на кнопку "Подтвердить".
