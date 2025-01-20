@@ -16,59 +16,59 @@ Black list - функция добавления IP-адресов в черны
 
 Если вы еще не добавили ни одного IP-адреса в Black list, то увидите кнопки "Добавить" (для добавления IP-адресов вручную) и "Импортировать список" (для загрузки файла со списком).
 
-![Black list (75%)](https://img.solarspace.pro/docs/field-blacklist.jpg "Блокировка IP-адресов, не прошедших проверку")
+![Black list (95%)](https://img.solarspace.pro/docs/field-blacklist.jpg "Блокировка IP-адресов, не прошедших проверку")
 
-![add-ip-address (75%)](https://img.solarspace.pro/docs/add-blacklist.jpg "Добавление IP-адреса в Black list")
+![add-ip-address (95%)](https://img.solarspace.pro/docs/add-blacklist.jpg "Добавление IP-адреса в Black list")
 
-![import-list (75%)](https://img.solarspace.pro/docs/import-list-blacklist.jpg "Импортировать CSV список")
+![import-list (95%)](https://img.solarspace.pro/docs/import-list-blacklist.jpg "Импортировать CSV список")
 
 При нажатии на кнопку "Импортировать список" справа откроется окно для загрузки файла в формате .csv. Когда вы добавите файл, кнопка "Импортировать" в нижней части экрана станет активной.
-![import-csv (75%)](https://img.solarspace.pro/docs/button-import-file-csv.jpg "Импортирование CSV-файла в Black list")
+![import-csv (95%)](https://img.solarspace.pro/docs/button-import-file-csv.jpg "Импортирование CSV-файла в Black list")
 
 После загрузки файла, выберите один из способов его добавления в Black list и нажмите "Импортировать".
-![how-to-add-csv (75%)](https://img.solarspace.pro/docs/choose-csv.jpg "Замена или добавление списка IP-адресов к существующему")
+![how-to-add-csv (95%)](https://img.solarspace.pro/docs/choose-csv.jpg "Замена или добавление списка IP-адресов к существующему")
 
-![button-import (75%)](https://img.solarspace.pro/docs/approve-csv.jpg "Импортирование после загрузки CSV-файла в Black list")
+![button-import (95%)](https://img.solarspace.pro/docs/approve-csv.jpg "Импортирование после загрузки CSV-файла в Black list")
 
 Если хотите отменить внесенные изменения, нажмите "Отменить", окно закроется.
-![cancel-import (75%)](https://img.solarspace.pro/docs/cancel-csv.jpg "Кнопка отмены")
+![cancel-import (95%)](https://img.solarspace.pro/docs/cancel-csv.jpg "Кнопка отмены")
 
 Если вы будете добавлять IP-адреса в Black list вручную, обратите внимание: IP-адрес должен состоять из уровней, разделенных точкой. Если ввести его в некорректном формате, система покажет сообщение "Введите IP или подсеть в CIDR-нотации".  
 
 Если ввести IP-адрес сети которая не используется в сети Интернет и предназначена только для частного пользования, под этим полем появится текст "Это зарезервированная подсеть".
 
 > **INFO**
-> **Обратите внимание**  
+> #### Обратите внимание
 > Слеш "/" и число "32" вводить не нужно. Система проставит их сама исходя из введенного вами IP-адреса.
 
-![incorrect-ip-format (75%)](https://img.solarspace.pro/docs/cidr-ip-csv.png "Ввод IP-адреса с некорректным форматом")
+![incorrect-ip-format (95%)](https://img.solarspace.pro/docs/cidr-ip-csv.png "Ввод IP-адреса с некорректным форматом")
 
 После введения IP-адреса/подсети или загрузки файла со списком нажмите кнопку "Сохранить" в нижней части экрана.
-![button-save-changes (75%)](https://img.solarspace.pro/docs/save-cidr-csv.jpg "Необходимо сохранить изменения")
+![button-save-changes (95%)](https://img.solarspace.pro/docs/save-cidr-csv.jpg "Необходимо сохранить изменения")
 
 В нижней части экрана вы увидите сообщение "Настройки ресурса успешно сохранены". Добавленный IP-адрес отражается в списке подлежащих блокировке.
 
-![ip-address-after-save (75%)](https://img.solarspace.pro/docs/save-ips.jpg "Отображение страницы после добавления и сохранения IP-адреса")
+![ip-address-after-save (95%)](https://img.solarspace.pro/docs/save-ips.jpg "Отображение страницы после добавления и сохранения IP-адреса")
 
-- Если хотите отредактировать введенные данные, нажмите на иконку редактирования рядом с полем поиска <br/>
-- Если хотите добавить новые IP-адреса/подсети, нажмите на кнопку "+" рядом с полем поиска <br/>
+- Если хотите отредактировать введенные данные, нажмите на иконку редактирования рядом с полем поиска
+- Если хотите добавить новые IP-адреса/подсети, нажмите на кнопку "+" рядом с полем поиска
 - Для загрузки списка нажмите иконку загрузки файла в верхнем правом углу формы
 
-![little-buttons-for-edit (75%)](https://img.solarspace.pro/docs/buttons-cidr-csv.jpg "Маленькие кнопки для взаимодействия с разделом. Актуально и для White list")
+![little-buttons-for-edit (95%)](https://img.solarspace.pro/docs/buttons-cidr-csv.jpg "Маленькие кнопки для взаимодействия с разделом. Актуально и для White list")
 
 Нужный IP-адрес можно найти через поле поиска. Вы можете задать в нем любой уровень. Если IP-адрес есть в списке, система его найдет.
-![ip-address-was-found (35%)](https://img.solarspace.pro/docs/ip-found.jpg "IP-адрес, если он был найден в списке")
+![ip-address-was-found (50%)](https://img.solarspace.pro/docs/ip-found.jpg "IP-адрес, если он был найден в списке")
 
 Если IP-адреса нет в списке, вы увидите сообщение "ничего не найдено".
-![ip-address-was-not-found (35%)](https://img.solarspace.pro/docs/ip-not-found.jpg "IP-адрес, если он не был найден в списке")
+![ip-address-was-not-found (50%)](https://img.solarspace.pro/docs/ip-not-found.jpg "IP-адрес, если он не был найден в списке")
 
 Для удаления IP-адреса из Black list нажмите на иконку редактирования в виде карандаша рядом с полем поиска. После этого найдите нужный IP-адрес в списке и нажмите на крестик справа от него.
-![edit-ip-addresses (35%)](https://img.solarspace.pro/docs/ip-edit.jpg "Редактирование добавленных IP-адресов")
-![delete-ip-address (35%)](https://img.solarspace.pro/docs/ip-delete.jpg "Удаление IP-адреса")       
+![edit-ip-addresses (50%)](https://img.solarspace.pro/docs/ip-edit.jpg "Редактирование добавленных IP-адресов")
+![delete-ip-address (50%)](https://img.solarspace.pro/docs/ip-delete.jpg "Удаление IP-адреса")       
 
 Если нужно удалить несколько IP-адресов, отметьте их галочками слева от поля и нажмите на кнопку "Удалить" в нижней части формы. Также вы можете удалить все адреса из списка: нажмите на кнопку "Выбрать все" в нижней части формы и затем на кнопку "Удалить".
-![delete-some-or-all-ip-addresses (35%)](https://img.solarspace.pro/docs/ip-delete-all.jpg "Удаление нескольких или всех IP-адресов")
+![delete-some-or-all-ip-addresses (50%)](https://img.solarspace.pro/docs/ip-delete-all.jpg "Удаление нескольких или всех IP-адресов")
 
 > **INFO**
-> **Обратите внимание**  
+> #### Обратите внимание
 > После внесения любых изменений в Black list нажимайте кнопку "Сохранить" в нижней части экрана. После этого ваши корректировки отразятся в интерфейсе.
