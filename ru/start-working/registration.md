@@ -17,21 +17,21 @@ headerOrder: 20
 Если вы новый пользователь, выполните следующие действия для регистрации на платформе:
 1. Перейдите на страницу регистрации – https://my.solarspace.pro/sign-up  
 На форме размещаются обязательные поля для заполнения: "Введите Email", "Введите пароль", "Повторите пароль" и кнопка "Зарегистрироваться”.
-![Registration start form(75%)](https://img.solarspace.pro/docs/registration-start-form.jpg "Стартовая форма регистрации")
+![Registration start form(95%)](https://img.solarspace.pro/docs/registration-start-form.jpg "Стартовая форма регистрации")
 2. Заполните поля в соответствии с требованиями:
    - Email должен содержать символ @ и точку, разделяющую уровни домена (например, email@example.com)
    - Пароль должен содержать не менее 8 символов и включать как минимум одну цифру и буквы разных регистров
-![Filled in fields(35%)](https://img.solarspace.pro/docs/filled-in-fields.jpg "Заполнение полей")
+![Filled in fields(50%)](https://img.solarspace.pro/docs/filled-in-fields.jpg "Заполнение полей")
 3. Подтвердите согласие на условия Пользовательского соглашения и Оферты. Нажмите на кнопку "Зарегистрироваться".
-![Active registration form(35%)](https://img.solarspace.pro/docs/active-registration-form.jpg "Активная форма регистрации")
+![Active registration form(50%)](https://img.solarspace.pro/docs/active-registration-form.jpg "Активная форма регистрации")
 4. Далее вам необходимо пройти капчу. Так система убедится, что форму заполняет реальный пользователь. Для этого введите текст с картинки в соответствующее поле и нажмите кнопку "Зарегистрироваться".
-![Captcha for registration form(35%)](https://img.solarspace.pro/docs/captcha-for-registration-form.jpg "Капча для формы регистрации")
+![Captcha for registration form(50%)](https://img.solarspace.pro/docs/captcha-for-registration-form.jpg "Капча для формы регистрации")
 4. На ваш адрес электронной почты, указанный на шаге 3, придет письмо с кодом подтверждения регистрации. Откройте его и скопируйте 6-значный код из сообщения.
 ![Email message for registration(50%)](https://img.solarspace.pro/docs/email-message-for-registration.jpg "Сообщение на почте для регистрации")
 Если данного письма нет в папке "Входящие", проверьте папку "Спам".
-В случае, если письмо не пришло, перепроверьте введенную электронную почту и отправьте код повторно, нажав на кнопку "Повторить отправку". Запросить повторный код можно 1 раз в 60 секунд. Код действителен в течение 10 минут. </br>
+В случае, если письмо не пришло, перепроверьте введенную электронную почту и отправьте код повторно, нажав на кнопку "Повторить отправку". Запросить повторный код можно 1 раз в 60 секунд. Код действителен в течение 10 минут.
 5. Вставьте 6-значный проверочный код в соответствующее поле и нажмите на кнопку "Отправить".
-![Confirmation code for registration(35%)](https://img.solarspace.pro/docs/confirmation-code-for-registration.jpg "Код подтверждения для регистрации")
+![Confirmation code for registration(50%)](https://img.solarspace.pro/docs/confirmation-code-for-registration.jpg "Код подтверждения для регистрации")
 6. После успешного подтверждения кода появится сообщение об успешной регистрации.
-![Success registration form(35%)](https://img.solarspace.pro/docs/success-registration-form.jpg "Успешная форма регистрации")
+![Success registration form(50%)](https://img.solarspace.pro/docs/success-registration-form.jpg "Успешная форма регистрации")
 7. Нажав на кнопку "Войти" откроется страница с [авторизацией]([204]). Используйте свой email и пароль для входа в личный кабинет.
