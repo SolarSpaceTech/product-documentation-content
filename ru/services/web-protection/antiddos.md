@@ -37,4 +37,4 @@ WEB AntiDDoS обезопасит веб-ресурс от атаки массо
 > WEB AntiDDoS – это обязательный уровень защиты, без которого не могут быть подключены WEB Antibot и WAF Lite
 
 На странице сервиса AntiDDoS доступно его краткое описание и переключатель для активации услуги. AntiDDoS – базовый уровень защиты ресурса, без него невозможна работа [Antibot]([216]) и [WAF Lite]([234]). Поэтому активация других сервисов возможна только при условии активного AntiDDoS.
-![AntiDDoS (75%)](https://img.solarspace.pro/docs/antiddos.jpg "antiddos")
+![AntiDDoS (95%)](https://img.solarspace.pro/docs/antiddos.jpg "antiddos")

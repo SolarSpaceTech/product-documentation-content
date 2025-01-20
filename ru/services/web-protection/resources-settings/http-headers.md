@@ -80,24 +80,24 @@ HTTP-заголовки, добавленные в ответ сервера, п
 
 ### [Как работать с HTTP-заголовками в личном кабинете](how-to-work-with-http-headers-in-your-personal-account)
 
-![http-headers (75%)](https://img.solarspace.pro/docs/field-http-headers.jpg "Вкладка HTTP-заголовки")
+![http-headers (95%)](https://img.solarspace.pro/docs/field-http-headers.jpg "Вкладка HTTP-заголовки")
 
 На этой вкладке вы можете управлять HTTP-заголовками. Они сообщают серверу, какое желаемое действие нужно выполнить для конкретного ресурса. Если у вас еще нет ни одного заголовка, отображается кнопка "Добавить".
 
 При нажатии на эту кнопку открывается форма с двумя обязательными полями для заполнения "Key" и "Value".
 - **Key** – ключ заголовка
 - **Value** – значение заголовка
-![add key & value (75%)](https://img.solarspace.pro/docs/key-value-http-headers.jpg "Добавление параметров 'ключ значение'")
+![add key & value (95%)](https://img.solarspace.pro/docs/key-value-http-headers.jpg "Добавление параметров 'ключ значение'")
 
 После заполнения полей "Key" и "Value" кнопка "Сохранить" станет активной. Нажмите на нее, чтобы сохранить HTTP-заголовок. Вы увидите сообщение "HTTP-заголовок успешно добавлен".
-![http-header added (75%)](https://img.solarspace.pro/docs/save-key-value-http-headers.jpg "Успешное добавление HTTP-заголовка")
+![http-header added (95%)](https://img.solarspace.pro/docs/save-key-value-http-headers.jpg "Успешное добавление HTTP-заголовка")
 
 На этой вкладке вы можете:
 - **Добавлять новые HTTP-заголовки**, нажав на кнопку "Добавить"
 - **Редактировать существующие HTTP-заголовки**, нажав на иконку карандаша
 - **Удалять существующие HTTP-заголовки**, нажав на иконку корзины
 - **Выполнять поиск по полям "Key" или "Value"**. Нужное поле выберите в выпадающем списке
-![edit http-header (75%)](https://img.solarspace.pro/docs/edit-key-value-http-headers.jpg "Редактирование HTTP-заголовка")
+![edit http-header (95%)](https://img.solarspace.pro/docs/edit-key-value-http-headers.jpg "Редактирование HTTP-заголовка")
 
 При удалении заголовка нажмите "Сохранить" для подтверждения действия. Вы увидите сообщение "HTTP-заголовок успешно удален".
-![delete http-header (75%)](https://img.solarspace.pro/docs/delete-key-value-http-headers.jpg "Удаление HTTP-заголовка")
+![delete http-header (95%)](https://img.solarspace.pro/docs/delete-key-value-http-headers.jpg "Удаление HTTP-заголовка")

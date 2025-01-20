@@ -27,7 +27,7 @@ historyDescription: Инструкция по импорту ресурсов и
    - **Global API Key** – это поле находится на странице https://dash.cloudflare.com/profile/api-tokens в разделе "API Keys". Нажмите на кнопку "View" для просмотра поля
 ![View api-key on Cloudflare(95%)](https://img.solarspace.pro/docs/api-key-cf.jpg "Просмотр api-key в Cloudflare")
    Введите пароль от CloudFlare для подтверждения действия и скопируйте ключ, указанный в поле
-![Copy api-key on Cloudlare(70%)](https://img.solarspace.pro/docs/copy-api-key-cf.jpg "Копирование api-key в Cloudflare")
+![Copy api-key on Cloudlare(50%)](https://img.solarspace.pro/docs/copy-api-key-cf.jpg "Копирование api-key в Cloudflare")
 3. Вернитесь на платформу Solar Space и введите эти значения в соответствующие поля:
    - **Email Address** – адрес электронной почты, на который зарегистрирован аккаунт в CloudFlare. Он может отличаться от email, указанного при регистрации в Solar Space
    - **Global API key** – ключ, по которому осуществляется импорт

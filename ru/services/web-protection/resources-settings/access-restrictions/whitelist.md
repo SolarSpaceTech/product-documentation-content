@@ -26,4 +26,4 @@ White list - функция добавления IP-адресов в белый
 > #### Обратите внимание
 > Настройки добавления и импортирования IP-адресов в White list идентичны настройкам Black list
 
-![White list (75%)](https://img.solarspace.pro/docs/field-whitelist.jpg "Определение необходимости направлять IP-адрес на дополнительные проверки")
+![White list (95%)](https://img.solarspace.pro/docs/field-whitelist.jpg "Определение необходимости направлять IP-адрес на дополнительные проверки")
