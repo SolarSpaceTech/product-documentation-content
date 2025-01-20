@@ -3,7 +3,7 @@ id: 265
 title: Постановка домена под защиту
 displayName: Постановка домена под защиту
 order: 7
-published: true
+published: false
 historyName: Постановка домена под защиту
 historyDescription: Настройте и оплатите тариф, чтобы активировать выбранные сервисы
 ---
