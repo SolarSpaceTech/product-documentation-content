@@ -18,48 +18,48 @@ categoryIcon: https://img.solarspace.pro/docs/icon_03.svg
 Подтверждение аккаунта – обязательный этап подключения защиты, без которого невозможна оплата. Для подтверждения аккаунта нужно заполнить данные пользователя.
 
 На страницу данных пользователя можно перейти после [верификации]([206]), либо [из профиля пользователя]([262]) для заполнения этого раздела.
- ![User data page(75%)](https://img.solarspace.pro/docs/user-data-page.jpg "Страница данных пользователя")
+ ![User data page(95%)](https://img.solarspace.pro/docs/user-data-page.jpg "Страница данных пользователя")
 
 Здесь вам необходимо выбрать тип контрагента и заполнить данные в зависимости от того, какой из вариантов был выбран. От этого зависит документооборот и способ оплаты.
 
 Оплата по карте доступна для типов контрагента **"Физическое лицо"** и **"Самозанятый"**. Пользователям с типом контрагента **"Индивидуальный предприниматель"** и **"Юридическое лицо"** доступна оплата по коду выбранных услуг через поддержку Solar Space support@solarspace.pro
 
 > **WARNING**
-> **Важно**  
+> #### Важно  
 > Тип контрагента выбирается один раз и потом его нельзя будет изменить
 
 ### [Физическое лицо](physical-person)
 1. Выберите тип контрагента "Физическое лицо".
-![Physical person form(35%)](https://img.solarspace.pro/docs/physical-person-form.jpg "Форма для типа 'Физическое лицо'")
+![Physical person form(50%)](https://img.solarspace.pro/docs/physical-person-form.jpg "Форма для типа 'Физическое лицо'")
 2. В разделе "Подтверждение пользователя" заполните поля "ФИО" и "Дата рождения".
-![Enter name and date of birthday(35%)](https://img.solarspace.pro/docs/form-for-phys-and-sz.jpg "Ввод ФИО и Даты рождения")
+![Enter name and date of birthday(50%)](https://img.solarspace.pro/docs/form-for-phys-and-sz.jpg "Ввод ФИО и Даты рождения")
 3. Проверьте свои данные и нажмите на кнопку "Сохранить" для сохранения изменений, либо "Сбросить данные" для отмены действия.
-![Confirmation for physical person(75%)](https://img.solarspace.pro/docs/confirm-physical-person.jpg "Подтверждение для типа 'Физическое лицо'")
+![Confirmation for physical person(95%)](https://img.solarspace.pro/docs/confirm-physical-person.jpg "Подтверждение для типа 'Физическое лицо'")
 4. После успешного сохранения изменений вы попадете на страницу с соответствующим оповещением. С нее можно перейти к [выбору защиты]([208]), нажав на кнопку "Выбрать защиту", или перейти в [профиль пользователя]([262]), нажав на кнопку "Профиль".
   
 ### [Самозанятый](self-employed)
 1. Выберите тип контрагента "Самозанятый".
-![Self employed form(35%)](https://img.solarspace.pro/docs/self-employed-form.jpg "Форма для типа 'Самозанятый'")
+![Self employed form(50%)](https://img.solarspace.pro/docs/self-employed-form.jpg "Форма для типа 'Самозанятый'")
 2. В разделе "Подтверждение пользователя" заполните поля "ФИО" и "Дата рождения".
-![Enter name and date of birthday(35%)](https://img.solarspace.pro/docs/form-for-phys-and-sz.jpg "Ввод ФИО и Даты рождения")
+![Enter name and date of birthday(50%)](https://img.solarspace.pro/docs/form-for-phys-and-sz.jpg "Ввод ФИО и Даты рождения")
 3. Проверьте свои данные и нажмите на кнопку "Сохранить" для сохранения изменений, либо "Сбросить данные" для отмены действия.
-![Confirmation for self-employed(75%)](https://img.solarspace.pro/docs/confirm-self-employed.jpg "Подтверждение для типа 'Самозанятый'")
+![Confirmation for self-employed(95%)](https://img.solarspace.pro/docs/confirm-self-employed.jpg "Подтверждение для типа 'Самозанятый'")
 4. После успешного сохранения изменений вы попадете на страницу с соответствующим оповещением. С нее можно перейти к [выбору защиты]([208]), нажав на кнопку "Выбрать защиту", или перейти в [профиль пользователя]([262]), нажав на кнопку "Профиль".
  
 ### [Индивидуальный предприниматель](individual-entrepreneur)
 1. Выберите тип контрагента "Индивидуальный предприниматель".
-![Individual entrepreneur form(35%)](https://img.solarspace.pro/docs/individual-entrepreneur-form.jpg "Форма для типа 'Индивидуальный предприниматель'")
+![Individual entrepreneur form(50%)](https://img.solarspace.pro/docs/individual-entrepreneur-form.jpg "Форма для типа 'Индивидуальный предприниматель'")
 2. В разделе "Подтверждение пользователя" введите ИНН, состоящий из 12 цифр, и нажмите на кнопку "Проверить". Система проверит информацию по вашему ИНН и если он зарегистрирован, то отобразятся данные вашей организации.
-![Confirmation inn form(35%)](https://img.solarspace.pro/docs/confirmation-inn-form.jpg "Успешная форма подтверждения ИНН")
+![Confirmation inn form(50%)](https://img.solarspace.pro/docs/confirmation-inn-form.jpg "Успешная форма подтверждения ИНН")
 3. После успешной проверки ИНН  вы сможете подтвердить свои данные, нажав на кнопку "Сохранить", либо отменить действие, нажав на кнопку "Сбросить данные".
-![Confirmation for individual entrepreneur(75%)](https://img.solarspace.pro/docs/confirmation-individual-entrepreneur.jpg "Подтверждение для типа 'Индивидуальный предприниматель'")
+![Confirmation for individual entrepreneur(95%)](https://img.solarspace.pro/docs/confirmation-individual-entrepreneur.jpg "Подтверждение для типа 'Индивидуальный предприниматель'")
 4. После успешного сохранения изменений вы попадете на страницу с соответствующим оповещением. С нее можно перейти к [выбору защиты]([208]), нажав на кнопку "Выбрать защиту", или перейти в [профиль пользователя]([262]), нажав на кнопку "Профиль".
  
 ### [Юридическое лицо](legal-entity)
 1. Выберите тип контрагента «Юридическое лицо».
- ![Legal entity form(35%)](https://img.solarspace.pro/docs/legal-entity-form.jpg "Форма для типа 'Юридическое лицо'")
+ ![Legal entity form(50%)](https://img.solarspace.pro/docs/legal-entity-form.jpg "Форма для типа 'Юридическое лицо'")
 2. В разделе "Подтверждение пользователя" введите ИНН, состоящий из 10 цифр, и КПП, состоящий из 9 цифр. Нажмите на кнопку "Проверить". Система проверит информацию по вашему ИНН и КПП и если они зарегистрированы, то отобразятся данные вашей организации.
-![Confirmation inn and kpp form(35%)](https://img.solarspace.pro/docs/confirmation-inn-and-kpp-form.jpg "Успешная форма подтверждения ИНН и КПП")
+![Confirmation inn and kpp form(50%)](https://img.solarspace.pro/docs/confirmation-inn-and-kpp-form.jpg "Успешная форма подтверждения ИНН и КПП")
 3. После успешной проверки ИНН и КПП вы сможете подтвердить свои данные, нажав на кнопку "Сохранить", либо отменить действие, нажав на кнопку "Сбросить данные".
-![Confirmation for legal-entity(75%)](https://img.solarspace.pro/docs/confirmation-legal-entity.jpg "Подтверждение для типа 'Юридическое лицо'")
+![Confirmation for legal-entity(95%)](https://img.solarspace.pro/docs/confirmation-legal-entity.jpg "Подтверждение для типа 'Юридическое лицо'")
 4. После успешного сохранения изменений вы попадете на страницу с соответствующим оповещением. С нее можно перейти к [выбору защиты]([208]), нажав на кнопку "Выбрать защиту", или перейти в [профиль пользователя]([262]), нажав на кнопку "Профиль.

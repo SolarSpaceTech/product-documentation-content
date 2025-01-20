@@ -11,21 +11,21 @@ historyDescription: Информация об активных и доступн
 # [Сервисы ресурса](services-for-resource)
 
 На странице указан полный перечень сервисов уже подключенных и доступных для подключения. Это сервисы веб-защиты: [AntiDDoS]([217]), [Antibot]([216]) и [WAF Lite]([234]), а также бесплатный сервис [ScanGuard]([219]) для сканирования ресурса на предмет утечек учетных записей и наличия фишинговых сайтов.
-![Services on resource page(70%)](https://img.solarspace.pro/docs/services-on-resource-page.jpg "Сервисы для страницы ресурса")
+![Services on resource page(95%)](https://img.solarspace.pro/docs/services-on-resource-page.jpg "Сервисы для страницы ресурса")
 Если сервис активирован, иконка около его названия зеленого цвета, а переключатель справа – активный. Если сервис не подключен, то иконка красная, а переключатель справа – неактивный.  
 
    > **INFO**
-   > **Обратите внимание**  
+   > #### Обратите внимание
    > Иконка около сервиса ScanGuard всегда зеленого цвета, поскольку сервис для сканирования доступен бесплатно всем пользователям Solar Space  
 
 Если сервис активирован, в нижней части его блока будет кнопка "Подробнее".
-![More information for service(35%)](https://img.solarspace.pro/docs/more-inf-for-service.jpg "Подробнее о сервисе")
+![More information for service(50%)](https://img.solarspace.pro/docs/more-inf-for-service.jpg "Подробнее о сервисе")
 При нажатии на нее вы перейдете на страницу настроек ресурса в раздел выбранного сервиса.
 Если сервис выключен, в нижней части его блока будет кнопка "Подключить".
-![Activate service on resource page(35%)](https://img.solarspace.pro/docs/activate-service-on-resource-page.jpg "Подключение сервиса")
+![Activate service on resource page(50%)](https://img.solarspace.pro/docs/activate-service-on-resource-page.jpg "Подключение сервиса")
 При клике на кнопку "Подключить" вы попадете на страницу с кратким описанием услуги и возможностью активации сервиса.  
    > **INFO**
-   > **Обратите внимание**  
+   > #### Обратите внимание
    > Подключение услуги Antibot доступно только при активной услуге AntiDDoS.
 Подключение услуги WAF Lite доступно только при активных услугах AntiDDoS и Antibot. Если вы хотите пользоваться WAF Lite, отключить Antibot нельзя: WAF Lite тоже перестанет работать  
 

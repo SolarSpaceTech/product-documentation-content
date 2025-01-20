@@ -16,14 +16,14 @@ categoryIcon: https://img.solarspace.pro/docs/icon_04.svg
 # [Подключение и оплата](activation-and-payment)
 
 Для подключения сервисов и оплаты выполните следующие действия:
-1. Нажмите на кнопку "Выбрать защиту" после [подтверждения аккаунта]([243]), либо на [странице профиля]([262]). </br>
+1. Нажмите на кнопку "Выбрать защиту" после [подтверждения аккаунта]([243]), либо на [странице профиля]([262]).
 2. Нажмите на кнопку "Подключить" в тарифе "Веб-защита".
-![Enable web protection(75%)](https://img.solarspace.pro/docs/enable-web-protection.jpg "Подключение Веб-защиты")
-3. Укажите желаемый уровень защиты: </br>
-   - При выборе базового уровня защиты доступен только сервис **AntiDDoS** </br>
-   - При выборе оптимального уровня защиты доступны сервисы **AntiDDoS + Antibot** </br>
-   - При выборе продвинутого уровня защиты доступны сервисы **AntiDDoS + Antibot + WAF Lite** </br>
-4. После выбора уровня защиты поля "Ширина канала" и "Количество запросов" станут активными для редактирования. </br>
+![Enable web protection(95%)](https://img.solarspace.pro/docs/enable-web-protection.jpg "Подключение Веб-защиты")
+3. Укажите желаемый уровень защиты:
+   - При выборе базового уровня защиты доступен только сервис **AntiDDoS**
+   - При выборе оптимального уровня защиты доступны сервисы **AntiDDoS + Antibot**
+   - При выборе продвинутого уровня защиты доступны сервисы **AntiDDoS + Antibot + WAF Lite**
+4. После выбора уровня защиты поля "Ширина канала" и "Количество запросов" станут активными для редактирования.
    - Для базового уровня защиты доступна возможность изменения параметра "Ширина канала"
 ![Basic level of Web-protection(75%)](https://img.solarspace.pro/docs/basic-level-of-protection.jpg "Базовый уровень защиты")
    - Для оптимального уровня защиты доступна возможность изменения параметра "Ширина канала"
@@ -31,37 +31,36 @@ categoryIcon: https://img.solarspace.pro/docs/icon_04.svg
    - Для продвинутого уровня защиты доступна возможность изменения параметров "Ширина канала" и "Количество запросов"
 ![Advanced level of Web-protection(75%)](https://img.solarspace.pro/docs/advanced-level-of-protection.jpg "Продвинутый уровень защиты")
 5. Убедитесь, что параметры тарифа настроены верно, и нажмите на кнопку "Применить".
-![Submit Web-protection(75%)](https://img.solarspace.pro/docs/submit-web-protection.jpg "Сохранить параметры Веб-защиты")
+![Submit Web-protection(95%)](https://img.solarspace.pro/docs/submit-web-protection.jpg "Сохранить параметры Веб-защиты")
 6. На форме "Настройки тарифа" выберите оплачиваемый период – количество оплачиваемых месяцев по подключенному тарифу (от 1 до 12 месяцев) и нажмите на кнопку "Оформить".
-![Confirmation Web-protection(75%)](https://img.solarspace.pro/docs/confirmation-web-protection.jpg "Оформить Веб-защиту")
+![Confirmation Web-protection(95%)](https://img.solarspace.pro/docs/confirmation-web-protection.jpg "Оформить Веб-защиту")
 7. На странице оплаты вы сможете увидеть добавленные сервисы, выбранные параметры тарифа и итоговую стоимость в разделе "Оплата". Проверьте информацию и нажмите на кнопку "Оплатить".
-![Payment for physical and self-employed(75%)](https://img.solarspace.pro/docs/payment-for-physical.jpg "Оплата для физического лица и самозанятого")  
+![Payment for physical and self-employed(95%)](https://img.solarspace.pro/docs/payment-for-physical.jpg "Оплата для физического лица и самозанятого")  
    > **INFO**
-   > **Обратите внимание**  
+   > #### Обратите внимание
    > Оплата по карте доступна для типов контрагента "Физическое лицо" и "Самозанятый"
 
 **Пользователям с типом контрагента "Индивидуальный предприниматель" или "Юридическое лицо" доступна оплата по коду выбранных услуг. Для этого скопируйте текст и свяжитесь с поддержкой Solar Space support@solarspace.pro и укажите в письме название компании, тип контрагента и скопированный код выбранных услуг. В ответ вам придет счет для оплаты на сумму, которая указана в личном кабинете.**
-![Code of selected services(75%)](https://img.solarspace.pro/docs/code-of-selected-services.jpg "Оплата по коду выбранных услуг")
+![Code of selected services(95%)](https://img.solarspace.pro/docs/code-of-selected-services.jpg "Оплата по коду выбранных услуг")
 8. Для типов контрагента "Физическое лицо" и "Самозанятый" в открывшейся форме оплаты введите данные своей карты. Поле email заполняется автоматически вашем адресом электронной почты, указанным при регистрации. После ввода карты нажмите на кнопку "Оплатить".
-![Payment Web-protection(75%)](https://img.solarspace.pro/docs/payment-web-protection.jpg "Оплата Веб-защиты")
+![Payment Web-protection(95%)](https://img.solarspace.pro/docs/payment-web-protection.jpg "Оплата Веб-защиты")
 9. После успешной оплаты вам необходимо выполнить несколько шагов для настройки защиты ресурса:
 
 ### [Если ресурс не был верифицирован](not-verificated-resource)
 
 1. Нажмите на кнопку "Верифицировать".
-![Verification after payment(35%)](https://img.solarspace.pro/docs/verification-after-payment.jpg "Верификация после оплаты")
+![Verification after payment(50%)](https://img.solarspace.pro/docs/verification-after-payment.jpg "Верификация после оплаты")
 2. В появившемся окне скопируйте DNS-TXT запись и добавьте ее в настройки своего хостинг-провайдера.
-   [Подробнее о верификации]([206]). </br>
+   [Подробнее о верификации]([206]).
 3. Нажмите на кнопку "Верифицировать".
-![Verification after payment in modal(35%)](https://img.solarspace.pro/docs/verification-after-payment-in-modal.jpg "Верификация после оплаты в модальном окне")
+![Verification after payment in modal(50%)](https://img.solarspace.pro/docs/verification-after-payment-in-modal.jpg "Верификация после оплаты в модальном окне")
  
 ### [Если вы верифицировали ресурс ранее, то переходите к следующему шагу](verification-resource) "[Постановка домена под защиту]([265])"
 
 1. Нажмите на кнопку "Настроить трафик" для того, чтобы перенаправить трафик через сервер защиты Solar Space.
-
-![Сonfigure traffic after payment(35%)](https://img.solarspace.pro/docs/configure-traffic-after-payment.jpg "Настройка трафика после оплаты")
+![Сonfigure traffic after payment(50%)](https://img.solarspace.pro/docs/configure-traffic-after-payment.jpg "Настройка трафика после оплаты")
 
 2. В появившемся окне скопируйте DNS-A запись и добавьте ее в настройки своего хостинг-провайдера.
-   [Подробнее о настройке защиты]([213]). </br>
+   [Подробнее о настройке защиты]([213]).
 3. Нажмите на кнопку "Подтвердить".
-![Configure traffic after payment in modal(35%)](https://img.solarspace.pro/docs/configure-traffic-after-payment-in-modal.jpg "Настройка трафика после оплаты в модальном окне")
+![Configure traffic after payment in modal(50%)](https://img.solarspace.pro/docs/configure-traffic-after-payment-in-modal.jpg "Настройка трафика после оплаты в модальном окне")
