@@ -25,11 +25,11 @@ categoryIcon: https://img.solarspace.pro/docs/icon_04.svg
    - При выборе продвинутого уровня защиты доступны сервисы **AntiDDoS + Antibot + WAF Lite**
 4. После выбора уровня защиты поля "Ширина канала" и "Количество запросов" станут активными для редактирования.
    - Для базового уровня защиты доступна возможность изменения параметра "Ширина канала"
-![Basic level of Web-protection(75%)](https://img.solarspace.pro/docs/basic-level-of-protection.jpg "Базовый уровень защиты")
+![Basic level of Web-protection(95%)](https://img.solarspace.pro/docs/basic-level-of-protection.jpg "Базовый уровень защиты")
    - Для оптимального уровня защиты доступна возможность изменения параметра "Ширина канала"
-![Optimal level of Web-protection(75%)](https://img.solarspace.pro/docs/optimal-level-of-protection.jpg "Оптимальный уровень защиты")
+![Optimal level of Web-protection(95%)](https://img.solarspace.pro/docs/optimal-level-of-protection.jpg "Оптимальный уровень защиты")
    - Для продвинутого уровня защиты доступна возможность изменения параметров "Ширина канала" и "Количество запросов"
-![Advanced level of Web-protection(75%)](https://img.solarspace.pro/docs/advanced-level-of-protection.jpg "Продвинутый уровень защиты")
+![Advanced level of Web-protection(95%)](https://img.solarspace.pro/docs/advanced-level-of-protection.jpg "Продвинутый уровень защиты")
 5. Убедитесь, что параметры тарифа настроены верно, и нажмите на кнопку "Применить".
 ![Submit Web-protection(95%)](https://img.solarspace.pro/docs/submit-web-protection.jpg "Сохранить параметры Веб-защиты")
 6. На форме "Настройки тарифа" выберите оплачиваемый период – количество оплачиваемых месяцев по подключенному тарифу (от 1 до 12 месяцев) и нажмите на кнопку "Оформить".
