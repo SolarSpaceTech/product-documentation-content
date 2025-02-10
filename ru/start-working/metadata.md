@@ -3,8 +3,8 @@ displayName: Начало работы
 id: 267
 order: 51
 published: true
-historyName: name
-historyDescription: name
+historyName: Начало работы
+historyDescription: Начало работы с платформой Solar Space. 
 ---
 
 ### [Начало работы с платформой](platform-launch)
@@ -17,3 +17,4 @@ historyDescription: name
 4. [Выбрать нужные сервисы и оплатить их]([208]) для активации защиты.
 
 **4 шага – и ваш ресурс под защитой.**
+
