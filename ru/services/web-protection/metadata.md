@@ -4,7 +4,6 @@ published: true
 id: 240
 title: Общее описание
 order: 1
-published: true
 historyName: Веб-защита
 historyDescription: Инструкция по подключению сервисов AntiDDoS, Antibot и WAF Lite
 category: Сервисы
