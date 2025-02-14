@@ -7,7 +7,7 @@ historyName: Начало работы
 historyDescription: Начало работы с платформой Solar Space. 
 ---
 
-### [Начало работы с платформой](platform-launch)
+# [Начало работы с платформой](platform-launch)
 
 Для начала работы нужно:
 
