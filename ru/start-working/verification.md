@@ -86,7 +86,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_16.svg
 ![Dns editor for domain(95%)](https://img.solarspace.pro/docs/dns-editor-for-domain.jpg "Редактор DNS в строке домена")
 3. Нажмите на кнопку "Добавить запись", откроется окно "Новая запись", в нем вы можете выбрать тип DNS-записи.
 
-![Add dns string for domain(95%)](https://img.solarspace.pro/docs/add-dns-string-for-domain.jpg "Добавить днс запись")
+![Add dns string for domain(95%)](https://img.solarspace.pro/docs/add-dns-string-for-domain.jpg "Добавить DNS запись")
 4. Выберите тип записи "TXT", в поле "Значение" введите TXT-запись, скопированную из личного кабинета Solar Space. Нажмите кнопку "Сохранить".
 
 ![Window for adding dns string and saving(50%)](https://img.solarspace.pro/docs/window-for-adding-dns-string-and-saving.jpg "Окно добавления днс записи")
