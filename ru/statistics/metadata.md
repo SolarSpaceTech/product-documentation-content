@@ -3,7 +3,7 @@ displayName: Статистика
 published: true
 id: 235
 title: Статистика
-order: 1
+order: 54
 historyName: Статистика
 historyDescription: Общая статистика всех ресурсов по запросам к сайту, движению и источникам трафика
 categoryDescription: Ширина канала, Запросы, Коды ответов, География запросов
