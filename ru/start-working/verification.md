@@ -78,20 +78,16 @@ categoryIcon: https://img.solarspace.pro/docs/icon_16.svg
 
 ![(Start page timeweb(95%)](https://img.solarspace.pro/docs/start-page-timeweb.jpg "Начальная страница timeweb")
 
-![My domains timeweb(95%)](https://img.solarspace.pro/docs/my-domains-timeweb.jpg "Мои домены")
-
+![My domains timeweb(50%)](https://img.solarspace.pro/docs/my-domains-timeweb.jpg "Мои домены")
 2. Выберите нужный домен и в правой части строки, нажав на три точки, выберите из выпадающего списка пункт "Редактор DNS". Откроется страница с записями.
 
 ![Three dots on domain name string(95%)](https://img.solarspace.pro/docs/three-dots-on-domain-name-string.jpg "Три точки в строке домена")
 
-3. Нажмите на кнопку "Добавить запись", откроется окно "Новая запись".
-
 ![Dns-editor-for-domain(95%)](https://img.solarspace.pro/docs/dns-editor-for-domain.jpg "Редактор днс в строке домена")
+3. Нажмите на кнопку "Добавить запись", откроется окно "Новая запись", в нем вы можете выбрать тип DNS-записи.
 
 ![Add dns string for domain(95%)](https://img.solarspace.pro/docs/add-dns-string-for-domain.jpg "Добавить днс запись")
-
 4. Выберите тип записи "TXT", в поле "Значение" введите TXT-запись, скопированную из личного кабинета Solar Space. Нажмите кнопку "Сохранить".
 
-![Window for adding dns string and saving(95%)](https://img.solarspace.pro/docs/window-for-adding-dns-string-and-saving.jpg "Окно добавления днс записи")
-
+![Window for adding dns string and saving(50%)](https://img.solarspace.pro/docs/window-for-adding-dns-string-and-saving.jpg "Окно добавления днс записи")
 5. Вернитесь в личный кабинет Solar Space и верифицируйте домен.
