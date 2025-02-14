@@ -84,10 +84,10 @@ categoryIcon: https://img.solarspace.pro/docs/icon_16.svg
 ![Three dots on domain name string(95%)](https://img.solarspace.pro/docs/three-dots-on-domain-name-string.jpg "Три точки в строке домена")
 
 ![Dns editor for domain(95%)](https://img.solarspace.pro/docs/dns-editor-for-domain.jpg "Редактор DNS в строке домена")
-3. Нажмите на кнопку "Добавить запись". В открывшемся окне "Новая запись", выберите тип DNS-записи.
+3. Нажмите на кнопку "Добавить запись".
 
 ![Add dns string for domain(95%)](https://img.solarspace.pro/docs/add-dns-string-for-domain.jpg "Добавить DNS запись")
-4. Выберите тип записи "TXT", в поле "Значение" введите TXT-запись, скопированную из личного кабинета Solar Space. Нажмите кнопку "Сохранить".
+4. В окне "Новая запись" выберите тип записи "TXT", в поле "Значение" введите TXT-запись, скопированную из личного кабинета Solar Space. Нажмите кнопку "Сохранить".
 
 ![Window for adding dns string and saving(50%)](https://img.solarspace.pro/docs/window-for-adding-dns-string-and-saving.jpg "Окно добавления днс записи")
-5. Вернитесь в личный кабинет Solar Space и верифицируйте домен.
+5. Вернитесь в личный кабинет Solar Space и нажмите на кнопку "Верифицировать".
