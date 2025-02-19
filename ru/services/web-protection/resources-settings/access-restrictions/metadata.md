@@ -3,7 +3,7 @@ displayName: Ограничения доступа
 published: true
 id: 209
 title: Общее описание ограничений доступа
-order: 8
+order: 4
 historyDescription: Список настроек, которые позволяют ограничивать или разрешать доступ к веб-ресурсу
 categoryName: Ограничения доступа
 categoryDescription: Геоблокировка, Black list, White list

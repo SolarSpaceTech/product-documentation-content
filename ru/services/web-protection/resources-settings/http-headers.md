@@ -2,7 +2,7 @@
 id: 214
 title: HTTP-заголовков
 displayName: HTTP-заголовки
-order: 7
+order: 3
 published: true
 historyName: HTTP-заголовки
 historyDescription: Что такое HTTP-заголовки, инструкция по добавлению HTTP-заголовков

@@ -2,7 +2,7 @@
 id: 213
 title: Домен и SSL
 displayName: Домен и SSL
-order: 5
+order: 1
 published: true
 historyName: Домен и SSL
 historyDescription: Инструкция по добавлению SSL-сертификатов и перенаправлению трафика
