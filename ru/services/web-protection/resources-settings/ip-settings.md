@@ -2,7 +2,7 @@
 id: 215
 title: Настройки IP
 displayName: Настройки IP
-order: 6
+order: 2
 published: true
 historyName: Настройки IP
 historyDescription: Инструкция по добавлению IP-адресов и настройка балансировки трафика с дополнительными функциями
