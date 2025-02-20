@@ -155,4 +155,4 @@ sudo systemctl reload httpd
 ```
 
 ### [Инструкция для IIS](instructions-for-iis)
-https://techcommunity.microsoft.com/blog/iis-support-blog/how-to-use-x-forwarded-for-header-to-log-actual-client-ip-address/873115
+Подробную инструкцию по настройке IIS вы можете прочитать [здесь](https://techcommunity.microsoft.com/blog/iis-support-blog/how-to-use-x-forwarded-for-header-to-log-actual-client-ip-address/873115).
