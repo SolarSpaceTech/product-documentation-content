@@ -5,7 +5,7 @@ displayName: Добавление SSL-сертификата
 order: 8
 published: true
 historyName: Добавление SSL-сертификата
-historyDescription: Добавьте SSL-сертификат для шифрования информации, передаваемой через ваш ресурс
+historyDescription: Инструкция по добавлению SSL-сертификата для шифрования пользовательких данных
 ---
 
 # [Добавление SSL-сертификата](adding-ssl-certificate)
