@@ -1,6 +1,7 @@
 ---
 id: 242
-title: Регистрация
+seoTitle: Регистрация на платформе Solar Space
+seoDescription: Как зарегистрироваться в Solar Space. Подробная инструкция по регистрации на платформе Solar Space
 displayName: Регистрация
 order: 1
 published: true

@@ -1,6 +1,7 @@
 ---
 id: 265
-title: Импорт из CloudFlare
+seoTitle: Импорт из Cloudflare — быстрый перенос ресурсов на платформу Solar Space
+seoDescription: Импорт из Cloudflare — быстрый перенос ресурсов на платформу Solar Space. Функция импорта из Cloudflare позволяет сэкономить время и автоматически перенести все ваши ресурсы в личный кабинет Solar Space
 displayName: Импорт из CloudFlare
 order: 9
 published: true

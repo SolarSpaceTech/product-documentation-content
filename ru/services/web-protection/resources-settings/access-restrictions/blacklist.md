@@ -1,6 +1,7 @@
 ---
 id: 211
-title: Black list
+seoTitle: Black list, Черный список — настройка доступа Solar Space
+seoDescription: Black list — функция добавления IP-адресов в черный список. Добавьте IP-адреса (IPv4) и подсети (группы IP-адресов), запрос от которых система будет сразу блокировать без дополнительных проверок
 displayName: Настройки Black list
 order: 10
 published: true

@@ -1,6 +1,7 @@
 ---
 id: 213
-title: Домен и SSL
+seoTitle: Домен и SSL — Solar Space
+seoDescription: Как настроить домен и добавить SSL-сертификат — Solar Space. Управление доменами и их SSL-сертификатами, подключение дополнительного функционала для своего домена
 displayName: Домен и SSL
 order: 1
 published: true

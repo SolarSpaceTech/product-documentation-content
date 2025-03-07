@@ -2,7 +2,8 @@
 displayName: Веб-защита
 published: true
 id: 240
-title: Общее описание
+seoTitle: Веб-защита для сайтов и веб-приложений
+seoDescription: Веб-защита для сайтов и веб-приложений — уровни и настройки. Подробная информация о статусах защиты и настройках сервисов WEB AntiDDoS, WEB Antibot и WAF Lite для эффективной защиты от DDoS-атак, ботов и веб-атак
 order: 1
 historyName: Веб-защита
 historyDescription: Инструкция по подключению сервисов AntiDDoS, Antibot и WAF Lite

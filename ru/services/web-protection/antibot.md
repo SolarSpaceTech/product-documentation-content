@@ -1,6 +1,7 @@
 ---
 id: 216
-title: Antibot
+seoTitle: WEB Antibot — эффективная защита от ботов
+seoDescription: WEB Antibot — эффективная защита от ботов. Защищает от ботов на уровне L7. Анализирует трафик с помощью машинного обучения и показывает капчу при подозрении на робота
 displayName: Antibot
 order: 3
 published: true

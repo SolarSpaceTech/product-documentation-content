@@ -1,6 +1,7 @@
 ---
 id: 264
-title: Описание платформы Solar Space
+seoTitle: Описание платформы Solar Space
+seoDescription: Описание платформы Solar Space. Solar Space — комплекс автоматизированных сервисов информационной безопасности. Только самый востребованный функционал «из коробки» без переплаты за ненужные опции
 displayName: Описание платформы Solar Space
 order: 50
 published: true

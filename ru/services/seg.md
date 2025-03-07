@@ -1,6 +1,7 @@
 ---
 id: 222
-title: SEG
+seoTitle: Security Email Gateway (SEG) — защита электронной почты
+seoDescription: Security Email Gateway (SEG) — защита электронной почты от вирусных вложений, фишинговых и спам-писем
 displayName: SEG
 order: 61
 published: true

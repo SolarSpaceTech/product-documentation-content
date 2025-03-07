@@ -1,6 +1,7 @@
 ---
 id: 249
-title: Настройки
+seoTitle: Настройки ресурса — Solar Space
+seoDescription: Настройки ресурса Solar Space. Как добавить новый домен или удалить ресурс. Подробная инструкция по настройке ресурсов
 displayName: Настройки
 order: 3
 published: true
