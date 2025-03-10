@@ -1,6 +1,7 @@
 ---
 id: 215
-title: Настройки IP
+seoTitle: Настройки IP-адреса — Solar Space
+seoDescription: Как настроить IP-адреса вашего ресурса. Как настроить несколько IP-адресов в личном кабинете. Как удалить IP-адреса вашего ресурса — пошаговая инструкция Solar Space
 displayName: Настройки IP
 order: 2
 published: true

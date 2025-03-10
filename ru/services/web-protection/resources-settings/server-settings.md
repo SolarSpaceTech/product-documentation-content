@@ -1,6 +1,7 @@
 ---
 id: 270
-title: Дополнительные настройки сервера
+seoTitle: Дополнительные настройки сервера — Solar Space
+seoDescription: Дополнительные настройки сервера — настройка веб-сервера Nginx, веб-сервера Apache, модуля mod_remoteip, настройка отображения реального IP-адреса в логах Apache, инструкция для BitrixVM 7 на CentOS, инструкция для IIS
 displayName: Дополнительные настройки сервера
 order: 6
 published: true

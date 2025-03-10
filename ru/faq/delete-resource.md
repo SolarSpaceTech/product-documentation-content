@@ -1,6 +1,7 @@
 ---
 id: 250
-title: Удаление ресурса
+seoTitle: Удаление ресурса — пошаговая инструкция Solar Space
+seoDescription: Удаление ресурса с платформы Solar Space. Пошаговая инструкция по удалению ресурса
 displayName: Удаление ресурса
 order: 2
 published: true

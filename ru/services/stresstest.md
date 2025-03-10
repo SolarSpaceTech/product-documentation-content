@@ -1,6 +1,7 @@
 ---
 id: 223
-title: StressTest
+seoTitle: StressTest — сервис для тестирования устойчивости системы к экстремальным нагрузкам
+seoDescription: StressTest — инструмент для тестирования устойчивости системы к экстремальным нагрузкам
 displayName: StressTest
 order: 60
 published: true

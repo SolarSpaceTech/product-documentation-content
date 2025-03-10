@@ -1,6 +1,7 @@
 ---
 id: 234
-title: WAF Lite
+seoTitle: WAF Lite — защита сайта от взлома и предотвращение утечек данных
+seoDescription: WAF Lite в комплексе с WEB Antibot и WEB AntiDDoS обеспечивает продвинутый уровень веб-защиты. Лёгкая версия стандартного WAF (Web Application Firewall) защищает от веб-атак на уровне L7, направленных на эксплуатацию уязвимостей
 displayName: WAF Lite
 order: 4
 published: true

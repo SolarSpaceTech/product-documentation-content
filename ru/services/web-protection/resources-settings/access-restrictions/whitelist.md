@@ -1,6 +1,7 @@
 ---
 id: 212
-title: White list
+seoTitle: White list, Белый список — настройка доступа Solar Space
+seoDescription: White list — функция добавления IP-адресов в белый список. Это список IP-адресов и подсетей в формате IPv4, которым нужен гарантированный доступ к ресурсу. White list – финальный этап проверки запросов к сайту перед фильтрацией
 displayName: Настройки White list
 order: 11
 published: true
