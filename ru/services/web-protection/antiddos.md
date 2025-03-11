@@ -2,9 +2,9 @@
 id: 217
 title: AntiDDoS
 displayName: AntiDDoS
+historyName: AntiDDoS
 order: 2
 published: true
-historyName: AntiDDoS
 historyDescription: Описание сервиса AntiDDoS, который защищает веб-ресурсы от атак, направленных на замедление работы сайта или его недоступность
 category: Сервисы
 categoryName: AntiDDoS
