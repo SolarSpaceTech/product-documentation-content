@@ -5,6 +5,7 @@ seoDescription: Защитите свой сайт от DDoS-атак с пом�
 order: 2
 published: true
 historyName: AntiDDoS
+displayName: AntiDDoS
 historyDescription: Описание сервиса AntiDDoS, который защищает веб-ресурсы от атак, направленных на замедление работы сайта или его недоступность
 category: Сервисы
 categoryName: AntiDDoS
