@@ -1,9 +1,10 @@
 ---
-displayName: Ограничения доступа
-published: true
 id: 209
-title: Общее описание ограничений доступа
+seoTitle: Общее описание ограничений доступа
+seoDescription: Общее описание ограничений доступа. Доступ к ресурсу из стран. Black list — запрет доступа для конкретных IP-адресов или подсетей. White list — разрешение доступа для конкретных IP-адресов или подсетей
+displayName: Ограничения доступа
 order: 4
+published: true
 historyDescription: Список настроек, которые позволяют ограничивать или разрешать доступ к веб-ресурсу
 categoryName: Ограничения доступа
 categoryDescription: Геоблокировка, Black list, White list

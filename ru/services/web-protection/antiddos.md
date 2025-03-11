@@ -1,10 +1,11 @@
 ---
 id: 217
-title: AntiDDoS
-displayName: AntiDDoS
-historyName: AntiDDoS
+seoTitle: AntiDDoS — базовая веб-защита для вашего сайта
+seoDescription: Защитите свой сайт от DDoS-атак с помощью AntiDDoS от Solar Space. Сервис обеспечивает базовый уровень веб-защиты. Узнайте больше о преимуществах и активируйте услугу прямо сейчас!
 order: 2
 published: true
+historyName: AntiDDoS
+displayName: AntiDDoS
 historyDescription: Описание сервиса AntiDDoS, который защищает веб-ресурсы от атак, направленных на замедление работы сайта или его недоступность
 category: Сервисы
 categoryName: AntiDDoS
@@ -17,7 +18,7 @@ categoryIcon: https://img.solarspace.pro/docs/anti-ddos.svg
 
 WEB AntiDDoS обеспечивает базовый уровень [веб-защиты]([240]) в рамках комплексного решения Solar Space.  
 
-Сервис защищает сайты и веб-приложения от DDoS-атак на уровнях L3-L4.  
+Сервис защищает сайты и веб-приложения от DDoS-атак.  
 
 **DDoS-атака** *(от англ. Distributed Denial of Service – распределенный отказ в обслуживании)* состоит в отправке множества запросов к веб-ресурсу. Этот "паразитный" трафик перегружает ресурсы сервера, и сайт начинает работать медленно или совсем перестает загружаться.  
 

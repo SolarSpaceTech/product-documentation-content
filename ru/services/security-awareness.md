@@ -1,6 +1,7 @@
 ---
 id: 221
-title: Security Awareness
+seoTitle: Security Awarness (SA) — повышение киберграмотности сотрудников
+seoDescription: Security Awarness (SA) — повышение киберграмотности сотрудников. Комплексный подход к формированию навыков противодействия фишингу, тестирование и обучение сотрудников кибербезопасности, проверка на антифишинг
 displayName: Security Awareness
 order: 58
 published: true

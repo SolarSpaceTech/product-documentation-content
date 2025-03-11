@@ -1,6 +1,7 @@
 ---
 id: 220
-title: Sec DNS
+seoTitle: Security DNS — сервис для защиты DNS-запросов
+seoDescription: Security DNS — защита внутренней границы компании. Сервис защищает ваши DNS-запросы, используя машинное обучение для категоризации веб-сайтов и ограничения доступа к нежелательному контенту
 displayName: Sec DNS
 order: 59
 published: true

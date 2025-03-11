@@ -1,6 +1,7 @@
 ---
 id: 248
-title: Сервисы
+seoTitle: Сервисы ресурса — Solar Space
+seoDescription: Сервисы Solar Space для базовой кибергигиены вашего бизнеса. Обеспечьте безопасность сайта и внешнего периметра, защитите от веб-атак и фишинга
 displayName: Сервисы
 order: 2
 published: true
