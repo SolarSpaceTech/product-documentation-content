@@ -1,6 +1,8 @@
 ---
 displayName: English
-published: true
+languageIcon: /assets/languages/en.png
+languageOrder: 20
+published: false
 categories:
   - Getting Started
   - Services

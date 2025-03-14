@@ -2,6 +2,10 @@
 id: 251
 seoTitle: Контакты — Solar Space
 seoDescription: Контакты Solar Space — техническая поддержка, заявка на консультацию менеджера, вопрос по документам, запрос на круглосуточную техподдержку или индивидуальные условия
+ignoreInterfaces:
+  - menu
+  - history
+  - category
 displayName: Контакты
 order: 5
 published: true
