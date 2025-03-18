@@ -1,20 +1,20 @@
 ---
 id: 215
-seoTitle: Настройки IP-адреса — Solar Space
+seoTitle: Целевой IP — Solar Space
 seoDescription: Как настроить IP-адреса вашего ресурса. Как настроить несколько IP-адресов в личном кабинете. Как удалить IP-адреса вашего ресурса — пошаговая инструкция Solar Space
-displayName: Настройки IP
+displayName: Целевой IP
 order: 2
 published: true
-historyName: Настройки IP
+historyName: Целевой IP
 historyDescription: Инструкция по добавлению IP-адресов и настройка балансировки трафика с дополнительными функциями
 category: Настройка ресурсов
-categoryName: Настройки IP-адреса
-categoryDescription: Настройка IP-адреса ресурса и балансировка трафика
+categoryName: Целевой IP
+categoryDescription: Настройка целевого IP-адреса ресурса и балансировка трафика
 categoryOrder: 2
 categoryIcon: https://img.solarspace.pro/docs/icon_06.svg
 ---
 
-# [Настройки IP](ip-settings)
+# [Целевой IP](ip-settings)
 
 ![ip settings (95%)](https://img.solarspace.pro/docs/field-ip-settings.jpg "Вкладка Настройки IP")
 

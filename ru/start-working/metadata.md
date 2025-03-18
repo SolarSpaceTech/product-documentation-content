@@ -6,7 +6,7 @@ seoDescription: Перейдите в личный кабинет Solar Space и
 order: 51
 published: true
 historyName: Начало работы
-historyDescription: Начало работы с платформой Solar Space. 
+historyDescription: Начало работы с платформой Solar Space 
 ---
 
 # [Начало работы с платформой](platform-launch)
