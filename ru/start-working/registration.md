@@ -35,4 +35,4 @@ headerOrder: 20
 ![Confirmation code for registration(50%)](https://img.solarspace.pro/docs/confirmation-code-for-registration.jpg "Код подтверждения для регистрации")
 6. После успешного подтверждения кода появится сообщение об успешной регистрации.
 ![Success registration form(50%)](https://img.solarspace.pro/docs/success-registration-form.jpg "Успешная форма регистрации")
-7. Нажав на кнопку "Войти" откроется страница с [авторизацией]([204]). Используйте свой email и пароль для входа в личный кабинет.
+7. При нажатии на кнопку "Войти" откроется страница с [авторизацией]([204]). Используйте свой email и пароль для входа в личный кабинет.
