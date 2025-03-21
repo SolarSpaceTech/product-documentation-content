@@ -23,9 +23,9 @@ historyDescription: Инструкция по импорту ресурсов и
    - Если у вас уже есть аккаунт с созданными ресурсами на странице "Мои ресурсы"
 ![Import on resources page(95%)](https://img.solarspace.pro/docs/import-on-resources-page.jpg "Импорт на странице всех ресурсов")
 2. Перейдите в личный кабинет CloudFlare и скопируйте значения из полей:
-   - **Email Address** – это поле находится на странице https://dash.cloudflare.com/profile в разделе "Preferences"
+   - **Email Address** – это поле находится на странице [https://dash.cloudflare.com/profile](https://dash.cloudflare.com/profile[nofollow]) в разделе "Preferences"
 ![Copy email on Cloudflare(95%)](https://img.solarspace.pro/docs/email-cf.jpg "Поле емайла в Cloudflare")
-   - **Global API Key** – это поле находится на странице https://dash.cloudflare.com/profile/api-tokens в разделе "API Keys". Нажмите на кнопку "View" для просмотра поля
+   - **Global API Key** – это поле находится на странице [https://dash.cloudflare.com/profile/api-tokens](https://dash.cloudflare.com/profile/api-tokens[nofollow]) в разделе "API Keys". Нажмите на кнопку "View" для просмотра поля
 ![View api-key on Cloudflare(95%)](https://img.solarspace.pro/docs/api-key-cf.jpg "Просмотр api-key в Cloudflare")
    Введите пароль от CloudFlare для подтверждения действия и скопируйте ключ, указанный в поле
 ![Copy api-key on Cloudlare(50%)](https://img.solarspace.pro/docs/copy-api-key-cf.jpg "Копирование api-key в Cloudflare")
