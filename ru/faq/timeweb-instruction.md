@@ -1,15 +1,15 @@
 ---
 id: 277
-seoTitle: Верификация ресурса для Timeweb — пошаговая инструкция Solar Space
-seoDescription: Как верифицировать ресурс на Timeweb — пошаговая инструкция.
-displayName: Инструкция для Timeweb
+seoTitle: Как добавить TXT-запись в настройках Timeweb?
+seoDescription: Пошаговая инструкция по добавлению TXT-записи в настройках Timeweb. Верификация веб-ресурса
+displayName: Добавление TXT-записи для Timeweb
 order: 4
 published: true
-historyName: Инструкция для Timeweb
+historyName: Добавление TXT-записи для Timeweb
 historyDescription: Инструкция по верификации ресурса для Timeweb
 ---
 
-# [Верификация ресурса для провайдера Timeweb](verification-on-timeweb)
+# [Добавление TXT-записи для Timeweb](verification-on-timeweb)
 
 По инструкции ниже вы можете верифицировать ваш домен на примере хостинг-провайдера Timeweb. Добавление TXT-записи у других регистраторов или хостинг-провайдеров аналогично.
 
