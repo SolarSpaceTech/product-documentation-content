@@ -1,17 +1,15 @@
 ---
 id: 278
-seoTitle: Подробнее о TTL на платформе Solar Space
-seoDescription: Подробная информация о параметре TTL на платформе Solar Space. Что это такое? Как изменить значение параметра TTL?
-displayName: Подробнее о TTL
+seoTitle: Что такое TTL?
+seoDescription: Подробная информация о параметре TTL. Что это такое и для чего нужен TTL? Как изменить значение TTL?
+displayName: Что такое TTL?
 order: 5
 published: true
-historyName: Подробнее о TTL
+historyName: Что такое TTL?
 historyDescription: Подробная информация о параметре TTL на платформе Solar Space
 ---
 
-# [Подробнее о TTL](info-about-ttl)
-
-## [Что такое TTL?](what-is-ttl)
+# [Что такое TTL?](info-about-ttl)
 
 TTL (Time To Live) в контексте DNS (Domain Name System) — это параметр, определяющий время, в течение которого DNS-записи хранятся в кэше на серверах и клиентских устройствах. Он измеряется в секундах и влияет на то, как часто обновляются данные о доменах.
 
