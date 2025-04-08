@@ -2,6 +2,10 @@
 id: 252
 seoTitle: Техническая поддержка — Solar Space
 seoDescription: Техническая поддержка Solar Space. Чтобы получить консультацию технических специалистов, напишите свой вопрос на почту support@solarspace.pro. Стандартный формат работы техподдержки 8/5 – 8 часов в день только по будням
+ignoreInterfaces:
+  - menu
+  - history
+  - category
 displayName: Поддержка
 order: 4
 published: true

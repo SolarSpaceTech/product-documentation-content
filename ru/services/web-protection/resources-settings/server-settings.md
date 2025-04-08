@@ -14,7 +14,7 @@ historyDescription: Информация по дополнительным на�
 ## [Настройка расшифровки реальных IP](setting-for-decryption-of-ip-addresses)
 
 При проксировании трафика все запросы на ваш сервер поступают с IP-адресов сети Solar Space, а не с адресов реальных пользователей. Поэтому вы можете увидеть в логах IP-адрес 127.0.0.1. Чтобы сервер отображал реальные IP-адреса посетителей, необходимо настроить обработку заголовка X-Forwarded-For для сетей Solar Space:
-- **195.18.27.129/24**
+- **195.18.27.0/24**
 - **93.185.164.0/24**
 
 ### [Веб-сервер Nginx](web-server-nginx)
@@ -23,7 +23,7 @@ historyDescription: Информация по дополнительным на�
 ```
 http {
     ...
-    set_real_ip_from 195.18.27.129/24;
+    set_real_ip_from 195.18.27.0/24;
     set_real_ip_from 93.185.164.0/24;
     real_ip_header X-Forwarded-For;
     ...
@@ -49,7 +49,7 @@ sudo systemctl reload nginx
 <IfModule mod_rpaf.c>
     RPAF_Enable On
     RPAF_SetHostName On
-    RPAF_ProxyIPs 127.0.0.1 195.18.27.129 93.185.164.0
+    RPAF_ProxyIPs 127.0.0.1 195.18.27.0 93.185.164.0
 </IfModule>
 ```
 
@@ -80,7 +80,7 @@ sudo a2dismod rpaf
 ```
 <IfModule remoteip_module>
 RemoteIPHeader X-Forwarded-For
-RemoteIPTrustedProxy 127.0.0.1 195.18.27.129/24 93.185.164.0/24
+RemoteIPTrustedProxy 127.0.0.1 195.18.27.0/24 93.185.164.0/24
 </IfModule>
 ```
 
@@ -156,4 +156,4 @@ sudo systemctl reload httpd
 ```
 
 ### [Инструкция для IIS](instructions-for-iis)
-Подробную инструкцию по настройке IIS вы можете прочитать [здесь](https://techcommunity.microsoft.com/blog/iis-support-blog/how-to-use-x-forwarded-for-header-to-log-actual-client-ip-address/873115).
+Подробную инструкцию по настройке IIS вы можете прочитать [здесь](https://techcommunity.microsoft.com/blog/iis-support-blog/how-to-use-x-forwarded-for-header-to-log-actual-client-ip-address/873115[nofollow]).
