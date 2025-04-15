@@ -23,15 +23,15 @@ historyDescription: Инструкция по импорту ресурсов и
    - Если у вас уже есть аккаунт с созданными ресурсами на странице "Мои ресурсы"
 ![Import on resources page(95%)](https://img.solarspace.pro/docs/import-on-resources-page.jpg "Импорт на странице всех ресурсов")
 2. Перейдите в личный кабинет CloudFlare и скопируйте значения из полей:
-   - **Email Address** – это поле находится [на этой странице](https://dash.cloudflare.com/profile[nofollow]) в разделе "Preferences" сервиса CloudFlare
+   - **Email Address** — это поле находится [на этой странице](https://dash.cloudflare.com/profile[nofollow]) в разделе "Preferences" сервиса CloudFlare
 ![Copy email on Cloudflare(95%)](https://img.solarspace.pro/docs/email-cf.jpg "Поле емайла в Cloudflare")
-   - **Global API Key** – это поле находится [на этой странице](https://dash.cloudflare.com/profile/api-tokens[nofollow]) в разделе "API Keys" сервиса CloudFlare. Нажмите на кнопку "View" для просмотра поля
+   - **Global API Key** — это поле находится [на этой странице](https://dash.cloudflare.com/profile/api-tokens[nofollow]) в разделе "API Keys" сервиса CloudFlare. Нажмите на кнопку "View" для просмотра поля
 ![View api-key on Cloudflare(95%)](https://img.solarspace.pro/docs/api-key-cf.jpg "Просмотр api-key в Cloudflare")
    Введите пароль от CloudFlare для подтверждения действия и скопируйте ключ, указанный в поле
 ![Copy api-key on Cloudlare(50%)](https://img.solarspace.pro/docs/copy-api-key-cf.jpg "Копирование api-key в Cloudflare")
 3. Вернитесь на платформу Solar Space и введите эти значения в соответствующие поля:
-   - **Email Address** – адрес электронной почты, на который зарегистрирован аккаунт в CloudFlare. Он может отличаться от email, указанного при регистрации в Solar Space
-   - **Global API key** – ключ, по которому осуществляется импорт
+   - **Email Address** — адрес электронной почты, на который зарегистрирован аккаунт в CloudFlare. Он может отличаться от email, указанного при регистрации в Solar Space
+   - **Global API key** — ключ, по которому осуществляется импорт
 4. Нажмите на кнопку "Импортировать".
 ![Import from Cloudflare(70%)](https://img.solarspace.pro/docs/import-from-cf.jpg "Импорт из Cloudflare")
 5. Импорт ресурсов займет не более 1 минуты. После этого появится список перенесенных ресурсов со всеми доменами.
