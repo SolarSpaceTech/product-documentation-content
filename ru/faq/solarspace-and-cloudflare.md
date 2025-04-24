@@ -7,6 +7,11 @@ order: 5
 published: true
 historyName: Solar Space — альтернатива Cloudflare?
 historyDescription: Статья о преимуществах Solar Space перед Cloudflare
+category: FAQ
+categoryName: Solar Space — альтернатива Cloudflare?
+categoryDescription: Почему стоит выбрать Solar Space
+categoryOrder: 1
+categoryIcon: https://img.solarspace.pro/docs/icon_07.svg
 ---
 
 # [Solar Space — альтернатива Cloudflare?](is-it-alternative)
