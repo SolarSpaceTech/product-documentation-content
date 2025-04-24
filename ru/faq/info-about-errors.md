@@ -7,6 +7,11 @@ order: 3
 published: true
 historyName: Возможные ошибки
 historyDescription: Список ошибок, которые могут возникнуть при верификации или перенаправлении трафика
+category: FAQ
+categoryName: Проблемы со сменой DNS-записей?
+categoryDescription: Ошибки при смене TXT- и A-записей
+categoryOrder: 3
+categoryIcon: https://img.solarspace.pro/docs/icon_14.svg
 ---
 
 # [Возможные ошибки при верификации и перенаправлении трафика](errors-during-settings)

@@ -10,7 +10,7 @@ historyDescription: Инструкция по восстановлению па�
 category: FAQ
 categoryName: Как восстановить пароль?
 categoryDescription: Инструкция по восстановлению пароля
-categoryOrder: 1
+categoryOrder: 2
 categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
 ---
 
