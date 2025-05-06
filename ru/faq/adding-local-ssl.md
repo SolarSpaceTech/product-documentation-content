@@ -7,6 +7,7 @@ order: 7
 published: true
 historyName: Добавление своего SSL-сертификата
 historyDescription: 
+category: FAQ
 ---
 
 # [Добавление своего SSL-сертификата](adding-personal-ssl-certificate)
