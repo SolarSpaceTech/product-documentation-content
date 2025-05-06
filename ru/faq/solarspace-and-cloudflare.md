@@ -3,7 +3,7 @@ id: 279
 seoTitle: Solar Space — альтернатива Cloudflare?
 seoDescription: Ищете альтернативу Cloudflare? Ознакомьтесь с возможностями Solar Space — эффективного российского решения для защиты ваших ресурсов
 displayName: Solar Space — альтернатива Cloudflare?
-order: 5
+order: 6
 published: true
 historyName: Solar Space — альтернатива Cloudflare?
 historyDescription: Статья о преимуществах Solar Space перед Cloudflare
