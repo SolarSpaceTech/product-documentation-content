@@ -52,13 +52,13 @@ SSL-сертификат состоит из публичного (открыт�
 7. Вы скачали все части SSL-сертификата. Файлы будут выглядеть следующим образом:
 
 - Файл сертификата с названием вашего домена (сохранен на ваше устройство):
-![Certificate(95%)](https://img.solarspace.pro/docs/certificate-file.jpg "Сертификат")
+![Certificate(50%)](https://img.solarspace.pro/docs/certificate-file.jpg "Сертификат")
 - Промежуточный сертификат (сохранен на ваше устройство):
-![Intermediate certificate(95%)](https://img.solarspace.pro/docs/intermediate-certificate-file.jpg "Промежуточный сертификат")
+![Intermediate certificate(50%)](https://img.solarspace.pro/docs/intermediate-certificate-file.jpg "Промежуточный сертификат")
 - Корневой сертификат (сохранен на ваше устройство)
-![Root certificate(95%)](https://img.solarspace.pro/docs/root-certificate-file.jpg "Корневой сертификат")
+![Root certificate(50%)](https://img.solarspace.pro/docs/root-certificate-file.jpg "Корневой сертификат")
 - Приватный ключ (сохранен на ваше устройство):
-![Private key(95%)](https://img.solarspace.pro/docs/private-key-file.jpg "Приватный ключ")
+![Private key(50%)](https://img.solarspace.pro/docs/private-key-file.jpg "Приватный ключ")
 
 SSL-сертификат будет состоять из:
 - приватного ключа — это файл key.txt
