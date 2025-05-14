@@ -8,6 +8,10 @@ published: true
 historyName: Добавление своего SSL-сертификата
 historyDescription: 
 category: FAQ
+categoryName: Как добавить SSL-сертификат?
+categoryDescription: Добавление своего SSL-сертификата
+categoryOrder: 2
+categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
 ---
 
 # [Добавление своего SSL-сертификата](adding-personal-ssl-certificate)
