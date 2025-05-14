@@ -1,12 +1,12 @@
 ---
 id: 280
-seoTitle: 
-seoDescription: 
+seoTitle: Как добавить свой SSL-сертификат в личном кабинете Solar Space
+seoDescription: Пошаговая инструкция по добавлению своего SSL-сертификата для работы сервисов защиты. Как составить цепочку сертификатов для публичного ключа, где скачать приватный ключСоставление цепочки из компонентов публичного ключа и получение приватного ключа
 displayName: Добавление своего SSL-сертификата
 order: 7
 published: true
 historyName: Добавление своего SSL-сертификата
-historyDescription: 
+historyDescription: Инструкция по добавлению своего SSL-сертификата в личный кабинет Solar Space на примере регистратора nic.ru
 category: FAQ
 categoryName: Как добавить SSL-сертификат?
 categoryDescription: Добавление своего SSL-сертификата
