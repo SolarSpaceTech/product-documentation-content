@@ -7,11 +7,6 @@ order: 2
 published: true
 historyName: Восстановление пароля
 historyDescription: Инструкция по восстановлению пароля
-category: FAQ
-categoryName: Как восстановить пароль?
-categoryDescription: Инструкция по восстановлению пароля
-categoryOrder: 2
-categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
 ---
 
 # [Восстановление пароля](password-reset)
