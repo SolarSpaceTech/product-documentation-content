@@ -16,6 +16,10 @@ categoryIcon: https://img.solarspace.pro/docs/icon_15.svg
 
 # [География запросов](geography-of-requests)
 
+Чтобы открыть ширину канала, перейдите [на страницу "Статистика"]([235]), нажав на иконку монитора в левом меню с любой страницы личного кабинета.
+
+![Tap to monitor for statistics (95%)](https://img.solarspace.pro/docs/tap-to-monitor-for-statistics.jpg "Переход на страницу Статистика")
+
 Здесь вы увидите, из каких стран приходят запросы к вашим ресурсам. В верхней части над графиком можно выбрать домены, установить период отображения отчета, часовой пояс и частоту обновления.
 ![Geography of requests(95%)](https://img.solarspace.pro/docs/statistics-geography.jpg "География запросов")
 
