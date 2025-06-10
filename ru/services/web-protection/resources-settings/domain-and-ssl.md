@@ -22,15 +22,15 @@ categoryIcon: https://img.solarspace.pro/docs/icon_05.svg
 
 Откроется страница со списком ваших ресурсов. Выберите нужный вам ресурс, кликнув по нему.
 
-![screen 95%](https://img.solarspace.pro/docs/tap-on-domain-for-domain-&-ssl.jpg "")
+![screen 55%](https://img.solarspace.pro/docs/tap-on-domain-for-domain-&-ssl.jpg "")
 
 Или нажмите на три точки в правой части строки ресурса.
 
-![screen 95%](https://img.solarspace.pro/docs/three-dots-by-resource-for-domain-&-ssl.jpg "")
+![screen 55%](https://img.solarspace.pro/docs/three-dots-by-resource-for-domain-&-ssl.jpg "")
 
 Выберите "Настройки".
 
-![screen 95%](https://img.solarspace.pro/docs/choose-settings-for-domain-&-ssl.jpg "")
+![screen 55%](https://img.solarspace.pro/docs/choose-settings-for-domain-&-ssl.jpg "")
 
 На этой вкладке вы можете:
 - [Добавить SSL-сертификат]([213#adding-ssl-certificate])
