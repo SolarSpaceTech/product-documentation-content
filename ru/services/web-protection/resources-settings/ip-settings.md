@@ -18,11 +18,23 @@ categoryIcon: https://img.solarspace.pro/docs/icon_06.svg
 
 Чтобы открыть целевой IP перейдите на страницу [Веб-защита]([https://my.solarspace.pro/web-protection]), нажав на иконку облака в левом меню с любой страницы личного кабинета.
 
-![]
+![Web protection for target IP (95%)](https://img.solarspace.pro/docs/web-protection-for-target-ip.jpg "Веб-защита для целевого IP")
 
-![ip settings (95%)](https://img.solarspace.pro/docs/field-ip-settings.jpg "Вкладка Настройки IP")
+Откроется страница со списком ваших ресурсов. Выберите нужный вам ресурс, кликнув по нему.
 
+![Tap on domain for target IP 55%](https://img.solarspace.pro/docs/tap-on-domain-for-target-ip.jpg "Нажмите на строку ресурса")
 
+Или нажмите на три точки в правой части строки ресурса.
+
+![Three dots by resource for target IP 55%](https://img.solarspace.pro/docs/three-dots-by-resource-for-target-ip.jpg "Три точки для перехода в настройки ресурса")
+
+Выберите "Настройки".
+
+![choose-settings-for-target-ip 55%](https://img.solarspace.pro/docs/choose-settings-for-target-ip.jpg "Настройки для перехода в настройки ресурса")
+
+Вы увидите страницу с открытой вкладкой "Домен и SSL". Нажмите на вкладку "Целевой IP".
+
+![Field target IP settings (95%)](https://img.solarspace.pro/docs/field-target-ip-settings.jpg "Главная страница целевого IP")
 
 Нажмите "Добавить IP" для добавления IP-адреса вашего ресурса.
 Если у вас несколько IP-адресов, вы увидите форму расширенных настроек с возможностью добавить новый IP и подключить расширенный функционал.
