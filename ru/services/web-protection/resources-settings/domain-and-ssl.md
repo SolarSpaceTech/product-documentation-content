@@ -16,12 +16,28 @@ categoryIcon: https://img.solarspace.pro/docs/icon_05.svg
 
 # [Домен и SSL](domain-&-ssl)
 
+Чтобы открыть домен и SSL, перейдите на страницу [Веб-защита]([https://my.solarspace.pro/web-protection]), нажав на иконку облака в левом меню с любой страницы личного кабинета.
+
+![screen 95%](https://img.solarspace.pro/docs/web-protection-for-domain-&-ssl.jpg "")
+
+Откроется страница со списком ваших ресурсов. Выберите нужный вам ресурс, кликнув по нему.
+
+![screen 95%](https://img.solarspace.pro/docs/tap-on-domain-for-domain-&-ssl.jpg "")
+
+Или нажмите на три точки в правой части строки ресурса.
+
+![screen 95%](https://img.solarspace.pro/docs/three-dots-by-resource-for-domain-&-ssl.jpg "")
+
+Выберите "Настройки".
+
+![screen 95%](https://img.solarspace.pro/docs/choose-settings-for-domain-&-ssl.jpg "")
+
 На этой вкладке вы можете:
 - [Добавить SSL-сертификат]([213#adding-ssl-certificate])
 - [Настроить перенаправление трафика]([213#redirecting-traffic])
 - [Включить дополнительные настройки]([213#additional-settings])
 
-![domain and ssl (95%)](https://img.solarspace.pro/docs/field-domain&ssl.jpg "Вкладка Домен и SSL")
+![domain and ssl (95%)](https://img.solarspace.pro/docs/domain-&-ssl.jpg "Вкладка Домен и SSL")
 
 ## [Добавление SSL-сертификата](adding-ssl-certificate)
 
