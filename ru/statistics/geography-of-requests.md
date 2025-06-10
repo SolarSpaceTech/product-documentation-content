@@ -14,9 +14,9 @@ categoryOrder: 5
 categoryIcon: https://img.solarspace.pro/docs/icon_15.svg
 ---
 
-# [География запросов](geography-of-requests)
+# [География](geography)
 
-Чтобы открыть ширину канала, перейдите [на страницу "Статистика"]([235]), нажав на иконку монитора в левом меню с любой страницы личного кабинета.
+Чтобы открыть географию, перейдите [на страницу "Статистика"]([235]), нажав на иконку монитора в левом меню с любой страницы личного кабинета.
 
 ![Tap to monitor for statistics (95%)](https://img.solarspace.pro/docs/tap-to-monitor-for-statistics.jpg "Переход на страницу Статистика")
 
