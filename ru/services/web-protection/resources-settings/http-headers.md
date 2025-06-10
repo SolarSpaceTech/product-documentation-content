@@ -83,6 +83,10 @@ HTTP-заголовки, добавленные в ответ сервера, п
 
 ### [Как работать с HTTP-заголовками в личном кабинете](how-to-work-with-http-headers-in-your-personal-account)
 
+Чтобы перейти на страницу "HTTP-заголовки" откройте страницу [Веб-защита]([https://my.solarspace.pro/web-protection]), нажав на иконку облака в левом меню с любой страницы личного кабинета.
+
+![ (95%)](https://img.solarspace.pro/docs/.jpg "Веб-защита для перехода в HTTP-заголовки")
+
 ![http-headers (95%)](https://img.solarspace.pro/docs/field-http-headers.jpg "Вкладка HTTP-заголовки")
 
 На этой вкладке вы можете управлять HTTP-заголовками. Они сообщают серверу, какое желаемое действие нужно выполнить для конкретного ресурса. Если у вас еще нет ни одного заголовка, отображается кнопка "Добавить".
@@ -92,8 +96,9 @@ HTTP-заголовки, добавленные в ответ сервера, п
 - **Value** — значение заголовка
 ![add key & value (95%)](https://img.solarspace.pro/docs/key-value-http-headers.jpg "Добавление параметров 'ключ значение'")
 
-После заполнения полей "Key" и "Value" кнопка "Сохранить" станет активной. Нажмите на нее, чтобы сохранить HTTP-заголовок. Вы увидите сообщение "HTTP-заголовок успешно добавлен".
-![http-header added (95%)](https://img.solarspace.pro/docs/save-key-value-http-headers.jpg "Успешное добавление HTTP-заголовка")
+После заполнения полей "Key" и "Value" кнопка "Сохранить" станет активной. Нажмите на нее, чтобы сохранить HTTP-заголовок.
+
+![http-header added (95%)](https://img.solarspace.pro/docs/save-key-value-http-headers.jpg "Сохранение HTTP-заголовка")
 
 На этой вкладке вы можете:
 - **Добавлять новые HTTP-заголовки**, нажав на кнопку "Добавить"
@@ -103,4 +108,5 @@ HTTP-заголовки, добавленные в ответ сервера, п
 ![edit http-header (95%)](https://img.solarspace.pro/docs/edit-key-value-http-headers.jpg "Редактирование HTTP-заголовка")
 
 При удалении заголовка нажмите "Сохранить" для подтверждения действия. Вы увидите сообщение "HTTP-заголовок успешно удален".
+
 ![delete http-header (95%)](https://img.solarspace.pro/docs/delete-key-value-http-headers.jpg "Удаление HTTP-заголовка")
