@@ -83,7 +83,7 @@ IP-hash — это метод распределения нагрузки меж
 ### [Удаление IP-адреса](deleting-ip-address)
 Для удаления IP нажмите на иконку корзины в строке с нужным адресом.
 
-![deleted ip address (95%)](https://img.solarspace.pro/docs/deleted-ip-address.jpg "Удаление IP-адреса")
+![deleted ip address (55%)](https://img.solarspace.pro/docs/deleted-ip-address.jpg "Удаление IP-адреса")
 
 В обновленной странице нажмите кнопку "Сохранить".
 
