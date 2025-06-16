@@ -2,10 +2,10 @@
 id: 204
 seoTitle: Авторизация на платформе Solar Space
 seoDescription: Подробная инструкция по авторизации на платформе Solar Space. Получите доступ к своим ресурсам и их настройкам
-displayName: Авторизация
+displayName: Как авторизоваться?
 order: 1
 published: true
-historyName: Авторизация
+historyName: Как авторизоваться?
 historyDescription: Авторизуйтесь для доступа к своему аккаунту и управления подключенными сервисами
 ---
 

@@ -2,10 +2,10 @@
 id: 277
 seoTitle: Как добавить TXT-запись в настройках Timeweb?
 seoDescription: Пошаговая инструкция по добавлению TXT-записи в настройках Timeweb. Верификация веб-ресурса
-displayName: Добавление TXT-записи для Timeweb
+displayName: Как добавить TXT-запись для Timeweb?
 order: 4
 published: true
-historyName: Добавление TXT-записи для Timeweb
+historyName: Как добавить TXT-запись для Timeweb?
 historyDescription: Инструкция по верификации ресурса для Timeweb
 ---
 

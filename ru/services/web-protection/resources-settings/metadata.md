@@ -5,6 +5,8 @@ order: 55
 published: true
 historyName: Настройки
 historyDescription: Общее описание настроек ресурса в рамках Веб-защиты
+seoTitle: Перечень настроек ресурса на платформе Solar Space
+seoDescription: Какие настройки доступны для защищаемого домена в личном кабинете Solar Space. Функционал и сервисы
 ---
 
 # [Настройки](settings)
