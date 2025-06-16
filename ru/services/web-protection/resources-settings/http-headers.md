@@ -83,9 +83,23 @@ HTTP-заголовки, добавленные в ответ сервера, п
 
 ### [Как работать с HTTP-заголовками в личном кабинете](how-to-work-with-http-headers-in-your-personal-account)
 
-Чтобы перейти на страницу "HTTP-заголовки" откройте страницу [Веб-защита]([https://my.solarspace.pro/web-protection]), нажав на иконку облака в левом меню с любой страницы личного кабинета.
+Чтобы открыть страницу "HTTP-заголовки" перейдите на страницу [Веб-защита]([https://my.solarspace.pro/web-protection]), нажав на иконку облака в левом меню с любой страницы личного кабинета.
 
-![ (95%)](https://img.solarspace.pro/docs/.jpg "Веб-защита для перехода в HTTP-заголовки")
+![Web protection for http headers (95%)](https://img.solarspace.pro/docs/web-protection-for-http-headers.jpg "Веб-защита для перехода в HTTP-заголовки")
+
+Откроется страница со списком ваших ресурсов. Выберите нужный вам ресурс, кликнув по нему.
+
+![tap-on-domain-for-http-headers 55%](https://img.solarspace.pro/docs/tap-on-domain-for-http-headers.jpg "Нажмите на строку ресурса")
+
+Или нажмите на три точки в правой части строки ресурса.
+
+![three-dots-by-resource-for-http-headers 55%](https://img.solarspace.pro/docs/three-dots-by-resource-for-http-headers.jpg "Три точки для перехода в настройки ресурса")
+
+Выберите "Настройки".
+
+![choose-settings-for-http-headers 55%](https://img.solarspace.pro/docs/choose-settings-for-http-headers.jpg "Настройки для перехода в HTTP-заголовки")
+
+Вы увидите страницу со стартовой вкладкой "Домен и SSL". Нажмите на вкладку "HTTP-заголовки"
 
 ![http-headers (95%)](https://img.solarspace.pro/docs/field-http-headers.jpg "Вкладка HTTP-заголовки")
 

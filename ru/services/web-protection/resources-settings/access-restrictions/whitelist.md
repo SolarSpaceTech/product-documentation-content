@@ -27,4 +27,24 @@ White list — функция добавления IP-адресов в белы
 > #### Обратите внимание
 > Настройки добавления и импортирования IP-адресов в White list идентичны настройкам Black list
 
+## [Whitelist в личном кабинете](whitelist-in-solar-space)
+
+Чтобы открыть страницу "доступ к ресурсу из стран" перейдите на страницу [Веб-защита]([https://my.solarspace.pro/web-protection]), нажав на иконку облака в левом меню с любой страницы личного кабинета.
+
+![web protection for white list (95%)](https://img.solarspace.pro/docs/web-protection-for-white-list.jpg "Веб-защита для перехода в Blacklist")
+
+Откроется страница со списком ваших ресурсов. Выберите нужный вам ресурс, кликнув по нему.
+
+![tap on domain for white list 55%](https://img.solarspace.pro/docs/tap-on-domain-for-white-list.jpg "Нажмите на строку ресурса")
+
+Или нажмите на три точки в правой части строки ресурса.
+
+![three dots by resource for white list 55%](https://img.solarspace.pro/docs/three-dots-by-resource-for-white-list.jpg "Нажмите на три точки")
+
+Выберите "Настройки".
+
+![choose settings for white list 55%](https://img.solarspace.pro/docs/choose-settings-for-white-list.jpg "Настройки для перехода в ограничения доступа")
+
+Вы увидите страницу со стартовой вкладкой "Домен и SSL". Нажмите на вкладку "Ограничения доступа".
+
 ![White list (95%)](https://img.solarspace.pro/docs/field-whitelist.jpg "Определение необходимости направлять IP-адрес на дополнительные проверки")
