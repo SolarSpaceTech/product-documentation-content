@@ -1,7 +1,7 @@
 ---
 id: 278
-seoTitle: Что такое TTL?
-seoDescription: Подробная информация о параметре TTL. Что это такое и для чего нужен TTL? Как изменить значение TTL?
+seoTitle: Что такое TTL и как его изменить?
+seoDescription: Описание TTL: что это, как работает, зачем нужно регулировать TTL. Как изменить TTL для быстрой постановки сайта под защиту на платформе Solar Space
 displayName: Что такое TTL?
 order: 5
 published: true

@@ -1,11 +1,11 @@
 ---
 id: 283
-seoTitle: Как добавить DNS-записи в регистраторе reg.ru?
+seoTitle: Добавление DNS-записей в регистраторе reg.ru
 seoDescription: Пошаговая инструкция по добавлению DNS-записей в регистраторе reg.ru для работы сервисов защиты
-displayName: Добавление DNS-записей в регистраторе reg.ru
+displayName: Как добавить DNS-записи в регистраторе reg.ru?
 order: 9
 published: true
-historyName: Добавление DNS-записей в reg.ru
+historyName: Как добавить DNS-записи в регистраторе reg.ru?
 historyDescription: Инструкция по добавлению DNS-записей в регистраторе reg.ru
 category: FAQ
 categoryName: Как добавить DNS-записи в регистраторе reg.ru?

@@ -1,15 +1,15 @@
 ---
 id: 282
-seoTitle: Как добавить DNS-записи в регистраторе nic.ru?
+seoTitle: Добавление DNS-записей в nic.ru
 seoDescription: Пошаговая инструкция по добавлению DNS-записей в регистраторе nic.ru для работы сервисов защиты
 title: Как добавить DNS-записи в регистраторе nic.ru?
-displayName: Добавление DNS-записей в nic.ru
+displayName: Как добавить DNS-записи в регистраторе nic.ru?
 order: 8
 published: true
-historyName: Добавление DNS-записей в nic.ru
+historyName: Добавление DNS-записей в nic.ru Как добавить DNS-записи в регистраторе nic.ru?
 historyDescription: Инструкция по добавлению DNS-записей в регистраторе nic.ru
 category: FAQ
-categoryName: Как добавить DNS-записи в nic.ru?
+categoryName: Как добавить DNS-записи в регистраторе nic.ru?
 categoryDescription: Добавление DNS-записей в регистраторе nic.ru
 categoryOrder: 2
 categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
