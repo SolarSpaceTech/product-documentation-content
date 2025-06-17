@@ -46,15 +46,15 @@ category: WAF Lite
 
 ![tap-to-add-allowed-paths (50%)](https://img.solarspace.pro/docs/tap-to-add-allowed-paths.jpg "выбор домена для разрешенных путей")
 
-Выберите домен, для которого добавляете разрешенные пути
+Выберите домен, для которого добавляете разрешенные пути.
 
 ![choose-domain-for-adding-allowed-paths (50%)](https://img.solarspace.pro/docs/choose-domain-for-adding-allowed-paths.jpg "выбор домена для разрешенных путей")
 
-Введите название пути в формате ```https://www.sitename.ru/folder/source/name```
+Введите название пути в формате ```https://www.sitename.ru/folder/source/name```.
 
 ![adding-allowed-paths (50%)](https://img.solarspace.pro/docs/adding-allowed-paths.jpg "введите разрешенный путь")
 
-Сохраните изменения
+Сохраните изменения.
 
 ![save-allowed-paths (50%)](https://img.solarspace.pro/docs/save-allowed-paths.jpg "сохранение разрешенных путей")
 
