@@ -32,15 +32,12 @@ category: WAF Lite
 Для добавления разрешенных путей выполните следующие действия:
 
 1. Перейдите на вкладку [Веб-защиты]([240]).
-
 ![wp-for-allowed-paths (95%)](https://img.solarspace.pro/docs/wp-for-allowed-paths.jpg "веб-защита для разрешенных путей")
 
 2. Откройте нужный ресурс, нажав на его имя
-
 ![choose-domain-for-allowed-paths (50%)](https://img.solarspace.pro/docs/choose-domain-for-allowed-paths.jpg "выберите домен для настройки разрешенных путей")
 
 3. Перейдите на вкладку "WAF Lite" и выберите раздел "Разрешенные пути".
-
 ![allowed-paths-full (50%)](https://img.solarspace.pro/docs/allowed-paths-full.jpg "главная страница разрешенных путей")
 
 4. Добавьте разрешенные пути вручную:
