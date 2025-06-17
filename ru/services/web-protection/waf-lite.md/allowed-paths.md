@@ -34,7 +34,7 @@ category: WAF Lite
 1. Перейдите на вкладку [Веб-защиты]([240]).
 ![wp-for-allowed-paths (95%)](https://img.solarspace.pro/docs/wp-for-allowed-paths.jpg "веб-защита для разрешенных путей")
 
-2. Откройте нужный ресурс, нажав на его имя
+2. Откройте нужный ресурс, нажав на его имя.
 ![choose-domain-for-allowed-paths (50%)](https://img.solarspace.pro/docs/choose-domain-for-allowed-paths.jpg "выберите домен для настройки разрешенных путей")
 
 3. Перейдите на вкладку "WAF Lite" и выберите раздел "Разрешенные пути".
