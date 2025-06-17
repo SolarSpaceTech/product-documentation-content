@@ -35,28 +35,28 @@ category: WAF Lite
 ![wp-for-allowed-paths (95%)](https://img.solarspace.pro/docs/wp-for-allowed-paths.jpg "веб-защита для разрешенных путей")
 
 2. Откройте нужный ресурс, нажав на его имя.
-![choose-domain-for-allowed-paths (50%)](https://img.solarspace.pro/docs/choose-domain-for-allowed-paths.jpg "выберите домен для настройки разрешенных путей")
+![choose-domain-for-allowed-paths (95%)](https://img.solarspace.pro/docs/choose-domain-for-allowed-paths.jpg "выберите домен для настройки разрешенных путей")
 
 3. Перейдите на вкладку "WAF Lite" и выберите раздел "Разрешенные пути".
-![allowed-paths-full (50%)](https://img.solarspace.pro/docs/allowed-paths-full.jpg "главная страница разрешенных путей")
+![allowed-paths-full (95%)](https://img.solarspace.pro/docs/allowed-paths-full.jpg "главная страница разрешенных путей")
 
 4. Добавьте разрешенные пути вручную:
 
 Нажмите на кнопку “Добавить”.
 
-![tap-to-add-allowed-paths (50%)](https://img.solarspace.pro/docs/tap-to-add-allowed-paths.jpg "выбор домена для разрешенных путей")
+![tap-to-add-allowed-paths (95%)](https://img.solarspace.pro/docs/tap-to-add-allowed-paths.jpg "выбор домена для разрешенных путей")
 
 Выберите домен, для которого добавляете разрешенные пути.
 
-![choose-domain-for-adding-allowed-paths (50%)](https://img.solarspace.pro/docs/choose-domain-for-adding-allowed-paths.jpg "выбор домена для разрешенных путей")
+![choose-domain-for-adding-allowed-paths (95%)](https://img.solarspace.pro/docs/choose-domain-for-adding-allowed-paths.jpg "выбор домена для разрешенных путей")
 
 Введите название пути в формате ```https://www.sitename.ru/folder/source/name```.
 
-![adding-allowed-paths (50%)](https://img.solarspace.pro/docs/adding-allowed-paths.jpg "введите разрешенный путь")
+![adding-allowed-paths (95%)](https://img.solarspace.pro/docs/adding-allowed-paths.jpg "введите разрешенный путь")
 
 Сохраните изменения.
 
-![save-allowed-paths (50%)](https://img.solarspace.pro/docs/save-allowed-paths.jpg "сохранение разрешенных путей")
+![save-allowed-paths (95%)](https://img.solarspace.pro/docs/save-allowed-paths.jpg "сохранение разрешенных путей")
 
 
 [//]: # (после выкатки на прод загрузки разрешенных путей файлом .csv, дополнить эту инструкцию с шагами)
