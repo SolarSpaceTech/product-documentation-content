@@ -29,7 +29,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_03.svg
     - [Самозанятый]([243#self-employed])
     - [Индивидуальный предприниматель]([243#individual-entrepreneur])
     - [Юридическое лицо]([243#legal-entity])
-![Choosing type of counterparty(55%)](https://img.solarspace.pro/docs/choosing-type-of-counterparty.jpg "Выбор типа контрагента")
+    ![Choosing type of counterparty(55%)](https://img.solarspace.pro/docs/choosing-type-of-counterparty.jpg "Выбор типа контрагента")
 3. Заполните обязательные поля в зависимости от выбранного типа контрагента.
 4. Проверьте данные и нажмите на кнопку "Подтвердить" для перехода к [подключению сервисов Веб-защиты]([208]).
 

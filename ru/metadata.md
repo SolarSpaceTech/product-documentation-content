@@ -5,7 +5,7 @@ languageIcon: /assets/languages/ru.png
 languageOrder: 10
 published: true
 categories:
-  - Начало работы
+  - Быстрый старт
   - Сервисы
   - Настройка ресурсов
   - Статистика
