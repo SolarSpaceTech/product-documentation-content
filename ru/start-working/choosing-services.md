@@ -26,15 +26,15 @@ categoryIcon: https://img.solarspace.pro/docs/icon_04.svg
 ![Enable web protection(95%)](https://img.solarspace.pro/docs/enable-web-protection.jpg "Подключение Веб-защиты")
 2. Укажите желаемый уровень защиты: 
    - При выборе базового уровня защиты доступен только сервис [AntiDDoS]([217])
-   - При выборе оптимального уровня защиты доступны сервисы [AntiDDoS]([217]) + [Antibot]([216])
+   - При выборе оптимального уровня защиты доступны сервисы [AntiDDoS]([217]) + [Antibot]([216]) ыыыыыы
    - При выборе продвинутого уровня защиты доступны сервисы [AntiDDoS]([217]) + [Antibot]([216]) + [WAF Lite]([234])
 3. После выбора уровня защиты поля "Ширина канала" и "Количество запросов" станут видимыми.
    - Для базового уровня защиты доступна возможность изменения параметра "Ширина канала"
-![Basic level of Web-protection(95%)](https://img.solarspace.pro/docs/basic-level-of-protection.jpg "Базовый уровень защиты")
+   ![Basic level of Web-protection(95%)](https://img.solarspace.pro/docs/basic-level-of-protection.jpg "Базовый уровень защиты")
    - Для оптимального уровня защиты доступна возможность изменения параметра "Ширина канала"
-![Optimal level of Web-protection(95%)](https://img.solarspace.pro/docs/optimal-level-of-protection.jpg "Оптимальный уровень защиты")
+   ![Optimal level of Web-protection(95%)](https://img.solarspace.pro/docs/optimal-level-of-protection.jpg "Оптимальный уровень защиты")
    - Для продвинутого уровня защиты доступна возможность изменения параметров "Ширина канала" и "Количество запросов"
-![Advanced level of Web-protection(95%)](https://img.solarspace.pro/docs/advanced-level-of-protection.jpg "Продвинутый уровень защиты")
+   ![Advanced level of Web-protection(95%)](https://img.solarspace.pro/docs/advanced-level-of-protection.jpg "Продвинутый уровень защиты")
 4. Убедитесь, что параметры тарифа настроены верно, и нажмите на кнопку "Применить".
 ![Submit Web-protection(95%)](https://img.solarspace.pro/docs/submit-web-protection.jpg "Сохранить параметры Веб-защиты")
 5. На форме "Настройки тарифа" выберите оплачиваемый период – количество оплачиваемых месяцев по подключенному тарифу (от 1 до 12 месяцев) и нажмите на кнопку "Оформить".
