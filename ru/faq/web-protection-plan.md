@@ -9,8 +9,6 @@ historyDescription: "Как выбрать уровень защиты, шири
 order: 11
 published: true
 category: FAQ
-categoryName: FAQ
-categoryDescription: "Часто задаваемые вопросы"
 categoryOrder: 1
 categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
 ---

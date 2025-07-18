@@ -8,8 +8,6 @@ historyDescription: "Причины ложного срабатывания ан
 order: 10
 published: true
 category: FAQ
-categoryName: FAQ
-categoryDescription: "Часто задаваемые вопросы"
 categoryOrder: 1
 categoryIcon: "https://img.solarspace.pro/docs/icon_09.svg"
 ---
