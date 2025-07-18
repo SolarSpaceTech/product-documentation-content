@@ -5,9 +5,8 @@ languageIcon: /assets/languages/ru.png
 languageOrder: 10
 published: true
 categories:
-  - Быстрый старт
-  - Сервисы
   - Настройка ресурсов
+  - Сервисы
   - Статистика
   - FAQ
 seoTitle: Документация — Solar Space
