@@ -11,7 +11,7 @@ category: Статистика
 categoryName: География запросов
 categoryDescription: Просмотр запросов из стран
 categoryOrder: 5
-categoryIcon: https://img.solarspace.pro/docs/icon_15.svg
+categoryIcon: https://img.solarspace.pro/docs/Geography-requests.svg
 ---
 
 # [География](geography)

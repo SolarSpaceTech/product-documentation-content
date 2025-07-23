@@ -11,7 +11,7 @@ category: FAQ
 categoryName: Проблемы со сменой DNS-записей?
 categoryDescription: Ошибки при смене TXT- и A-записей
 categoryOrder: 3
-categoryIcon: https://img.solarspace.pro/docs/icon_14.svg
+categoryIcon: https://img.solarspace.pro/docs/Response-codes.svg
 ---
 
 # [Возможные ошибки при верификации и перенаправлении трафика](errors-during-settings)

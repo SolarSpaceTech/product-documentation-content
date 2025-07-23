@@ -7,11 +7,11 @@ order: 3
 published: true
 historyName: Подключение сервисов
 historyDescription: Настройте и оплатите тариф, чтобы активировать выбранные сервисы
-category: Начало работы
+category: Аккаунт и профиль
 categoryName: Подключение сервисов
 categoryDescription: Выбор и активация пакета услуг
-categoryOrder: 5
-categoryIcon: https://img.solarspace.pro/docs/icon_04.svg
+categoryOrder: 20
+categoryIcon: https://img.solarspace.pro/docs/payment.svg
 ---
 
 # [Подключение сервисов](choosing-services)
@@ -26,7 +26,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_04.svg
 ![Enable web protection(95%)](https://img.solarspace.pro/docs/enable-web-protection.jpg "Подключение Веб-защиты")
 2. Укажите желаемый уровень защиты: 
    - При выборе базового уровня защиты доступен только сервис [AntiDDoS]([217])
-   - При выборе оптимального уровня защиты доступны сервисы [AntiDDoS]([217]) + [Antibot]([216]) ыыыыыы
+   - При выборе оптимального уровня защиты доступны сервисы [AntiDDoS]([217]) + [Antibot]([216]) 
    - При выборе продвинутого уровня защиты доступны сервисы [AntiDDoS]([217]) + [Antibot]([216]) + [WAF Lite]([234])
 3. После выбора уровня защиты поля "Ширина канала" и "Количество запросов" станут видимыми.
    - Для базового уровня защиты доступна возможность изменения параметра "Ширина канала"

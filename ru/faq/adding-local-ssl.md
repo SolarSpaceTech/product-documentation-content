@@ -8,10 +8,8 @@ published: true
 historyName: Как добавить свой SSL-сертификат?
 historyDescription: Инструкция по добавлению своего SSL-сертификата в личный кабинет Solar Space на примере регистратора nic.ru
 category: FAQ
-categoryName: Как добавить SSL-сертификат?
-categoryDescription: Добавление своего SSL-сертификата
 categoryOrder: 2
-categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
+categoryIcon: https://img.solarspace.pro/docs/eye.svg
 ---
 
 # [Добавление своего SSL-сертификата](adding-personal-ssl-certificate)
