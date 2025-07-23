@@ -11,7 +11,7 @@ category: FAQ
 categoryName: Как работает TTL?
 categoryDescription: Описание и изменение TTL
 categoryOrder: 4
-categoryIcon: https://img.solarspace.pro/docs/icon_13.svg
+categoryIcon: https://img.solarspace.pro/docs/Requests.svg
 ---
 
 # [Что такое TTL?](info-about-ttl)

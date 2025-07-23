@@ -11,7 +11,7 @@ category: Настройка ресурсов
 categoryName: HTTP-заголовки
 categoryDescription: Добавление HTTP-заголовков
 categoryOrder: 3
-categoryIcon: https://img.solarspace.pro/docs/icon_07.svg
+categoryIcon: https://img.solarspace.pro/docs/http-settings.svg
 ---
 
 # [HTTP-заголовки](http-headers)

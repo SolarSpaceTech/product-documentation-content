@@ -11,7 +11,7 @@ category: Статистика
 categoryName: Ширина канала
 categoryDescription: Просмотр графика пропускной способности
 categoryOrder: 2
-categoryIcon: https://img.solarspace.pro/docs/icon_12.svg
+categoryIcon: https://img.solarspace.pro/docs/Channel-width.svg
 ---
 
 # [Ширина канала](bandwidth)

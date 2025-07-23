@@ -7,11 +7,11 @@ order: 9
 published: true
 historyName: Как добавить DNS-записи в регистраторе reg.ru?
 historyDescription: Инструкция по добавлению DNS-записей в регистраторе reg.ru
-category: FAQ
-categoryName: Как добавить DNS-записи в регистраторе reg.ru?
+#category: FAQ
+#categoryName: Как добавить DNS-записи в регистраторе reg.ru?
 categoryDescription: Добавление DNS-записей в reg.ru
 categoryOrder: 2
-categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
+categoryIcon: https://img.solarspace.pro/docs/eye.svg
 ---
 
 # [Как добавить DNS-записи в регистраторе reg.ru](how-to-add-dns-record-regru)

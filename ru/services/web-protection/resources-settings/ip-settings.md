@@ -11,7 +11,7 @@ category: Настройка ресурсов
 categoryName: Целевой IP
 categoryDescription: Настройка целевого IP-адреса ресурса и балансировка трафика
 categoryOrder: 2
-categoryIcon: https://img.solarspace.pro/docs/icon_06.svg
+categoryIcon: https://img.solarspace.pro/docs/ip-settings.svg
 ---
 
 # [Целевой IP](ip-settings)

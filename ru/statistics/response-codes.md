@@ -11,7 +11,7 @@ category: Статистика
 categoryName: Коды
 categoryDescription: Просмотр графика по кодам
 categoryOrder: 4
-categoryIcon: https://img.solarspace.pro/docs/icon_14.svg
+categoryIcon: https://img.solarspace.pro/docs/Response-codes.svg
 ---
 
 # [Коды](response-codes)

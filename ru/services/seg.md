@@ -8,8 +8,6 @@ published: true
 historyName: SEG
 historyDescription: Описание сервиса для защиты электронной почты от вирусных вложений, фишинговых и спам-писем
 category: Сервисы
-categoryName: SEG
-categoryDescription: Email-защита от фишинга
 categoryOrder: 9
 categoryIcon: https://img.solarspace.pro/docs/main.svg
 ---

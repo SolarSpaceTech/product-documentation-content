@@ -11,7 +11,7 @@ category: FAQ
 categoryName: Solar Space — альтернатива Cloudflare?
 categoryDescription: Почему стоит выбрать Solar Space
 categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/icon_07.svg
+categoryIcon: https://img.solarspace.pro/docs/http-settings.svg
 ---
 
 # [Solar Space — альтернатива Cloudflare?](is-it-alternative)

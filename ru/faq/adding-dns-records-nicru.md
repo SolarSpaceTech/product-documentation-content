@@ -9,10 +9,8 @@ published: true
 historyName: Добавление DNS-записей в nic.ru Как добавить DNS-записи в регистраторе nic.ru?
 historyDescription: Инструкция по добавлению DNS-записей в регистраторе nic.ru
 category: FAQ
-categoryName: Как добавить DNS-записи в регистраторе nic.ru?
-categoryDescription: Добавление DNS-записей в регистраторе nic.ru
 categoryOrder: 2
-categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
+categoryIcon: https://img.solarspace.pro/docs/eye.svg
 ---
 
 # [Как добавить DNS-записи в регистраторе nic.ru](how-to-add-dns-record-by-nicru)
@@ -38,7 +36,7 @@ categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
 ![dns-zone-management-nicru (50%)](https://img.solarspace.pro/docs/dns-zone-management-nicru.jpg "управление dns-зонами")
 
 Чтобы убедиться, что вы переходите в управление нужного хостинга, проверьте название домена в столбце "Домены на услуге". Имя домена должно совпадать с DNS-хостингом, который вы собираетесь редактировать.
- 
+
 Вас перенаправит на страницу DNS-хостинга — RU-CENTER, где вы можете добавить DNS-записи.
 
 Нажмите на название домена.

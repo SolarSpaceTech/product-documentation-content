@@ -9,8 +9,10 @@ historyDescription: "Как выбрать уровень защиты, шири
 order: 11
 published: true
 category: FAQ
-categoryOrder: 1
-categoryIcon: https://img.solarspace.pro/docs/icon_09.svg
+categoryName: Как подобрать параметры тарифа веб-защиты?
+categoryDescription: Подбор тарифа веб-защиты на основе трафика
+categoryOrder: 4
+categoryIcon: https://img.solarspace.pro/docs/eye.svg
 ---
 
 # [Как подобрать параметры тарифа веб-защиты](how-to-choose-web-protection-plan)

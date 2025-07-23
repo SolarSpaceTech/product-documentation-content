@@ -11,7 +11,7 @@ category: Статистика
 categoryName: Запросы
 categoryDescription: Просмотр графика по запросам
 categoryOrder: 3
-categoryIcon: https://img.solarspace.pro/docs/icon_13.svg
+categoryIcon: https://img.solarspace.pro/docs/Requests.svg
 ---
 
 # [Запросы](requests)
