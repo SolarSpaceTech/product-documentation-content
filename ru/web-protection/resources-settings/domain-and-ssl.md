@@ -16,7 +16,7 @@ categoryIcon: https://img.solarspace.pro/docs/domain-and-ssl.svg
 
 # [Домен и SSL](domain-&-ssl)
 
-Чтобы открыть домен и SSL, перейдите на страницу [Веб-защита]([https://my.solarspace.pro/web-protection]), нажав на иконку облака в левом меню с любой страницы личного кабинета.
+Чтобы открыть домен и SSL, перейдите на страницу [Веб-защита](https://my.solarspace.pro/web-protection), нажав на иконку облака в левом меню с любой страницы личного кабинета.
 
 ![Web protection for domain & SSL 95%](https://img.solarspace.pro/docs/web-protection-for-domain-&-ssl.jpg "Веб-защита для перехода в домен и SSL")
 

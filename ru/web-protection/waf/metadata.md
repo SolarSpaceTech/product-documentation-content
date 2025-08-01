@@ -7,7 +7,7 @@ order: 4
 published: true
 historyName: WAF Lite
 historyDescription: Описание сервиса WAF Lite, который защищает веб-ресурсы от атак, направленных на эксплуатацию уязвимостей
-category: Сервисы
+category: Веб-защита
 categoryName: WAF Lite
 categoryDescription: Защита от взлома сайта
 categoryOrder: 7

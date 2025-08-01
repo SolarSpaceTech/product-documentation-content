@@ -7,7 +7,7 @@ order: 3
 published: true
 historyName: Antibot
 historyDescription: Описание работы сервиса Antibot, который защищает веб-ресурсы от ботов, спама и автоматизированных атак
-category: Сервисы
+category: Веб-защита
 categoryName: Antibot
 categoryDescription: Защита ресурса от ботнет атак
 categoryOrder: 4

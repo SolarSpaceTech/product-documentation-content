@@ -5,8 +5,8 @@ languageIcon: /assets/languages/ru.png
 languageOrder: 10
 published: true
 categories:
-  - Аккаунт и профиль
-  - Сервисы
+  - Лицензия и управление
+  - Веб-защита
   - Настройка ресурсов
   - Статистика
   - FAQ
