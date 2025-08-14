@@ -18,16 +18,16 @@ categoryIcon: https://img.solarspace.pro/docs/Response-codes.svg
 
 Чтобы открыть коды, перейдите [на страницу "Статистика"]([235]), нажав на иконку монитора в левом меню с любой страницы личного кабинета.
 
-![Tap to monitor for statistics (95%)](https://img.solarspace.pro/docs/tap-to-monitor-for-statistics.jpg "Переход на страницу Статистика")
+![Sidebar for Statistics(95%)](https://img.solarspace.pro/docs/on-prem/Resources/statistics-full.png "Боковое меню раздела 'Статистика'")
 
 Нажмите на раздел "Коды".
 
 Здесь обозначен результат взаимодействия пользователей с сервером. Параметры в верхней части можно изменять, аналогично вкладкам [Ширина канала]([236]), [Запросы]([237]) и [География запросов]([239]).
-![Filters for "Responses codes" tab(95%)](https://img.solarspace.pro/docs/statistics-codes-of-responces.jpg "Фильтры для вкладки 'Коды'")
+![Filters for "Responses codes" tab(95%)](https://img.solarspace.pro/docs/on-prem/Resources/statistics-codes-of-responces.png "Фильтры для вкладки 'Коды'")
 Под графиком обозначены 4 типа кодов:
 - **2хх/Успешные ответы** — этот код обозначает, что пользователь сразу перешел на ваш сайт
 - **3хх/Перенаправление** — этот код обозначает, что пользователь перешел на ваш сайт через настроенный вами редирект
 - **4хх/Ошибки клиента** — этот код обозначает, что у пользователя возникла проблема при взаимодействии с вашим сайтом (например, он перешел по сохраненной ссылке на страницу, которую вы удалили)
 - **5хх/Ошибки сервера** — этот код обозначает проблемы на стороне сервера, возможно, он перегружен или временно недоступен
-![Responses codes for "Responses codes" tab(95%)](https://img.solarspace.pro/docs/statistics-codes-of-responces-2.jpg "Коды для вкладки 'Коды'")
+![Responses codes for "Responses codes" tab(95%)](https://img.solarspace.pro/docs/on-prem/Resources/statistics-codes-of-responces-2.png "Коды для вкладки 'Коды'")
 Нажимая на название кода, вы можете исключить его из графика. В этом случае его название станет серым. Чтобы этот тип кода снова отображался в отчете, повторно нажмите на его название.

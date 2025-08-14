@@ -18,14 +18,14 @@ categoryIcon: https://img.solarspace.pro/docs/Requests.svg
 
 Чтобы открыть запросы, перейдите [на страницу "Статистика"]([235]), нажав на иконку монитора в левом меню с любой страницы личного кабинета.
 
-![Tap to monitor for statistics (95%)](https://img.solarspace.pro/docs/tap-to-monitor-for-statistics.jpg "Переход на страницу Статистика")
+![Sidebar for Statistics(95%)](https://img.solarspace.pro/docs/on-prem/Resources/statistics-full.png "Боковое меню раздела 'Статистика'")
 
 Нажмите на раздел "Запросы".
 
 Здесь отображается количество запросов ко всем вашим ресурсам. В верхней части над графиком можно выбрать домены, установить период отображения отчета, часовой пояс и частоту обновления.
-![Filters for "Requests" tab(95%)](https://img.solarspace.pro/docs/statistics-requests.jpg "Фильтры для вкладки 'Запросы'")
+![Filters for "Requests" tab(95%)](https://img.solarspace.pro/docs/on-prem/Resources/statistics-requests.png "Фильтры для вкладки 'Запросы'")
 Под графиком обозначено 2 типа запросов:
 - **Входящие** — все запросы до фильтрации
 - **Легитимные** — все запросы после фильтрации, соответствующие поведению реальных пользователей
-![Type of requests for "Requests" tab(95%)](https://img.solarspace.pro/docs/statistics-requests-2.jpg "Типы запросов для вкладки 'Запросы'")
+![Type of requests for "Requests" tab(95%)](https://img.solarspace.pro/docs/on-prem/Resources/statistics-requests-2.png "Типы запросов для вкладки 'Запросы'")
 Нажимая на название типа запроса, вы можете исключить его из графика. В этом случае его название станет серым. Чтобы этот тип запроса снова отображался в отчете, повторно нажмите на его название.

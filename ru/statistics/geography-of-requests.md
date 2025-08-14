@@ -18,9 +18,9 @@ categoryIcon: https://img.solarspace.pro/docs/Geography-requests.svg
 
 Чтобы открыть географию, перейдите [на страницу "Статистика"]([235]), нажав на иконку монитора в левом меню с любой страницы личного кабинета.
 
-![Tap to monitor for statistics (95%)](https://img.solarspace.pro/docs/tap-to-monitor-for-statistics.jpg "Переход на страницу Статистика")
+![Sidebar for Statistics(95%)](https://img.solarspace.pro/docs/on-prem/Resources/statistics-full.png "Боковое меню раздела 'Статистика'")
 
 Здесь вы увидите, из каких стран приходят запросы к вашим ресурсам. В верхней части над графиком можно выбрать домены, установить период отображения отчета, часовой пояс и частоту обновления.
-![Geography of requests(95%)](https://img.solarspace.pro/docs/statistics-geography.jpg "География запросов")
+![Geography of requests(95%)](https://img.solarspace.pro/docs/on-prem/Resources/statistics-geography.png "География запросов")
 
 На карте вы можете навести на страну и увидеть количество запросов оттуда. Чем насыщеннее оттенок оранжевого, тем больше запросов пришло из этой страны. Белым цветом на карте обозначены страны, из которых не было обращений к ресурсу.
