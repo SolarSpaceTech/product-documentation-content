@@ -36,13 +36,9 @@ WAF Lite — «облегченная» версия стандартного WA
 >
 > Подключение WAF Lite доступно только при условии активных сервисов WEB AntiDDoS и WEB Antibot.
 
-На странице сервиса WAF Lite доступно описание и переключатель для активации. Если выбран тариф, включающий WAF Lite, переключатель будет в положении «Подключено». Для ручного включения необходимо, чтобы были активны AntiDDoS и Antibot.
+На странице сервиса WAF Lite доступно описание и переключатель для активации. Если выбран тариф, включающий WAF Lite, переключатель будет в положении «Подключено». Для ручного включения необходимо, чтобы был активен AntiDDoS.
 
-Если сервис отключен, появится сообщение: «WAF Lite подключен, но не работает, потому что вы выключили Antibot».
-
-![WAF Lite (95%)](https://img.solarspace.pro/docs/field-waf.jpg "waf-lite")
-
-![protection-from-types-of-attacks (95%)](https://img.solarspace.pro/docs/protection-from-types-of-attacks-waf.jpg "Защита от типов атак")
+![WAF Lite (95%)](https://img.solarspace.pro/docs/on-prem/web-protection/waf-lite-1.png "waf-lite")
 
 
 ## [Разрешённые пути WAF Lite](allowed-paths-for-waf-lite)

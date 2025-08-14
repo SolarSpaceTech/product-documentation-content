@@ -58,7 +58,6 @@ if ($programname == 'waf-json') then {
 ```
 
 
-
 ## [Перезапуск и проверка rsyslog](restart-and-check-rsyslog)
 
 После внесения изменений перезапустите rsyslog и проверьте его статус:
