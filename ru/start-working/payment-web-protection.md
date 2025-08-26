@@ -7,6 +7,7 @@ order: 4
 published: true
 historyName: Оплата
 historyDescription: Инструкция по оплате для различных типов контрагента
+audienceScope: internal
 ---
 
 # [Оплата](payment-web-protection)

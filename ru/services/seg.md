@@ -10,6 +10,7 @@ historyDescription: Описание сервиса для защиты элек
 category: Сервисы
 categoryOrder: 9
 categoryIcon: https://img.solarspace.pro/docs/main.svg
+audienceScope: internal
 ---
 
 # [Security Email Gateway](security-email-gateway)

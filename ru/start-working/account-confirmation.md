@@ -12,6 +12,7 @@ categoryName: Подтверждение аккаунта
 categoryDescription: Заполнение данных пользователя
 categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/icon_03.svg
+audienceScope: internal
 ---
 
 # [Подтверждение аккаунта](account-confirmation)

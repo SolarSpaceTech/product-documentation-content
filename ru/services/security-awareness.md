@@ -12,6 +12,7 @@ categoryName: Security Awareness
 categoryDescription: Обучение персонала
 categoryOrder: 5
 categoryIcon: https://img.solarspace.pro/docs/users.svg
+audienceScope: internal
 ---
 
 
