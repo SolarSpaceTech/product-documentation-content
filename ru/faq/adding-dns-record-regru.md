@@ -14,6 +14,10 @@ categoryOrder: 2
 categoryIcon: https://img.solarspace.pro/docs/eye.svg
 ---
 
+
+
+{{if SCOPE='internal'}}
+
 # [Как добавить DNS-записи в регистраторе reg.ru](how-to-add-dns-record-regru)
 
 В этой статье описано, как добавить TXT-запись и А-запись в настройках домена, зарегистрированного в reg.ru. ТХТ-запись необходима для верификации домена в личном кабинете Solar Space, А-запись — для перенаправления трафика через сервер защиты.
@@ -86,3 +90,71 @@ categoryIcon: https://img.solarspace.pro/docs/eye.svg
 
 ![done-dns-records (95%)](https://img.solarspace.pro/docs/done-dns-records.jpg "подтверждение dns-записей")
 
+{{end-if}}
+
+{{if SCOPE='external'}}
+
+# [Как добавить DNS-записи в регистраторе reg.ru](how-to-add-dns-record-regru)
+
+
+В этой статье описано, как добавить **A-запись** в настройках домена, зарегистрированного в reg.ru. Эта запись используется для перенаправления трафика через сервер защиты.
+
+Если вы используете nic.ru, инструкция по добавлению DNS-записей [здесь]([282]).
+Если вы используете другого провайдера, действия будут аналогичны, но названия разделов могут отличаться.
+
+Войдите в личный кабинет reg.ru с вашим паролем и логином.
+
+![log-in-regru (50%)](https://img.solarspace.pro/docs/log-in-regru.jpg "Вход в reg.ru")
+
+Нажмите на **«Хостинг»** в левом меню или в разделе **«Мои услуги»** на главной странице.
+
+![choose-way-to-hosting (95%)](https://img.solarspace.pro/docs/choose-way-to-hosting.jpg "Путь к управлению хостингом")
+
+Оба пути переведут вас на страницу «Хостинги». Нажмите на три точки справа в строке вашего хостинга и выберите **«Панель управления»**.
+
+![hostings-&-control-panel-regru (95%)](https://img.solarspace.pro/docs/hostings-&-control-panel-regru.jpg "Панель управления хостингом")
+
+В открывшейся панели выберите **«Управление DNS»**. Откроется список доменов.
+
+![control-dns-records-create-record-regru (95%)](https://img.solarspace.pro/docs/control-dns-records-create-record-regru.jpg "Создать DNS-запись")
+
+Кликните на название нужного домена, чтобы открыть страницу с DNS-записями. Нажмите **«Создать запись»**.
+
+![control-dns-records-create-record-regru1 (95%)](https://img.solarspace.pro/docs/control-dns-records-create-record-regru1.jpg "Создать DNS-запись")
+
+Вы увидите форму создания новой записи.
+
+![new-dns-record-regru (95%)](https://img.solarspace.pro/docs/new-dns-record-regru.jpg "Добавление DNS-записей")
+
+### [Добавление TXT-записи](adding-txt-record)
+
+Введите следующие значения в поля:
+
+- В поле "Имя" введите название вашего домена
+- В поле "TTL" введите время в секундах. Это время, в течение которого DNS-записи хранятся в кэше на серверах и клиентских устройствах. Чтобы TXT-запись при настройке защиты Solar Space обновилась быстрее, рекомендуем установить в этом поле значение "300".  Подробнее про TTL и выбор его оптимального значения, читайте [здесь]([278]).
+- В поле "Тип" выберите тип DNS-TXT-записи "TXT (текстовая запись)"
+- В поле "Значение" вставьте скопированную DNS-TXT-запись из личного кабинета Solar Space
+
+Нажмите "Создать"
+
+![new-domain-record-dns-txt-regru (50%)](https://img.solarspace.pro/docs/new-domain-record-dns-txt-regru.jpg "создание dns-txt-записи")
+
+Если вы добавляете только TXT-запись, вернитесь в личный кабинет и нажмите "Верифицировать".
+
+
+### [Добавление A-записи](adding-a-record)
+
+* **Имя** — введите имя домена
+* **TTL** — введите время хранения записи в кэше (например, `300` секунд)
+* **Тип** — выберите **A (адрес Internet v4)**
+* **IP-адрес** — вставьте полученный IP-адрес
+
+Нажмите **«Создать»**.
+
+![new-domain-record-dns-a-regru (50%)](https://img.solarspace.pro/docs/new-domain-record-dns-a-regru.jpg "Добавление DNS-A-записи")
+
+Все остальные A-записи и AAAA-записи в таблице необходимо удалить, чтобы весь входящий трафик шёл через сервер защиты.
+
+![done-dns-records (95%)](https://img.solarspace.pro/docs/done-dns-records.jpg "Подтверждение DNS-записей")
+
+{{end-if}}

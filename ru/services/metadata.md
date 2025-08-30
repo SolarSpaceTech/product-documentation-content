@@ -1,4 +1,5 @@
 ---
+seoTitle: Сервисы Платформы
 displayName: Сервисы
 id: 272
 order: 52

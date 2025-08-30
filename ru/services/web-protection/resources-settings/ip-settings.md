@@ -1,6 +1,6 @@
 ---
 id: 215
-seoTitle: Целевой IP — Solar Space
+seoTitle: Целевой IP 
 seoDescription: Как настроить IP-адреса вашего ресурса. Как настроить несколько IP-адресов в личном кабинете. Как удалить IP-адреса вашего ресурса — пошаговая инструкция Solar Space
 displayName: Целевой IP
 order: 2
