@@ -9,6 +9,7 @@ historyName: Регистрация
 historyDescription: Создайте аккаунт в личном кабинете, чтобы подключить нужные сервисы
 headerName: Как начать
 headerOrder: 20
+audienceScope: internal
 ---
 
 # [Регистрация](registration)

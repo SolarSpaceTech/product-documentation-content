@@ -7,6 +7,7 @@ order: 2
 published: true
 historyName: Как восстановить пароль?
 historyDescription: Инструкция по восстановлению пароля
+audienceScope: internal
 ---
 
 # [Восстановление пароля](password-reset)

@@ -7,6 +7,7 @@ order: 56
 published: true
 historyName: Изменение тарифа
 historyDescription: Описание возможных вариантов изменения тарифа
+audienceScope: internal
 ---
 
 # [Изменение тарифа](changing-tariff)

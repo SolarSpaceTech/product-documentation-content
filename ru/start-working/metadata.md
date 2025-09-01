@@ -7,6 +7,7 @@ order: 50
 published: true
 historyName: Начало работы
 historyDescription: Начало работы с платформой Solar Space 
+audienceScope: internal
 ---
 
 # [Начало работы с платформой](platform-launch)

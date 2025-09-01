@@ -7,6 +7,7 @@ order: 3
 published: true
 historyName: Пополнение баланса
 historyDescription: Инструкция по внесению средств на баланс аккаунта для пользователей с активными сервисами
+audienceScope: internal
 ---
 
 # [Пополнение баланса](recharge-balance)

@@ -12,6 +12,7 @@ categoryOrder: 30
 historyName: Импорт из CloudFlare
 historyDescription: Инструкция по импорту ресурсов из CloudFlare
 categoryIcon: https://img.solarspace.pro/docs/http-settings.svg
+audienceScope: internal
 ---
 
 # [Импорт из CloudFlare](import-from-cf)

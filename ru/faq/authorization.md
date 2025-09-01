@@ -7,6 +7,7 @@ order: 1
 published: true
 historyName: Как авторизоваться?
 historyDescription: Авторизуйтесь для доступа к своему аккаунту и управления подключенными сервисами
+audienceScope: internal
 ---
 
 # [Авторизация](authorization)

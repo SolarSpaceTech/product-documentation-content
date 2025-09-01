@@ -7,6 +7,7 @@ order: 2
 published: true
 historyName: Тарифы на веб-защиту
 historyDescription: Информация о том, как рассчитывается тариф в зависимости от выбранного уровня веб-защиты
+audienceScope: internal
 ---
 
 # [Тарифы на веб-защиту](tariffs-on-web-protection)

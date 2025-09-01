@@ -12,6 +12,7 @@ categoryOrder: 10
 historyName: Профиль
 historyDescription: Описание страницы профиля пользователя с информацией об аккаунте
 categoryIcon: https://img.solarspace.pro/docs/account.svg
+audienceScope: internal
 ---
 
 # [Профиль](profile)

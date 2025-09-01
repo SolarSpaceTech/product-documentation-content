@@ -13,6 +13,7 @@ categoryName: Как подобрать параметры тарифа веб-�
 categoryDescription: Подбор тарифа веб-защиты на основе трафика
 categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/eye.svg
+audienceScope: internal
 ---
 
 # [Как подобрать параметры тарифа веб-защиты](how-to-choose-web-protection-plan)

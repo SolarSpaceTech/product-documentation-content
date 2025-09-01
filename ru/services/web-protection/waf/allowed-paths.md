@@ -8,6 +8,7 @@ published: true
 historyName: Разрешенные пути WAF Lite
 historyDescription: Описание функционала добавления разрешенных путей WAF Lite, который разрешает доступ для конкретных путей
 category: WAF Lite
+audienceScope: internal
 ---
 
 # [Разрешенные пути WAF Lite](allowed-paths-for-waf-lite)

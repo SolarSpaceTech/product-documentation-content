@@ -12,6 +12,7 @@ categoryName: Sec DNS
 categoryDescription: Защищенный DNS
 categoryOrder: 6
 categoryIcon: https://img.solarspace.pro/docs/internet.svg
+audienceScope: internal
 ---
 
 # [Security DNS](security-dns)

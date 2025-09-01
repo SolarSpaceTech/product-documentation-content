@@ -7,6 +7,7 @@ order: 2
 published: true
 historyName: Добавление нового сервиса
 historyDescription: Инструкция по добавлению нового сервиса для более надежной защиты ресурсов
+audienceScope: internal
 ---
 
 # [Добавление нового сервиса](adding-new-service)
@@ -19,9 +20,9 @@ historyDescription: Инструкция по добавлению нового 
 
 1. Измените уровень защиты.
    - Для добавления нового сервиса **Antibot** выберите из выпадающего списка уровней защиты **"Оптимальный"**
-![Change to optimal level(95%)](https://img.solarspace.pro/docs/change-to-optimal-level.jpg "Изменение на оптимальный уровень")
+   ![Change to optimal level(95%)](https://img.solarspace.pro/docs/change-to-optimal-level.jpg "Изменение на оптимальный уровень")
    - Для добавления нового сервиса **WAF Lite** выберите из выпадающего списка уровней защиты **"Продвинутый"**
-![Change to advanced level(95%)](https://img.solarspace.pro/docs/change-to-advanced-level.jpg "Изменение на продвинутый уровень")
+   ![Change to advanced level(95%)](https://img.solarspace.pro/docs/change-to-advanced-level.jpg "Изменение на продвинутый уровень")
 2. В поле "Ширина канала" выберите нужное значение из выпадающего списка. Для продвинутого уровня защиты в поле "Количество запросов" также выберите значение из списка. Далее нажмите кнопку "Применить".
 
 Добавление нового сервиса можно активировать:
@@ -39,15 +40,15 @@ historyDescription: Инструкция по добавлению нового 
 Для активации нового сервиса сразу выполните следующие действия:
 1. Добавьте новый сервис:
    - Если у вас подключен **базовый** уровень защиты, то вы можете выбрать **оптимальный**, добавив сервис **Antibot**
-![Change to optimal level(95%)](https://img.solarspace.pro/docs/change-to-optimal-level.jpg "Изменение на оптимальный уровень")
+   ![Change to optimal level(95%)](https://img.solarspace.pro/docs/change-to-optimal-level.jpg "Изменение на оптимальный уровень")
    - Если у вас подключен **базовый** уровень защиты, то вы также можете выбрать **продвинутый**, добавив сервисы **Antibot + WAF Lite**
-![Change to advanced level(95%)](https://img.solarspace.pro/docs/change-to-advanced-level.jpg "Изменение на продвинутый уровень")
+   ![Change to advanced level(95%)](https://img.solarspace.pro/docs/change-to-advanced-level.jpg "Изменение на продвинутый уровень")
    - Если у вас подключен **оптимальный** уровень защиты, то вы можете выбрать **продвинутый**, добавив сервис **WAF Lite**
-![Change to advanced level(95%)](https://img.solarspace.pro/docs/change-to-advanced-level.jpg "Изменение на продвинутый уровень")  
+   ![Change to advanced level(95%)](https://img.solarspace.pro/docs/change-to-advanced-level.jpg "Изменение на продвинутый уровень")  
 2. В поле "Ширина канала" установите значение, **которое было выбрано в текущем тарифе**, и нажмите на кнопку "Применить". Если вы повышаете уровень защиты до продвинутого, добавляя сервис WAF Lite, укажите значение для поля "Количество запросов".
 ![Fill for advanced level(95%)](https://img.solarspace.pro/docs/fill-for-advanced-level.jpg "Заполнение полей для продвинутого уровня") 
 3. Проверьте информацию в блоке "Изменения тарифа", поставьте галочку "Активировать добавленные сервисы сразу" и нажмите на кнопку "Сохранить".
-![Activate added services now(95%)](https://img.solarspace.pro/docs/activate-added-services-now.jpg "Активация добавленных сервисов сразу") 
+   ![Activate added services now(95%)](https://img.solarspace.pro/docs/activate-added-services-now.jpg "Активация добавленных сервисов сразу") 
    > **INFO**
    > #### Обратите внимание
    > Стоимость нового сервиса при активации сразу рассчитывается исходя из количества дней, оставшихся до следующего расчетного периода

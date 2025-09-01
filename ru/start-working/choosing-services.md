@@ -12,6 +12,7 @@ categoryName: Подключение сервисов
 categoryDescription: Выбор и активация пакета услуг
 categoryOrder: 20
 categoryIcon: https://img.solarspace.pro/docs/payment.svg
+audienceScope: internal
 ---
 
 # [Подключение сервисов](choosing-services)
