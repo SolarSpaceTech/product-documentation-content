@@ -5,10 +5,11 @@ languageIcon: /assets/languages/ru.png
 languageOrder: 10
 published: true
 categories:
-  - Настройка ресурсов
-  - Сервисы
-  - Статистика
   - FAQ
+  - Сервисы
+  - Настройка ресурсов
+  - Статистика
+  - Аккаунт и профиль
 seoTitle: Документация — Solar Space
 seoDescription: Документация Solar Space. Подробное руководство по работе с платформой Solar Space — добавление новых ресурсов, настройка сервисов, оплата тарифов и многое другое
 seoRobots: true
