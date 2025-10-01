@@ -7,6 +7,11 @@ order: 5
 published: true
 historyName: Дополнительные настройки безопасности
 historyDescription: Информация по дополнительным настройкам безопасности Solar Space
+category: Настройка ресурсов
+categoryName: Дополнительные настройки безопасности
+categoryDescription: Примеры настроек для популярных фаерволов
+categoryOrder: 4
+categoryIcon: https://img.solarspace.pro/docs/domain-and-ssl.svg
 ---
 
 # [Дополнительные настройки безопасности](additional-security-settings)
