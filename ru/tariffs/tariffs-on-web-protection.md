@@ -19,8 +19,6 @@ audienceScope: internal
 
 ### [Бесплатный тариф](tariffs-on-free-plan)
 
-**Подключение — 0 рублей.**
-
 Подходит для одного ресурса.  
 Ограничение по ширине канала — **1 Мбит/с**.  
 Включает только сервис [AntiDDoS]([217]).  
@@ -31,8 +29,6 @@ audienceScope: internal
 
 ### [Демо-тариф (14 дней)](tariffs-on-demo-plan)
 
-**Подключение — 0 рублей.**
-
 Доступен пользователям, у которых ранее не было активных тарифов с сервисами веб-защиты.  
 На 14 дней вы получаете полный доступ ко всем сервисам: [AntiDDoS]([217]), [Antibot]([216]) и [WAF Lite]([234]) — без ограничений по ширине канала и количеству запросов (RPS).  
 
@@ -40,9 +36,7 @@ audienceScope: internal
 
 ---
 
-### [Тарифы на базовый уровень веб-защиты — AntiDDoS](tariffs-on-basic-level-of-web-protection)
-
-**Подключение — 0 рублей.**
+### [Базовый уровень веб-защиты — AntiDDoS](tariffs-on-basic-level-of-web-protection)
 
 Ежемесячный платеж за **базовую защиту** складывается из:
 - фиксированной абонентской платы за выбранную ширину канала (Мбит/с);
@@ -52,9 +46,7 @@ audienceScope: internal
 
 ---
 
-### [Тарифы на оптимальный уровень веб-защиты — AntiDDoS + Antibot](tariffs-on-optimal-level-of-web-protection-antiddos-antibot)
-
-**Подключение — 0 рублей.**
+### [Оптимальный уровень веб-защиты — AntiDDoS + Antibot](tariffs-on-optimal-level-of-web-protection-antiddos-antibot)
 
 Ежемесячный платеж за **оптимальную защиту** складывается из:
 - фиксированной абонентской платы за выбранную ширину канала (Мбит/с);
@@ -64,9 +56,7 @@ audienceScope: internal
 
 ---
 
-### [Тарифы на продвинутый уровень веб-защиты — AntiDDoS + Antibot + WAF Lite](tariffs-on-advanced-level-of-web-protection-antiddos-antibot-waf)
-
-**Подключение — 0 рублей.**
+### [Продвинутый уровень веб-защиты — AntiDDoS + Antibot + WAF Lite](tariffs-on-advanced-level-of-web-protection-antiddos-antibot-waf)
 
 Ежемесячный платеж за **продвинутую защиту** складывается из:
 - фиксированной абонентской платы за выбранную ширину канала (Мбит/с);
@@ -84,7 +74,7 @@ audienceScope: internal
 
 ---
 
-### [Как подобрать тариф](how-to-coose-a-tariff)
+### [Как подобрать тариф](how-to-choose-a-tariff)
 
 На что ориентироваться при выборе тарифа в личном кабинете:
 - **Бесплатный тариф** — если нужен минимальный старт и защита одного ресурса.  
