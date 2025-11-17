@@ -10,7 +10,7 @@ historyDescription: Описание сервиса WAF Lite, который з�
 category: Сервисы
 categoryName: WAF Lite
 categoryDescription: Защита от взлома сайта
-categoryOrder: 7
+categoryOrder: 3
 categoryIcon: https://img.solarspace.pro/docs/waf.svg
 ---
 
