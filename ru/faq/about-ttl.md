@@ -1,12 +1,12 @@
 ---
 id: 278
 seoTitle: Что такое TTL и как его изменить?
-seoDescription: "Описание TTL: что это, как работает, зачем нужно регулировать TTL. Как изменить TTL для быстрой постановки сайта под защиту на платформе Solar Space"
+seoDescription: "Описание TTL: что это, как работает, зачем нужно регулировать TTL. Как изменить TTL для быстрой постановки сайта под защиту на платформе"
 displayName: Что такое TTL?
 order: 5
 published: true
 historyName: Что такое TTL?
-historyDescription: Подробная информация о параметре TTL на платформе Solar Space
+historyDescription: Подробная информация о параметре TTL на платформе
 category: FAQ
 categoryName: Как работает TTL?
 categoryDescription: Описание и изменение TTL

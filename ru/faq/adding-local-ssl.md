@@ -6,7 +6,7 @@ displayName: Как добавить свой SSL-сертификат?
 order: 7
 published: true
 historyName: Как добавить свой SSL-сертификат?
-historyDescription: Инструкция по добавлению своего SSL-сертификата в личный кабинет Solar Space на примере регистратора nic.ru
+historyDescription: Инструкция по добавлению своего SSL-сертификата в личный кабинет на примере регистратора nic.ru
 category: FAQ
 categoryOrder: 2
 categoryIcon: https://img.solarspace.pro/docs/eye.svg
@@ -73,7 +73,7 @@ SSL-сертификат будет состоять из:
 Ниже расскажем, как это сделать.
 
 ## [Загрузка своего SSL-сертификата в личный кабинет Solar Space](uploading-your-ssl-certificate-to-solar-space-private-cabinet)
-Перейдите в [личный кабинет](https://my.solarspace.pro) Solar Space в раздел [Веб-защита](https://my.solarspace.pro/web-protection).
+Перейдите в раздел [Веб-защита](https://my.rt-solar.ru/web-protection).
 Нажмите на строку нужного ресурса, откроется вкладка "Домен и SSL".
 В столбце "SSL" нажмите на поле  "Добавить сертификат", откроется выпадающий список.
 

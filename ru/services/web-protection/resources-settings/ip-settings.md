@@ -1,7 +1,7 @@
 ---
 id: 215
 seoTitle: Целевой IP 
-seoDescription: Как настроить IP-адреса вашего ресурса. Как настроить несколько IP-адресов в личном кабинете. Как удалить IP-адреса вашего ресурса — пошаговая инструкция Solar Space
+seoDescription: Как настроить IP-адреса вашего ресурса. Как настроить несколько IP-адресов в личном кабинете. Как удалить IP-адреса вашего ресурса — пошаговая инструкция
 displayName: Целевой IP
 order: 2
 published: true
@@ -18,7 +18,7 @@ categoryIcon: https://img.solarspace.pro/docs/ip-settings.svg
 
 # [Целевой IP](ip-settings)
 
-Чтобы открыть целевой IP перейдите на страницу [Веб-защита]([https://my.solarspace.pro/web-protection]), нажав на иконку облака в левом меню с любой страницы личного кабинета.
+Чтобы открыть целевой IP перейдите на страницу [Веб-защита](https://my.rt-solar.ru/web-protection), нажав на иконку облака в левом меню с любой страницы личного кабинета.
 
 ![Web protection for target IP (95%)](https://img.solarspace.pro/docs/web-protection-for-target-ip.jpg "Веб-защита для целевого IP")
 
