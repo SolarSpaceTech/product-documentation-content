@@ -6,7 +6,7 @@ displayName: Дополнительные настройки сервера
 order: 6
 published: true
 historyName: Дополнительные настройки сервера
-historyDescription: Информация по дополнительным настройкам сервера Solar Space
+historyDescription: Информация по дополнительным настройкам сервера
 ---
 
 # [Дополнительные настройки сервера](additional-server-settings)

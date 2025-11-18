@@ -54,5 +54,5 @@ audienceScope: internal
 
 ![Change tariff and recharge balance(95%)](https://img.solarspace.pro/docs/change-tariff-and-recharge-balance.jpg "Изменение тарифа и пополнение баланса")
 
-В случае, если у вас еще нет ресурса, то вы можете его [создать]([205]), нажав на кнопку "Создать ресурс". Далее следуйте инструкциям. 
+В случае, если у вас еще нет ресурса, то вы можете его [создать]([300]), нажав на кнопку "Создать ресурс". Далее следуйте инструкциям. 
 ![Create resource of profile(95%)](https://img.solarspace.pro/docs/create-resource-of-profile.jpg "Создание ресурса на странице профиля")

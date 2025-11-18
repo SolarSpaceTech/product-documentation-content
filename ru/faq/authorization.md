@@ -1,7 +1,7 @@
 ---
 id: 204
 seoTitle: Авторизация на платформе Solar Space
-seoDescription: Подробная инструкция по авторизации на платформе Solar Space. Получите доступ к своим ресурсам и их настройкам
+seoDescription: Подробная инструкция по авторизации на платформе. Получите доступ к своим ресурсам и их настройкам
 displayName: Как авторизоваться?
 order: 1
 published: true
@@ -18,7 +18,7 @@ audienceScope: internal
 
 Для авторизации в личном кабинете выполните следующие действия:
 
-1.  Введите в адресной строке браузера адрес – https://my.solarspace.pro. Откроется страница авторизации.
+1.  Введите в адресной строке браузера адрес – https://my.rt-solar.ru. Откроется страница авторизации.
 ![Start authorization page(95%)](https://img.solarspace.pro/docs/start-authorization-page.jpg "Стартовая форма авторизации")
 2. Введите email и пароль, которые вы указывали при регистрации и нажмите на кнопку "Войти" для входа в личный кабинет.
 ![Active authorization form(50%)](https://img.solarspace.pro/docs/auth-active-form.jpg "Активная форма авторизации")

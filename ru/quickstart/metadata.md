@@ -35,7 +35,7 @@ tags:
 
 * Зарегистрированный домен, который нужно защитить
 * Хостинг или панель управления с доступом к DNS-записям
-* [Аккаунт в Solar Space](https://my.solarspace.pro/auth/sign-in)
+* [Аккаунт в Solar Space](https://my.rt-solar.ru/auth/sign-in)
 
 ---
 
@@ -51,7 +51,7 @@ tags:
 
 ![Создание ресурса (70%)](https://img.solarspace.pro/docs/saas/quick-start/creating-a-new-resource.png "Создание нового ресурса")
 
-1. Перейдите в [личный кабинет Solar Space](https://my.solarspace.pro/auth/sign-in)  
+1. Перейдите в [личный кабинет Solar Space](https:///my.rt-solar.ru/auth/sign-in)  
 2. Нажмите кнопку **«Создать ресурс»**
 3. Укажите **название ресурса** — для вашего удобства. Например: «Основной сайт» или «Интернет-магазин»
 4. Укажите **домен**, который хотите защитить (например: `example.ru`)  
@@ -144,8 +144,8 @@ tags:
 
 Если не уверены, как именно внести изменения — воспользуйтесь инструкцией по работе с DNS у популярных регистраторов:
 
-- [Как добавить DNS-записи в NIC.RU](https://docs.solarspace.pro/start-working/dns-settings/nicru#nicru)
-- [Как добавить DNS-записи в REG.RU](https://docs.solarspace.pro/start-working/dns-settings/regru#regru)
+- [Как добавить DNS-записи в NIC.RU]([282])
+- [Как добавить DNS-записи в REG.RU]([283])
 
 ---
 
@@ -375,9 +375,8 @@ tags:
 
 Если не уверены, как именно внести изменения — воспользуйтесь готовыми гайдами по работе с DNS у популярных регистраторов:
 
-- [Как добавить DNS-записи в NIC.RU](https://docs.solarspace.pro/start-working/dns-settings/nicru#nicru)
-- [Как добавить DNS-записи в REG.RU](https://docs.solarspace.pro/start-working/dns-settings/regru#regru)
-
+- [Как добавить DNS-записи в NIC.RU]([282])
+- [Как добавить DNS-записи в REG.RU]([283])
 
 
 ## [Итог настроек DNS](verification-summary)
