@@ -17,6 +17,8 @@ footerName: Контакты
 footerOrder: 5
 ---
 
+{{if SCOPE='internal'}}
+
 # Контакты
 
 Регистрация/доступ в Личный кабинет — https://my.rt-solar.ru 
@@ -26,3 +28,13 @@ footerOrder: 5
 Заявка на консультацию менеджера, вопрос по документам  — solar@rt-solar.ru
 
 Сайт — https://rt-solar.ru/space
+
+{{end-if}}
+
+{{if SCOPE='external'}}
+
+# Контакты
+
+Техническая поддержка — support@solarspace.pro  
+
+{{end-if}}
