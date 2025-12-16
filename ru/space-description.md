@@ -5,7 +5,7 @@ seoDescription: Описание платформы. Комплекс автом
 displayName: Описание платформы
 order: 50
 published: true
-historyName: Описание платформы Solar Space
+historyName: Описание платформы 
 historyDescription: "Описание и преимущества решения для комплексной защиты сайтов. Модели предоставления услуги: SaaS, PaaS, on-premise"
 category: Начало работы
 ---
