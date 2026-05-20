@@ -35,6 +35,6 @@ footerOrder: 5
 
 # Контакты
 
-Техническая поддержка — support@solarspace.pro  
+Техническая поддержка — {{#technicalSupport}} 
 
 {{end-if}}
