@@ -35,6 +35,6 @@ footerOrder: 5
 
 # Контакты
 
-Техническая поддержка — {{#technicalSupport}} 
+Техническая поддержка — [{{#technicalSupport}}](mailto:{{#technicalSupport}})
 
 {{end-if}}
