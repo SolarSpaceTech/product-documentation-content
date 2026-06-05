@@ -70,8 +70,6 @@ categoryIcon: https://img.solarspace.pro/docs/eye.svg
 
 Нажмите "Добавить"
 
-![done-dns-txt (50%)](https://img.solarspace.pro/docs/done-dns-txt.jpg "заполненная txt-запись")
-
 Нажмите "Выгрузить зону" в верхней части страницы.
 
 ![aproove-dns-zone-nicru1 (50%)](https://img.solarspace.pro/docs/aproove-dns-zone-nicru1.jpg "выгрузка dns-зоны")
@@ -90,11 +88,7 @@ categoryIcon: https://img.solarspace.pro/docs/eye.svg
 - В поле "IP address" введите скопированную DNS-A-запись из личного кабинета Solar Space.
 - В поле "TTL" введите время в секундах. Это время, в течение которого DNS-записи хранятся в кэше на серверах и клиентских устройствах. Чтобы TXT-запись при настройке защиты Solar Space обновилась быстрее, рекомендуем установить в этом поле значение "300".  Подробнее про TTL и выбор его оптимального значения, читайте здесь.
 
-Нажмите "Добавить".
-
-![dns-a-record-nicru (50%)](https://img.solarspace.pro/docs/dns-a-record-nicru.jpg "добавление dns-a-записи")
-
-Нажмите "Выгрузить зону".
+— Нажмите "Добавить" и следом, - "Выгрузить зону" в верхней части страницы.
 
 ![aproove-dns-a-record-nicru (95%)](https://img.solarspace.pro/docs/aproove-dns-a-record-nicru.jpg "выгрузка dns-зоны")
 
@@ -150,18 +144,14 @@ categoryIcon: https://img.solarspace.pro/docs/eye.svg
 
 ![dns-txt-nicru (50%)](https://img.solarspace.pro/docs/dns-txt-nicru.jpg "поля для заполнения dns-записи")
 
-Добавьте DNS-TXT-запись:
+— Добавьте DNS-TXT-запись:
 
 - В поле "Name" — введите имя домена, для которого добавляете запись.
 - В поле "Type" выберите тип DNS-записи — "TXT".
 - В поле "Text" введите скопированную DNS-TXT-запись из личного кабинета Solar Space.
 - В поле "TTL" введите время в секундах. Это время, в течение которого DNS-записи хранятся в кэше на серверах и клиентских устройствах. Чтобы TXT-запись при настройке защиты Solar Space обновилась быстрее, рекомендуем установить в этом поле значение "300".  Подробнее про TTL и выбор его оптимального значения, читайте здесь.
 
-Нажмите "Добавить"
-
-![done-dns-txt (50%)](https://img.solarspace.pro/docs/done-dns-txt.jpg "заполненная txt-запись")
-
-Нажмите "Выгрузить зону" в верхней части страницы.
+— Нажмите "Добавить" и следом, - "Выгрузить зону" в верхней части страницы.
 
 ![aproove-dns-zone-nicru1 (50%)](https://img.solarspace.pro/docs/aproove-dns-zone-nicru1.jpg "выгрузка dns-зоны")
 
