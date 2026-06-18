@@ -11,7 +11,7 @@ categories:
   - Статистика
   - Аккаунт и профиль
 seoTitle: Документация 
-seoDescription: Документация. Подробное руководство по работе с платформой Solar Space — добавление новых ресурсов, настройка сервисов, оплата тарифов и многое другое
+seoDescription: Документация. Подробное руководство по работе с платформой — добавление новых ресурсов, настройка сервисов, оплата тарифов и многое другое
 seoRobots: true
 verificationYandex: 885e48e947575254
 verificationGoogle: 9iHDCx_h-eSeob91n8nt9DqLhEhBsqjgi9r8YSxCnkI
