@@ -1,9 +1,12 @@
 ---
 id: 444
 seoTitle: FAQ
+seoDescription: Ответы на часто задаваемые вопросы о работе с платформой, настройке защиты и управлении ресурсами
 displayName: FAQ
 order: 56
 published: true
+historyName: FAQ
+historyDescription: Ответы на часто задаваемые вопросы о работе с платформой
 ---
 
 
